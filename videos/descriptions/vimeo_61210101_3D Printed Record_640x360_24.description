@@ -1,0 +1,3 @@
+instructables.com/id/3D-Printed-Record/
+In order to explore the current limits of 3D printing technology, I've created a program for converting digital audio into a 3D model of a record and printed some functional prototypes that play on ordinary record players. The audio on the records is very low resolution, it has a sampling rate of 11kHz (a quarter of typical mp3 audio) and 5-6bit resolution (less than one thousandth of the resolution of typical 16 bit audio), but the result is easily recognizable. Find my Processing code, 3D model downloads, photos, and a detailed discussion of the design process on Instructables.
+Thanks to Ronny Kerr for helping me film this
