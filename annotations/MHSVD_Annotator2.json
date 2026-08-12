@@ -1,0 +1,7028 @@
+[
+ {
+  "data_row": {
+   "video_file": "vimeo_1388121_Lemonade_for_75c_2006_640x480_29.mp4"
+  },
+  "media_attributes": {
+   "height": 480,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 3527
+  },
+  "segments": {
+   "clqk69w8o00033b6m89fwbhjf": [
+    [
+     881,
+     881
+    ]
+   ],
+   "clqk6agie00063b6m9b52prvf": [
+    [
+     1394,
+     1394
+    ]
+   ],
+   "clqk6b1tw00093b6md53chzaq": [
+    [
+     1965,
+     1966
+    ]
+   ],
+   "clqk6bpqa000c3b6m3kqg2niq": [
+    [
+     2710,
+     2710
+    ]
+   ],
+   "clqk6by00000f3b6m79308t7e": [
+    [
+     2846,
+     2846
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqk69w8o00033b6m89fwbhjf": [
+    881
+   ],
+   "clqk6agie00063b6m9b52prvf": [
+    1394
+   ],
+   "clqk6b1tw00093b6md53chzaq": [
+    1965,
+    1966
+   ],
+   "clqk6bpqa000c3b6m3kqg2niq": [
+    2710
+   ],
+   "clqk6by00000f3b6m79308t7e": [
+    2846
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_3908328_Hapless_Chappy_The_Tower_Silent_Comedy_320x240_30.mp4"
+  },
+  "media_attributes": {
+   "height": 240,
+   "width": 320,
+   "mime_type": "video/mp4",
+   "frame_rate": 30,
+   "frame_count": 3793
+  },
+  "segments": {
+   "clqk6fck6000i3b6m9p4jhs86": [
+    [
+     486,
+     486
+    ]
+   ],
+   "clqk6gc7u000l3b6mh7cxanqw": [
+    [
+     1581,
+     1582
+    ]
+   ],
+   "clqk6grl0000o3b6mjglir435": [
+    [
+     1987,
+     1987
+    ]
+   ],
+   "clqk6hk9u000r3b6m5u1zduoj": [
+    [
+     2944,
+     2944
+    ]
+   ],
+   "clqk6hyko000u3b6m5wvi3hly": [
+    [
+     3353,
+     3353
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqk6fck6000i3b6m9p4jhs86": [
+    486
+   ],
+   "clqk6gc7u000l3b6mh7cxanqw": [
+    1581,
+    1582
+   ],
+   "clqk6grl0000o3b6mjglir435": [
+    1987
+   ],
+   "clqk6hk9u000r3b6m5u1zduoj": [
+    2944
+   ],
+   "clqk6hyko000u3b6m5wvi3hly": [
+    3353
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_4007059_Seting_Up_The_D_Focus_Follow_Focus_640x432_29.mp4"
+  },
+  "media_attributes": {
+   "height": 432,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 2757
+  },
+  "segments": {
+   "clqlns92u00033b6mslkr5f51": [
+    [
+     154,
+     154
+    ]
+   ],
+   "clqlnsn1400063b6mpdf1zk9c": [
+    [
+     924,
+     924
+    ]
+   ],
+   "clqlnt2z600093b6my32p6hha": [
+    [
+     1658,
+     1658
+    ]
+   ],
+   "clqlntg3w000b3b6m699fbfw2": [
+    [
+     2347,
+     2347
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqlns92u00033b6mslkr5f51": [
+    154
+   ],
+   "clqlnsn1400063b6mpdf1zk9c": [
+    924
+   ],
+   "clqlnt2z600093b6my32p6hha": [
+    1658
+   ],
+   "clqlntg3w000b3b6m699fbfw2": [
+    2347
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_6554603_MIDWAY_Walk_on_the_Beach_570x320_30.mp4"
+  },
+  "media_attributes": {
+   "height": 320,
+   "width": 570,
+   "mime_type": "video/mp4",
+   "frame_rate": 30,
+   "frame_count": 2586
+  },
+  "segments": {
+   "clqlnvphm000e3b6ms0mfwmtk": [
+    [
+     465,
+     465
+    ]
+   ],
+   "clqlnvw1z000h3b6mdsi7uhxm": [
+    [
+     615,
+     615
+    ]
+   ],
+   "clqlnw809000k3b6mo2m8b165": [
+    [
+     1071,
+     1071
+    ]
+   ],
+   "clqlnwgll000n3b6mfelmjc67": [
+    [
+     1497,
+     1497
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqlnvphm000e3b6ms0mfwmtk": [
+    465
+   ],
+   "clqlnvw1z000h3b6mdsi7uhxm": [
+    615
+   ],
+   "clqlnw809000k3b6mo2m8b165": [
+    1071
+   ],
+   "clqlnwgll000n3b6mfelmjc67": [
+    1497
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_6565434_MIDWAY_Birds_570x320_29.mp4"
+  },
+  "media_attributes": {
+   "height": 320,
+   "width": 570,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 3047
+  },
+  "segments": {
+   "clqn2vb3d00033b6mxrlcn2l7": [
+    [
+     341,
+     341
+    ]
+   ],
+   "clqn2vp4400063b6m19olpx3c": [
+    [
+     749,
+     749
+    ]
+   ],
+   "clqn2w4rn00093b6myp6hio5p": [
+    [
+     1192,
+     1192
+    ]
+   ],
+   "clqn2x5r0000c3b6m7pqvpwsd": [
+    [
+     2451,
+     2451
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqn2vb3d00033b6mxrlcn2l7": [
+    341
+   ],
+   "clqn2vp4400063b6m19olpx3c": [
+    749
+   ],
+   "clqn2w4rn00093b6myp6hio5p": [
+    1192
+   ],
+   "clqn2x5r0000c3b6m7pqvpwsd": [
+    2451
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_11261171_MTV_Arabia_Arabs_Rock_2007_787x576_NA.mp4"
+  },
+  "media_attributes": {
+   "height": 576,
+   "width": 720,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 1309
+  },
+  "segments": {
+   "clqn2xkgr000f3b6mnjwnk6z6": [
+    [
+     102,
+     102
+    ]
+   ],
+   "clqn2xr6d000h3b6mze9mxsd6": [
+    [
+     184,
+     184
+    ]
+   ],
+   "clqn2xz8e000k3b6mftcm7bwa": [
+    [
+     322,
+     322
+    ]
+   ],
+   "clqn2yczy000n3b6mb018sba1": [
+    [
+     626,
+     626
+    ]
+   ],
+   "clqn2yvjg000q3b6m5ygncgfw": [
+    [
+     1093,
+     1093
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqn2xkgr000f3b6mnjwnk6z6": [
+    102
+   ],
+   "clqn2xr6d000h3b6mze9mxsd6": [
+    184
+   ],
+   "clqn2xz8e000k3b6mftcm7bwa": [
+    322
+   ],
+   "clqn2yczy000n3b6mb018sba1": [
+    626
+   ],
+   "clqn2yvjg000q3b6m5ygncgfw": [
+    1093
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_13105771_Getting_Ready_For_A_Windy_NYC_Street_in_The_Summer_640x360_23.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 2200
+  },
+  "segments": {
+   "clqn2zjvs000t3b6mlrn3jwea": [
+    [
+     201,
+     201
+    ]
+   ],
+   "clqn303jd000w3b6mh649vsbh": [
+    [
+     577,
+     577
+    ]
+   ],
+   "clqn30een000z3b6m38pgec7s": [
+    [
+     795,
+     795
+    ]
+   ],
+   "clqn30th100123b6mzvij0rid": [
+    [
+     1100,
+     1100
+    ]
+   ],
+   "clqn31gbl00153b6meuqbb0ow": [
+    [
+     1658,
+     1658
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqn2zjvs000t3b6mlrn3jwea": [
+    201
+   ],
+   "clqn303jd000w3b6mh649vsbh": [
+    577
+   ],
+   "clqn30een000z3b6m38pgec7s": [
+    795
+   ],
+   "clqn30th100123b6mzvij0rid": [
+    1100
+   ],
+   "clqn31gbl00153b6meuqbb0ow": [
+    1658
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_20390916_Filling_a_Klein_bottle_640x360_29.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 4269
+  },
+  "segments": {
+   "clqn36891001m3b6mlvou49rt": [
+    [
+     126,
+     126
+    ]
+   ],
+   "clqn36mpn001p3b6muw99hb8g": [
+    [
+     1673,
+     1673
+    ]
+   ],
+   "clqn37826001s3b6mel8jb5xc": [
+    [
+     2919,
+     2919
+    ]
+   ],
+   "clqn37t5d001v3b6mwfzqoann": [
+    [
+     3489,
+     3489
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqn36891001m3b6mlvou49rt": [
+    126
+   ],
+   "clqn36mpn001p3b6muw99hb8g": [
+    1673
+   ],
+   "clqn37826001s3b6mel8jb5xc": [
+    2919
+   ],
+   "clqn37t5d001v3b6mwfzqoann": [
+    3489
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_20613902_30_seconds_shortfilm_STRAITJACKET_640x360_25.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 629
+  },
+  "segments": {
+   "clqn32fo700183b6mb5j8x8n3": [
+    [
+     184,
+     185
+    ]
+   ],
+   "clqn32ltc001b3b6mpskio5be": [
+    [
+     250,
+     250
+    ]
+   ],
+   "clqn32t5d001d3b6malci1orw": [
+    [
+     322,
+     322
+    ]
+   ],
+   "clqn3318s001g3b6m56dlhlnh": [
+    [
+     447,
+     447
+    ]
+   ],
+   "clqn33a2i001j3b6mipfyvzkh": [
+    [
+     564,
+     564
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqn32fo700183b6mb5j8x8n3": [
+    184,
+    185
+   ],
+   "clqn32ltc001b3b6mpskio5be": [
+    250
+   ],
+   "clqn32t5d001d3b6malci1orw": [
+    322
+   ],
+   "clqn3318s001g3b6m56dlhlnh": [
+    447
+   ],
+   "clqn33a2i001j3b6mipfyvzkh": [
+    564
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_21636546_Transcended_Goa_640x360_23.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 4251
+  },
+  "segments": {
+   "clqn39u9s001y3b6myjgudslz": [
+    [
+     355,
+     355
+    ]
+   ],
+   "clqn3acw000243b6mlwhjzrd9": [
+    [
+     729,
+     730
+    ]
+   ],
+   "clqn3arpp00273b6m7beaqip3": [
+    [
+     1070,
+     1070
+    ]
+   ],
+   "clqn3b4p4002a3b6mk4a4qo0m": [
+    [
+     1323,
+     1323
+    ]
+   ],
+   "clqn3cbek002d3b6m2ddbt0ph": [
+    [
+     3353,
+     3353
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqn39u9s001y3b6myjgudslz": [
+    355
+   ],
+   "clqn3acw000243b6mlwhjzrd9": [
+    729,
+    730
+   ],
+   "clqn3arpp00273b6m7beaqip3": [
+    1070
+   ],
+   "clqn3b4p4002a3b6mk4a4qo0m": [
+    1323
+   ],
+   "clqn3cbek002d3b6m2ddbt0ph": [
+    3353
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_22195033_Bike_Stunt_640x360_25.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 1198
+  },
+  "segments": {
+   "clqn3drhn002g3b6mthkbzqv1": [
+    [
+     185,
+     185
+    ]
+   ],
+   "clqn3e416002j3b6m24zd7gxo": [
+    [
+     434,
+     434
+    ]
+   ],
+   "clqn3em3h002m3b6m0k5doqiq": [
+    [
+     868,
+     868
+    ]
+   ],
+   "clqn3eu5a002p3b6mqx9b6kov": [
+    [
+     1012,
+     1012
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqn3drhn002g3b6mthkbzqv1": [
+    185
+   ],
+   "clqn3e416002j3b6m24zd7gxo": [
+    434
+   ],
+   "clqn3em3h002m3b6m0k5doqiq": [
+    868
+   ],
+   "clqn3eu5a002p3b6mqx9b6kov": [
+    1012
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_24096832_Hamburg_plays_fetch_640x360_23.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 1088
+  },
+  "segments": {
+   "clqogjo7w00033b6mutd6yust": [
+    [
+     41,
+     41
+    ]
+   ],
+   "clqogjzgt00063b6m5lo2buyk": [
+    [
+     238,
+     238
+    ]
+   ],
+   "clqogk7i100093b6mri2kd62o": [
+    [
+     362,
+     362
+    ]
+   ],
+   "clqogkraq000b3b6m3x01b70v": [
+    [
+     848,
+     848
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqogjo7w00033b6mutd6yust": [
+    41
+   ],
+   "clqogjzgt00063b6m5lo2buyk": [
+    238
+   ],
+   "clqogk7i100093b6mri2kd62o": [
+    362
+   ],
+   "clqogkraq000b3b6m3x01b70v": [
+    848
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_25597941_Coin_Collector_640x480_30.mp4"
+  },
+  "media_attributes": {
+   "height": 480,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 30,
+   "frame_count": 2559
+  },
+  "segments": {
+   "clqogn4jq000e3b6m0ef61dzu": [
+    [
+     262,
+     262
+    ]
+   ],
+   "clqognllj000h3b6mqz1pryyn": [
+    [
+     762,
+     762
+    ]
+   ],
+   "clqogo4h8000k3b6midfwpgxw": [
+    [
+     1321,
+     1321
+    ]
+   ],
+   "clqogoli8000n3b6mhmuoys7j": [
+    [
+     1833,
+     1833
+    ]
+   ],
+   "clqogp223000q3b6mq0q3huyu": [
+    [
+     2334,
+     2334
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqogn4jq000e3b6m0ef61dzu": [
+    262
+   ],
+   "clqognllj000h3b6mqz1pryyn": [
+    762
+   ],
+   "clqogo4h8000k3b6midfwpgxw": [
+    1321
+   ],
+   "clqogoli8000n3b6mhmuoys7j": [
+    1833
+   ],
+   "clqogp223000q3b6mq0q3huyu": [
+    2334
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_27001218_Land_of_the_Long_Ears_640x360_25.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 3032
+  },
+  "segments": {
+   "clqpjh69n00033b6ml13pjued": [
+    [
+     168,
+     168
+    ]
+   ],
+   "clqpjhmmc00063b6msbacy9jc": [
+    [
+     561,
+     561
+    ]
+   ],
+   "clqpji3es00093b6menv6v8ye": [
+    [
+     980,
+     980
+    ]
+   ],
+   "clqpjicrq000c3b6m78t7y78g": [
+    [
+     1156,
+     1156
+    ]
+   ],
+   "clqpjj9s4000f3b6mtoomxdgm": [
+    [
+     2061,
+     2061
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqpjh69n00033b6ml13pjued": [
+    168
+   ],
+   "clqpjhmmc00063b6msbacy9jc": [
+    561
+   ],
+   "clqpji3es00093b6menv6v8ye": [
+    980
+   ],
+   "clqpjicrq000c3b6m78t7y78g": [
+    1156
+   ],
+   "clqpjj9s4000f3b6mtoomxdgm": [
+    2061
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_27655264_Bayan_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 30,
+   "frame_count": 3153
+  },
+  "segments": {
+   "clqpjm1vi000i3b6mlwej11d2": [
+    [
+     329,
+     329
+    ]
+   ],
+   "clqpjmfg3000l3b6m4t4dpanm": [
+    [
+     710,
+     710
+    ]
+   ],
+   "clqpjmvap000o3b6m37rc3707": [
+    [
+     1124,
+     1124
+    ]
+   ],
+   "clqpjndj6000r3b6mkqng03iq": [
+    [
+     1668,
+     1668
+    ]
+   ],
+   "clqpjnmqd000u3b6mutdlxk0m": [
+    [
+     1875,
+     1875
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqpjm1vi000i3b6mlwej11d2": [
+    329
+   ],
+   "clqpjmfg3000l3b6m4t4dpanm": [
+    710
+   ],
+   "clqpjmvap000o3b6m37rc3707": [
+    1124
+   ],
+   "clqpjndj6000r3b6mkqng03iq": [
+    1668
+   ],
+   "clqpjnmqd000u3b6mutdlxk0m": [
+    1875
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_27696155_Dumplings_640x360_29.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 4168
+  },
+  "segments": {
+   "clqpjr3sv000x3b6mnkeyq61p": [
+    [
+     238,
+     238
+    ]
+   ],
+   "clqpjrfms00103b6my3mfpxun": [
+    [
+     572,
+     572
+    ]
+   ],
+   "clqpjry3p00133b6mhd9figgu": [
+    [
+     1110,
+     1110
+    ]
+   ],
+   "clqpjsi3600163b6mkl121l7x": [
+    [
+     1696,
+     1696
+    ]
+   ],
+   "clqpjt6jy00193b6m1wcd7635": [
+    [
+     2504,
+     2504
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqpjr3sv000x3b6mnkeyq61p": [
+    238
+   ],
+   "clqpjrfms00103b6my3mfpxun": [
+    572
+   ],
+   "clqpjry3p00133b6mhd9figgu": [
+    1110
+   ],
+   "clqpjsi3600163b6mkl121l7x": [
+    1696
+   ],
+   "clqpjt6jy00193b6m1wcd7635": [
+    2504
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_29257861_Field_Report_29_Canoeing_on_the_Liepnitzsee_640x360_29.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 4917
+  },
+  "segments": {
+   "clqpy36i700033b6m3xx9vday": [
+    [
+     525,
+     525
+    ]
+   ],
+   "clqpy3isw00063b6m983j4e2c": [
+    [
+     880,
+     880
+    ]
+   ],
+   "clqpy3uzr00093b6m8yhdocf0": [
+    [
+     1195,
+     1195
+    ]
+   ],
+   "clqpy54r5000c3b6ml9rvclxl": [
+    [
+     2812,
+     2812
+    ]
+   ],
+   "clqpy6dfx000f3b6mn9wxonro": [
+    [
+     4363,
+     4363
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqpy36i700033b6m3xx9vday": [
+    525
+   ],
+   "clqpy3isw00063b6m983j4e2c": [
+    880
+   ],
+   "clqpy3uzr00093b6m8yhdocf0": [
+    1195
+   ],
+   "clqpy54r5000c3b6ml9rvclxl": [
+    2812
+   ],
+   "clqpy6dfx000f3b6mn9wxonro": [
+    4363
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_38951642_Bonus_Clip_640x360_23.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 1657
+  },
+  "segments": {
+   "clqpy85fb000i3b6mvvywoc7b": [
+    [
+     55,
+     55
+    ]
+   ],
+   "clqpy8h93000l3b6mdjelao68": [
+    [
+     295,
+     295
+    ]
+   ],
+   "clqpy8ze2000o3b6m06p48qw4": [
+    [
+     740,
+     740
+    ]
+   ],
+   "clqpy9lhp000r3b6mbgiuayo1": [
+    [
+     1304,
+     1304
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqpy85fb000i3b6mvvywoc7b": [
+    55
+   ],
+   "clqpy8h93000l3b6mdjelao68": [
+    295
+   ],
+   "clqpy8ze2000o3b6m06p48qw4": [
+    740
+   ],
+   "clqpy9lhp000r3b6mbgiuayo1": [
+    1304
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_39718042_Morning_cats_640x360_25.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 2165
+  },
+  "segments": {
+   "clqpycldo000x3b6m9qxpvt54": [
+    [
+     127,
+     127
+    ]
+   ],
+   "clqpycyp200103b6m3yowz9m9": [
+    [
+     416,
+     416
+    ]
+   ],
+   "clqpydi9r00133b6moodfkdfy": [
+    [
+     902,
+     902
+    ]
+   ],
+   "clqpyeaxc00163b6ma7ra1r0m": [
+    [
+     1686,
+     1686
+    ]
+   ],
+   "clqpyelhw00183b6mlv389lc2": [
+    [
+     1910,
+     1910
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqpycldo000x3b6m9qxpvt54": [
+    127
+   ],
+   "clqpycyp200103b6m3yowz9m9": [
+    416
+   ],
+   "clqpydi9r00133b6moodfkdfy": [
+    902
+   ],
+   "clqpyeaxc00163b6ma7ra1r0m": [
+    1686
+   ],
+   "clqpyelhw00183b6mlv389lc2": [
+    1910
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_45370506_Funny_Westjet_flight_attendant_480x360_29.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 480,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 3943
+  },
+  "segments": {
+   "clqpynjjc001q3b6mxsgy5iei": [
+    [
+     376,
+     376
+    ]
+   ],
+   "clqpynzmv001t3b6msx0fk1js": [
+    [
+     843,
+     843
+    ]
+   ],
+   "clqpyoasy001w3b6mftxp70hf": [
+    [
+     1145,
+     1145
+    ]
+   ],
+   "clqpyp3gg001z3b6mxxbxvk2l": [
+    [
+     2087,
+     2087
+    ]
+   ],
+   "clqpyq2wj00223b6m755bvuj2": [
+    [
+     3261,
+     3261
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqpynjjc001q3b6mxsgy5iei": [
+    376
+   ],
+   "clqpynzmv001t3b6msx0fk1js": [
+    843
+   ],
+   "clqpyoasy001w3b6mftxp70hf": [
+    1145
+   ],
+   "clqpyp3gg001z3b6mxxbxvk2l": [
+    2087
+   ],
+   "clqpyq2wj00223b6m755bvuj2": [
+    3261
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_46107788_But_Puglia_You_640x360_25.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 3988
+  },
+  "segments": {
+   "clqpyu03v00253b6m1qz602y3": [
+    [
+     141,
+     141
+    ]
+   ],
+   "clqpyumgv00283b6mo4jc3f89": [
+    [
+     766,
+     766
+    ]
+   ],
+   "clqpyveek002b3b6mifv8ovrg": [
+    [
+     1528,
+     1528
+    ]
+   ],
+   "clqpyvnvm002e3b6mlpmvp3po": [
+    [
+     1708,
+     1708
+    ]
+   ],
+   "clqpywdgh002g3b6mynpq4jq3": [
+    [
+     2377,
+     2377
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqpyu03v00253b6m1qz602y3": [
+    141
+   ],
+   "clqpyumgv00283b6mo4jc3f89": [
+    766
+   ],
+   "clqpyveek002b3b6mifv8ovrg": [
+    1528
+   ],
+   "clqpyvnvm002e3b6mlpmvp3po": [
+    1708
+   ],
+   "clqpywdgh002g3b6mynpq4jq3": [
+    2377
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_46265980_Awkward_640x360_29.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 3596
+  },
+  "segments": {
+   "clqpyht7x001b3b6mkvwjrr6o": [
+    [
+     453,
+     453
+    ]
+   ],
+   "clqpyi290001e3b6mnwlceacf": [
+    [
+     661,
+     661
+    ]
+   ],
+   "clqpyir3e001h3b6mord6ww6d": [
+    [
+     1488,
+     1488
+    ]
+   ],
+   "clqpyjal2001k3b6mu5avyyk3": [
+    [
+     2091,
+     2091
+    ]
+   ],
+   "clqpyjoyo001n3b6mvpbx1jg8": [
+    [
+     2507,
+     2507
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqpyht7x001b3b6mkvwjrr6o": [
+    453
+   ],
+   "clqpyi290001e3b6mnwlceacf": [
+    661
+   ],
+   "clqpyir3e001h3b6mord6ww6d": [
+    1488
+   ],
+   "clqpyjal2001k3b6mu5avyyk3": [
+    2091
+   ],
+   "clqpyjoyo001n3b6mvpbx1jg8": [
+    2507
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_51887604_LONG_HAIR_640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976,
+   "frame_count": 677
+  },
+  "segments": {
+   "clqpyx9ol002j3b6m07knsm57": [
+    [
+     56,
+     56
+    ]
+   ],
+   "clqpyxidx002m3b6m4gi9kuf3": [
+    [
+     146,
+     147
+    ]
+   ],
+   "clqpyxx9n002p3b6m10iwwu1k": [
+    [
+     435,
+     435
+    ]
+   ],
+   "clqpyy4f6002s3b6mwfyggdpt": [
+    [
+     521,
+     521
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqpyx9ol002j3b6m07knsm57": [
+    56
+   ],
+   "clqpyxidx002m3b6m4gi9kuf3": [
+    146,
+    147
+   ],
+   "clqpyxx9n002p3b6m10iwwu1k": [
+    435
+   ],
+   "clqpyy4f6002s3b6mwfyggdpt": [
+    521
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_52066214_Swurls_the_Silent_Clown_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 4456
+  },
+  "segments": {
+   "clqpz1sdt002v3b6mgl0lfdce": [
+    [
+     362,
+     362
+    ]
+   ],
+   "clqpz25pv002y3b6mv8zgc3rh": [
+    [
+     711,
+     711
+    ]
+   ],
+   "clqpz396z00313b6ms2h3bytd": [
+    [
+     2068,
+     2068
+    ]
+   ],
+   "clqpz42a500343b6m6c0jqw6i": [
+    [
+     3032,
+     3032
+    ]
+   ],
+   "clqpz501o00373b6moupxd5gi": [
+    [
+     4199,
+     4199
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqpz1sdt002v3b6mgl0lfdce": [
+    362
+   ],
+   "clqpz25pv002y3b6mv8zgc3rh": [
+    711
+   ],
+   "clqpz396z00313b6ms2h3bytd": [
+    2068
+   ],
+   "clqpz42a500343b6m6c0jqw6i": [
+    3032
+   ],
+   "clqpz501o00373b6moupxd5gi": [
+    4199
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_53132789_De_Bloem_Joker_656x360_25.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 656,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 751
+  },
+  "segments": {
+   "clqpz5xyp003a3b6m44p2u5ma": [
+    [
+     36,
+     36
+    ]
+   ],
+   "clqpz66zm003d3b6mx8bnk9za": [
+    [
+     203,
+     203
+    ]
+   ],
+   "clqpz6p9s003g3b6mfx74j2qk": [
+    [
+     585,
+     585
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqpz5xyp003a3b6m44p2u5ma": [
+    36
+   ],
+   "clqpz66zm003d3b6mx8bnk9za": [
+    203
+   ],
+   "clqpz6p9s003g3b6mfx74j2qk": [
+    585
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_55846545_How_To_Dye_Bottle_Brush_Trees_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 3831
+  },
+  "segments": {
+   "clqpzaby4003j3b6m4iooh66i": [
+    [
+     214,
+     214
+    ]
+   ],
+   "clqpzbm6d003m3b6m8v6zc6qp": [
+    [
+     1815,
+     1815
+    ]
+   ],
+   "clqpzbw7y003p3b6mmnltcg9m": [
+    [
+     2060,
+     2060
+    ]
+   ],
+   "clqpzca5s003s3b6m2hgpuuql": [
+    [
+     2445,
+     2445
+    ]
+   ],
+   "clqpzcloo003v3b6mqir9j1xy": [
+    [
+     2701,
+     2701
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqpzaby4003j3b6m4iooh66i": [
+    214
+   ],
+   "clqpzbm6d003m3b6m8v6zc6qp": [
+    1815
+   ],
+   "clqpzbw7y003p3b6mmnltcg9m": [
+    2060
+   ],
+   "clqpzca5s003s3b6m2hgpuuql": [
+    2445
+   ],
+   "clqpzcloo003v3b6mqir9j1xy": [
+    2701
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_57725822_Dance_is_Cinedans_oneminute_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 1801
+  },
+  "segments": {
+   "clqpzjztr00033b6m0wqqcx4q": [
+    [
+     94,
+     94
+    ]
+   ],
+   "clqpzk8lo00063b6mkl5jecem": [
+    [
+     318,
+     318
+    ]
+   ],
+   "clqpzkpao00093b6mylz0vlhm": [
+    [
+     804,
+     804
+    ]
+   ],
+   "clqpzlce0000c3b6miamka2f0": [
+    [
+     1535,
+     1535
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqpzjztr00033b6m0wqqcx4q": [
+    94
+   ],
+   "clqpzk8lo00063b6mkl5jecem": [
+    318
+   ],
+   "clqpzkpao00093b6mylz0vlhm": [
+    804
+   ],
+   "clqpzlce0000c3b6miamka2f0": [
+    1535
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_59644378_Valentines_Ball_DIY_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 1647
+  },
+  "segments": {
+   "clqpzmxvo000f3b6m3igd0pmv": [
+    [
+     235,
+     235
+    ]
+   ],
+   "clqpzn2gc000i3b6mqj5b2c8c": [
+    [
+     270,
+     270
+    ]
+   ],
+   "clqpzncdp000l3b6m0pxf5zsp": [
+    [
+     518,
+     518
+    ]
+   ],
+   "clqpzo3iz000o3b6majrnhfui": [
+    [
+     1328,
+     1328
+    ]
+   ],
+   "clqpzodz9000r3b6mvxoakym6": [
+    [
+     1557,
+     1557
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqpzmxvo000f3b6m3igd0pmv": [
+    235
+   ],
+   "clqpzn2gc000i3b6mqj5b2c8c": [
+    270
+   ],
+   "clqpzncdp000l3b6m0pxf5zsp": [
+    518
+   ],
+   "clqpzo3iz000o3b6majrnhfui": [
+    1328
+   ],
+   "clqpzodz9000r3b6mvxoakym6": [
+    1557
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_60967280_The_Lake_450x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 450,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97,
+   "frame_count": 2829
+  },
+  "segments": {
+   "clqpzqpek000u3b6mrhekushx": [
+    [
+     75,
+     75
+    ]
+   ],
+   "clqpzrhc4000x3b6m4iw2z83c": [
+    [
+     1024,
+     1024
+    ]
+   ],
+   "clqpzrnvh00103b6mj046dcth": [
+    [
+     1147,
+     1147
+    ]
+   ],
+   "clqpzsfpd00133b6mhbk7vv06": [
+    [
+     2075,
+     2075
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqpzqpek000u3b6mrhekushx": [
+    75
+   ],
+   "clqpzrhc4000x3b6m4iw2z83c": [
+    1024
+   ],
+   "clqpzrnvh00103b6mj046dcth": [
+    1147
+   ],
+   "clqpzsfpd00133b6mhbk7vv06": [
+    2075
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_61210101_3D_Printed_Record_640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976,
+   "frame_count": 3258
+  },
+  "segments": {
+   "clqq01kvl00163b6mgr3w7ctc": [
+    [
+     253,
+     253
+    ]
+   ],
+   "clqq024yx00193b6md1u97aks": [
+    [
+     775,
+     775
+    ]
+   ],
+   "clqq02s5q001c3b6mq9r03rmc": [
+    [
+     1372,
+     1372
+    ]
+   ],
+   "clqq038zf001f3b6m1t7mxpm2": [
+    [
+     1755,
+     1755
+    ]
+   ],
+   "clqq03vhk001i3b6m7uqoaxx4": [
+    [
+     2325,
+     2325
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqq01kvl00163b6mgr3w7ctc": [
+    253
+   ],
+   "clqq024yx00193b6md1u97aks": [
+    775
+   ],
+   "clqq02s5q001c3b6mq9r03rmc": [
+    1372
+   ],
+   "clqq038zf001f3b6m1t7mxpm2": [
+    1755
+   ],
+   "clqq03vhk001i3b6m7uqoaxx4": [
+    2325
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_61808985_HOUSE_OF_HARVEY_Pets_Make_Everything_Better_640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 1365
+  },
+  "segments": {
+   "clqqptata00033b6mr4za83ib": [
+    [
+     170,
+     170
+    ]
+   ],
+   "clqqptjz100063b6m6870ye47": [
+    [
+     333,
+     333
+    ]
+   ],
+   "clqqpts1f00093b6m15db1evo": [
+    [
+     464,
+     464
+    ]
+   ],
+   "clqqpu0wa000c3b6mkkrnr319": [
+    [
+     618,
+     618
+    ]
+   ],
+   "clqqpuiyl000f3b6mz6hul7cq": [
+    [
+     1057,
+     1057
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqqptata00033b6mr4za83ib": [
+    170
+   ],
+   "clqqptjz100063b6m6870ye47": [
+    333
+   ],
+   "clqqpts1f00093b6m15db1evo": [
+    464
+   ],
+   "clqqpu0wa000c3b6mkkrnr319": [
+    618
+   ],
+   "clqqpuiyl000f3b6mz6hul7cq": [
+    1057
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_61991878_Yellow_Lab_Puppy_Having_Fun_with_an_Orange_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 1108
+  },
+  "segments": {
+   "clqqpve4w000i3b6m8izm1ick": [
+    [
+     147,
+     147
+    ]
+   ],
+   "clqqpvs44000l3b6m15rt4wup": [
+    [
+     789,
+     789
+    ]
+   ],
+   "clqqpvxi5000o3b6mdxrl93cb": [
+    [
+     920,
+     920
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqqpve4w000i3b6m8izm1ick": [
+    147
+   ],
+   "clqqpvs44000l3b6m15rt4wup": [
+    789
+   ],
+   "clqqpvxi5000o3b6mdxrl93cb": [
+    920
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_63342550_GreyMatters_Promo_Video_640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976,
+   "frame_count": 2132
+  },
+  "segments": {
+   "clqqpxeab000r3b6mwfk398ri": [
+    [
+     240,
+     240
+    ]
+   ],
+   "clqqpxn5l000u3b6m3z85p6yh": [
+    [
+     567,
+     567
+    ]
+   ],
+   "clqqpxx8g000x3b6mozsrarer": [
+    [
+     930,
+     930
+    ]
+   ],
+   "clqqpy9fv00103b6mg4wbmpxj": [
+    [
+     1387,
+     1387
+    ]
+   ],
+   "clqqpyh0p00133b6mya1f4csy": [
+    [
+     1621,
+     1621
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqqpxeab000r3b6mwfk398ri": [
+    240
+   ],
+   "clqqpxn5l000u3b6m3z85p6yh": [
+    567
+   ],
+   "clqqpxx8g000x3b6mozsrarer": [
+    930
+   ],
+   "clqqpy9fv00103b6mg4wbmpxj": [
+    1387
+   ],
+   "clqqpyh0p00133b6mya1f4csy": [
+    1621
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_63918357_All_Grain_Brewing_How_Malt_is_Used_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 3515
+  },
+  "segments": {
+   "clqqq04tw00163b6mws0nvacv": [
+    [
+     452,
+     452
+    ]
+   ],
+   "clqqq0apc00193b6mhv560p9x": [
+    [
+     679,
+     679
+    ]
+   ],
+   "clqqq0m14001c3b6mplk1efe0": [
+    [
+     1283,
+     1283
+    ]
+   ],
+   "clqqq0w6y001f3b6mua0rhjub": [
+    [
+     1747,
+     1747
+    ]
+   ],
+   "clqqq16ve001i3b6moemf17w5": [
+    [
+     2235,
+     2235
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqqq04tw00163b6mws0nvacv": [
+    452
+   ],
+   "clqqq0apc00193b6mhv560p9x": [
+    679
+   ],
+   "clqqq0m14001c3b6mplk1efe0": [
+    1283
+   ],
+   "clqqq0w6y001f3b6mua0rhjub": [
+    1747
+   ],
+   "clqqq16ve001i3b6moemf17w5": [
+    2235
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_65962624_Kot_porody_mejn_kun_Dotcom_Yabba_v_1_god_pitomnik_Grey_Claws_640x360_25.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 2145
+  },
+  "segments": {
+   "clqrcv6d7000i3b6mpru0mkzd": [
+    [
+     169,
+     169
+    ]
+   ],
+   "clqrcvg14000l3b6mouj7ii2h": [
+    [
+     609,
+     609
+    ]
+   ],
+   "clqrcvobw000o3b6mlvwm4j14": [
+    [
+     927,
+     927
+    ]
+   ],
+   "clqrcvyq5000r3b6mgibjea54": [
+    [
+     1409,
+     1409
+    ]
+   ],
+   "clqrcw9fx000u3b6m6h6qjjcb": [
+    [
+     1885,
+     1885
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqrcv6d7000i3b6mpru0mkzd": [
+    169
+   ],
+   "clqrcvg14000l3b6mouj7ii2h": [
+    609
+   ],
+   "clqrcvobw000o3b6mlvwm4j14": [
+    927
+   ],
+   "clqrcvyq5000r3b6mgibjea54": [
+    1409
+   ],
+   "clqrcw9fx000u3b6m6h6qjjcb": [
+    1885
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_67324545_Afrika_Burn_2013_Archetypes_640x360_25.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 3073
+  },
+  "segments": {
+   "clqrcstwh00033b6mfeeuig3g": [
+    [
+     592,
+     592
+    ]
+   ],
+   "clqrct01q00063b6muz6fwy4x": [
+    [
+     771,
+     771
+    ]
+   ],
+   "clqrctde900093b6m6zts2cf7": [
+    [
+     1443,
+     1443
+    ]
+   ],
+   "clqrctq10000c3b6mtsf47qvl": [
+    [
+     2090,
+     2090
+    ]
+   ],
+   "clqrcu03f000f3b6m99oa14oz": [
+    [
+     2560,
+     2560
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqrcstwh00033b6mfeeuig3g": [
+    592
+   ],
+   "clqrct01q00063b6muz6fwy4x": [
+    771
+   ],
+   "clqrctde900093b6m6zts2cf7": [
+    1443
+   ],
+   "clqrctq10000c3b6mtsf47qvl": [
+    2090
+   ],
+   "clqrcu03f000f3b6m99oa14oz": [
+    2560
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_68264542_Berry_Smoothie_640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 24,
+   "frame_count": 1581
+  },
+  "segments": {
+   "clqrcxd5t000x3b6mkukgdpka": [
+    [
+     189,
+     189
+    ]
+   ],
+   "clqrcxlh300103b6mfme12lnx": [
+    [
+     477,
+     477
+    ]
+   ],
+   "clqrcxrfe00133b6m6ee36lb6": [
+    [
+     610,
+     610
+    ]
+   ],
+   "clqrcxy7600163b6myz070qfy": [
+    [
+     816,
+     816
+    ]
+   ],
+   "clqrcy9s200193b6m2p92c1tp": [
+    [
+     1346,
+     1346
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqrcxd5t000x3b6mkukgdpka": [
+    189
+   ],
+   "clqrcxlh300103b6mfme12lnx": [
+    477
+   ],
+   "clqrcxrfe00133b6m6ee36lb6": [
+    610
+   ],
+   "clqrcxy7600163b6myz070qfy": [
+    816
+   ],
+   "clqrcy9s200193b6m2p92c1tp": [
+    1346
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_68549087_Insomni_Gone_960x540_NA.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 1977
+  },
+  "segments": {
+   "clqrd2rz500033b6m6ewqbmes": [
+    [
+     148,
+     148
+    ]
+   ],
+   "clqrd2z1d00063b6mqq6dmbed": [
+    [
+     255,
+     255
+    ]
+   ],
+   "clqrd3nen00093b6mbdo7digj": [
+    [
+     935,
+     935
+    ]
+   ],
+   "clqrd47pw000c3b6mgm7mlfck": [
+    [
+     1486,
+     1486
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqrd2rz500033b6m6ewqbmes": [
+    148
+   ],
+   "clqrd2z1d00063b6mqq6dmbed": [
+    255
+   ],
+   "clqrd3nen00093b6mbdo7digj": [
+    935
+   ],
+   "clqrd47pw000c3b6mgm7mlfck": [
+    1486
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_69966191_iDiot_The_Film_642x362_24.mp4"
+  },
+  "media_attributes": {
+   "height": 362,
+   "width": 642,
+   "mime_type": "video/mp4",
+   "frame_rate": 24,
+   "frame_count": 2883
+  },
+  "segments": {
+   "clqrd6m3w000f3b6m4eilua8n": [
+    [
+     402,
+     403
+    ]
+   ],
+   "clqrd6wd2000i3b6m5656yfru": [
+    [
+     642,
+     642
+    ]
+   ],
+   "clqrd782i000l3b6m8n0unjm8": [
+    [
+     1171,
+     1171
+    ]
+   ],
+   "clqrd7mjr000o3b6m4vb1wm0i": [
+    [
+     1735,
+     1735
+    ]
+   ],
+   "clqrd81o5000r3b6m1qj3fl9b": [
+    [
+     2466,
+     2466
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqrd6m3w000f3b6m4eilua8n": [
+    402,
+    403
+   ],
+   "clqrd6wd2000i3b6m5656yfru": [
+    642
+   ],
+   "clqrd782i000l3b6m8n0unjm8": [
+    1171
+   ],
+   "clqrd7mjr000o3b6m4vb1wm0i": [
+    1735
+   ],
+   "clqrd81o5000r3b6m1qj3fl9b": [
+    2466
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_72196080_Duke_Driggs_in_Leashes_Are_For_Bitches_640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 2103
+  },
+  "segments": {
+   "clqrczf08001c3b6mhsgk9bu2": [
+    [
+     277,
+     277
+    ]
+   ],
+   "clqrczl95001f3b6m563atqh8": [
+    [
+     472,
+     472
+    ]
+   ],
+   "clqrczttj001i3b6mutmy16kl": [
+    [
+     855,
+     855
+    ]
+   ],
+   "clqrd0d17001l3b6me2ibk62v": [
+    [
+     1505,
+     1505
+    ]
+   ],
+   "clqrd0n0b001o3b6m0ddzbq6v": [
+    [
+     1873,
+     1873
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqrczf08001c3b6mhsgk9bu2": [
+    277
+   ],
+   "clqrczl95001f3b6m563atqh8": [
+    472
+   ],
+   "clqrczttj001i3b6mutmy16kl": [
+    855
+   ],
+   "clqrd0d17001l3b6me2ibk62v": [
+    1505
+   ],
+   "clqrd0n0b001o3b6m0ddzbq6v": [
+    1873
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_73675285_DIY_kindle_scanner_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97,
+   "frame_count": 2925
+  },
+  "segments": {
+   "clqrd9fan000u3b6mm94yk4ir": [
+    [
+     377,
+     377
+    ]
+   ],
+   "clqrd9sg0000x3b6mlviqsch9": [
+    [
+     1131,
+     1131
+    ]
+   ],
+   "clqrda68p00103b6m4x2x4wgv": [
+    [
+     1986,
+     1986
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqrd9fan000u3b6mm94yk4ir": [
+    377
+   ],
+   "clqrd9sg0000x3b6mlviqsch9": [
+    1131
+   ],
+   "clqrda68p00103b6m4x2x4wgv": [
+    1986
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_75494502_How_to_DIY_cable_railing_with_wood_posts_1024x576_NA.mp4"
+  },
+  "media_attributes": {
+   "height": 576,
+   "width": 1024,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 3057
+  },
+  "segments": {
+   "clqrdeylm00133b6mdliohfnq": [
+    [
+     109,
+     109
+    ]
+   ],
+   "clqrdf8al00163b6mnx7f5hpr": [
+    [
+     522,
+     522
+    ]
+   ],
+   "clqrdfkd700193b6mu8pbnkmk": [
+    [
+     1063,
+     1063
+    ]
+   ],
+   "clqrdfwkf001c3b6mjil86jsf": [
+    [
+     1590,
+     1590
+    ]
+   ],
+   "clqrdgbv7001f3b6malnm6wva": [
+    [
+     2240,
+     2240
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqrdeylm00133b6mdliohfnq": [
+    109
+   ],
+   "clqrdf8al00163b6mnx7f5hpr": [
+    522
+   ],
+   "clqrdfkd700193b6mu8pbnkmk": [
+    1063
+   ],
+   "clqrdfwkf001c3b6mjil86jsf": [
+    1590
+   ],
+   "clqrdgbv7001f3b6malnm6wva": [
+    2240
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_77403805_One_Minute_Wonder_43_Erykah_Badu_640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 1442
+  },
+  "segments": {
+   "clqrdh8mr001i3b6mp9mgd5u5": [
+    [
+     228,
+     228
+    ]
+   ],
+   "clqrdhlj1001l3b6mhm8anh9h": [
+    [
+     709,
+     709
+    ]
+   ],
+   "clqrdhtos001o3b6m84rnxrr0": [
+    [
+     929,
+     929
+    ]
+   ],
+   "clqrdi3up001r3b6mnmudicd7": [
+    [
+     1216,
+     1216
+    ]
+   ],
+   "clqrdi94h001u3b6mhoncy47l": [
+    [
+     1313,
+     1313
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqrdh8mr001i3b6mp9mgd5u5": [
+    228
+   ],
+   "clqrdhlj1001l3b6mhm8anh9h": [
+    709
+   ],
+   "clqrdhtos001o3b6m84rnxrr0": [
+    929
+   ],
+   "clqrdi3up001r3b6mnmudicd7": [
+    1216
+   ],
+   "clqrdi94h001u3b6mhoncy47l": [
+    1313
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_77569502_Aggressive_Silvers1_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 2745
+  },
+  "segments": {
+   "clqrdjjvf001x3b6mlyjniwio": [
+    [
+     342,
+     342
+    ]
+   ],
+   "clqrdjvrx00203b6m4ntydg4k": [
+    [
+     980,
+     980
+    ]
+   ],
+   "clqrdka4r00233b6mplwhnqfh": [
+    [
+     1781,
+     1781
+    ]
+   ],
+   "clqrdkknj00263b6m2ztvilal": [
+    [
+     2219,
+     2219
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqrdjjvf001x3b6mlyjniwio": [
+    342
+   ],
+   "clqrdjvrx00203b6m4ntydg4k": [
+    980
+   ],
+   "clqrdka4r00233b6mplwhnqfh": [
+    1781
+   ],
+   "clqrdkknj00263b6m2ztvilal": [
+    2219
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_82305861_Kitana_Turnbull_Crashes_a_Swedish_Lutefisk_Dinner_640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 2044
+  },
+  "segments": {
+   "clqrdm00b00293b6mrpa4vmnb": [
+    [
+     56,
+     56
+    ]
+   ],
+   "clqrdmbgj002c3b6m33q1rcek": [
+    [
+     549,
+     549
+    ]
+   ],
+   "clqrdmg03002f3b6m6n42dlxd": [
+    [
+     621,
+     621
+    ]
+   ],
+   "clqrdmn7z002i3b6ml8bkdivz": [
+    [
+     834,
+     834
+    ]
+   ],
+   "clqrdn3t7002l3b6mmezs907f": [
+    [
+     1585,
+     1585
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqrdm00b00293b6mrpa4vmnb": [
+    56
+   ],
+   "clqrdmbgj002c3b6m33q1rcek": [
+    549
+   ],
+   "clqrdmg03002f3b6m6n42dlxd": [
+    621
+   ],
+   "clqrdmn7z002i3b6ml8bkdivz": [
+    834
+   ],
+   "clqrdn3t7002l3b6mmezs907f": [
+    1585
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_83922842_MyMauritius_the_Movie_640x360_25.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 4607
+  },
+  "segments": {
+   "clqrdpo8q002o3b6mgnjxcmcg": [
+    [
+     517,
+     517
+    ]
+   ],
+   "clqrdq1iv002r3b6m6t0nuoxt": [
+    [
+     1124,
+     1124
+    ]
+   ],
+   "clqrdqg8c002u3b6m2uech3b1": [
+    [
+     1763,
+     1763
+    ]
+   ],
+   "clqrdqnkt002x3b6mkfi6lvug": [
+    [
+     1978,
+     1978
+    ]
+   ],
+   "clqrdr7e900303b6miq3sc1f7": [
+    [
+     2964,
+     2964
+    ]
+   ],
+   "clqrdreug00333b6mh02l5s8r": [
+    [
+     3076,
+     3076
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqrdpo8q002o3b6mgnjxcmcg": [
+    517
+   ],
+   "clqrdq1iv002r3b6m6t0nuoxt": [
+    1124
+   ],
+   "clqrdqg8c002u3b6m2uech3b1": [
+    1763
+   ],
+   "clqrdqnkt002x3b6mkfi6lvug": [
+    1978
+   ],
+   "clqrdr7e900303b6miq3sc1f7": [
+    2964
+   ],
+   "clqrdreug00333b6mh02l5s8r": [
+    3076
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_87147134_Hokitika_Dance_Weekend_640x350_25.mp4"
+  },
+  "media_attributes": {
+   "height": 350,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 1406
+  },
+  "segments": {
+   "clqrdt9fr00033b6mrp6x1pjo": [
+    [
+     63,
+     63
+    ]
+   ],
+   "clqrdth1n00063b6mihh9bu4v": [
+    [
+     176,
+     176
+    ]
+   ],
+   "clqrdtski00093b6mphlivxzb": [
+    [
+     296,
+     296
+    ]
+   ],
+   "clqrdtzys000c3b6m5sv2nnzr": [
+    [
+     394,
+     394
+    ]
+   ],
+   "clqrdupog000f3b6m9vmt3qea": [
+    [
+     1015,
+     1015
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqrdt9fr00033b6mrp6x1pjo": [
+    63
+   ],
+   "clqrdth1n00063b6mihh9bu4v": [
+    176
+   ],
+   "clqrdtski00093b6mphlivxzb": [
+    296
+   ],
+   "clqrdtzys000c3b6m5sv2nnzr": [
+    394
+   ],
+   "clqrdupog000f3b6m9vmt3qea": [
+    1015
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_89037708_Vote_for_Western_Market_in_the_Metro_Times_Best_Of_Detroit_Contest_for_Best_Wine_Selection_and_Best_Indie_Grocery_Store_640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 988
+  },
+  "segments": {
+   "clqrdvn13000i3b6mbnrsxm87": [
+    [
+     75,
+     75
+    ]
+   ],
+   "clqrdvwri000l3b6mrvpldzjt": [
+    [
+     386,
+     386
+    ]
+   ],
+   "clqrdw2zk000o3b6mxrtybx7f": [
+    [
+     484,
+     484
+    ]
+   ],
+   "clqrdw9dg000r3b6mru9pggmn": [
+    [
+     630,
+     630
+    ]
+   ],
+   "clqrdwiyc000u3b6maml4lqaq": [
+    [
+     903,
+     903
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqrdvn13000i3b6mbnrsxm87": [
+    75
+   ],
+   "clqrdvwri000l3b6mrvpldzjt": [
+    386
+   ],
+   "clqrdw2zk000o3b6mxrtybx7f": [
+    484
+   ],
+   "clqrdw9dg000r3b6mru9pggmn": [
+    630
+   ],
+   "clqrdwiyc000u3b6maml4lqaq": [
+    903
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_90623227_Dr_Krassowskis_Fantastic_Teleportation_Device_and_The_Schmuck_Who_Found_It._640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 2294
+  },
+  "segments": {
+   "clqrdxul4000x3b6m2rhh8787": [
+    [
+     172,
+     172
+    ]
+   ],
+   "clqrdy2ck00103b6mcyduevng": [
+    [
+     380,
+     380
+    ]
+   ],
+   "clqrdybnp00133b6m9xp78sv5": [
+    [
+     750,
+     750
+    ]
+   ],
+   "clqrdyo1300163b6mhugn7wdh": [
+    [
+     1276,
+     1276
+    ]
+   ],
+   "clqrdz31r00193b6mv73ivy01": [
+    [
+     1943,
+     1943
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqrdxul4000x3b6m2rhh8787": [
+    172
+   ],
+   "clqrdy2ck00103b6mcyduevng": [
+    380
+   ],
+   "clqrdybnp00133b6m9xp78sv5": [
+    750
+   ],
+   "clqrdyo1300163b6mhugn7wdh": [
+    1276
+   ],
+   "clqrdz31r00193b6mv73ivy01": [
+    1943
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_96615251_Parade_Dancing_Shadow_Sculptures_640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 1928
+  },
+  "segments": {
+   "clqre081f001c3b6mg6zlh8a2": [
+    [
+     88,
+     88
+    ]
+   ],
+   "clqre0hnp001f3b6mt3c9dpx4": [
+    [
+     446,
+     446
+    ]
+   ],
+   "clqre0vxb001i3b6m6htith14": [
+    [
+     1015,
+     1015
+    ]
+   ],
+   "clqre13fi001l3b6m31hzwofj": [
+    [
+     1235,
+     1235
+    ]
+   ],
+   "clqre1dao001o3b6mjo8wnz2x": [
+    [
+     1581,
+     1581
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqre081f001c3b6mg6zlh8a2": [
+    88
+   ],
+   "clqre0hnp001f3b6mt3c9dpx4": [
+    446
+   ],
+   "clqre0vxb001i3b6m6htith14": [
+    1015
+   ],
+   "clqre13fi001l3b6m31hzwofj": [
+    1235
+   ],
+   "clqre1dao001o3b6mjo8wnz2x": [
+    1581
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_115483513_Funny_Dog_Video_320x240_30.mp4"
+  },
+  "media_attributes": {
+   "height": 240,
+   "width": 320,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 1314
+  },
+  "segments": {
+   "clqsthdna00033b6m6a4m2mne": [
+    [
+     384,
+     384
+    ]
+   ],
+   "clqsthlzt00063b6mjvodrk24": [
+    [
+     764,
+     764
+    ]
+   ],
+   "clqsthroy00093b6mireytr4v": [
+    [
+     948,
+     948
+    ]
+   ],
+   "clqsthyxa000c3b6mvesfvxnu": [
+    [
+     1246,
+     1246
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqsthdna00033b6m6a4m2mne": [
+    384
+   ],
+   "clqsthlzt00063b6mjvodrk24": [
+    764
+   ],
+   "clqsthroy00093b6mireytr4v": [
+    948
+   ],
+   "clqsthyxa000c3b6mvesfvxnu": [
+    1246
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_125184774_Hats_Off_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 30,
+   "frame_count": 745
+  },
+  "segments": {
+   "clqstij6f000f3b6mr3yj149v": [
+    [
+     35,
+     35
+    ]
+   ],
+   "clqstir47000i3b6ml7lpcpqr": [
+    [
+     269,
+     269
+    ]
+   ],
+   "clqstivts000l3b6mik4exlw6": [
+    [
+     372,
+     372
+    ]
+   ],
+   "clqstj2p4000o3b6m2gomxls1": [
+    [
+     591,
+     591
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqstij6f000f3b6mr3yj149v": [
+    35
+   ],
+   "clqstir47000i3b6ml7lpcpqr": [
+    269
+   ],
+   "clqstivts000l3b6mik4exlw6": [
+    372
+   ],
+   "clqstj2p4000o3b6m2gomxls1": [
+    591
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_128187513_RED_RUN_The_Abandoned_Ski_Village_640x360_25.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 3213
+  },
+  "segments": {
+   "clqstkvmy000r3b6mrtebnpls": [
+    [
+     358,
+     358
+    ]
+   ],
+   "clqstl73p000u3b6m2hq5f7vr": [
+    [
+     722,
+     722
+    ]
+   ],
+   "clqstli28000x3b6mwnzh98wj": [
+    [
+     1246,
+     1246
+    ]
+   ],
+   "clqstm0sp00103b6mbripigfn": [
+    [
+     2281,
+     2281
+    ]
+   ],
+   "clqstmfe800133b6mr2rr4fgh": [
+    [
+     2926,
+     2926
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqstkvmy000r3b6mrtebnpls": [
+    358
+   ],
+   "clqstl73p000u3b6m2hq5f7vr": [
+    722
+   ],
+   "clqstli28000x3b6mwnzh98wj": [
+    1246
+   ],
+   "clqstm0sp00103b6mbripigfn": [
+    2281
+   ],
+   "clqstmfe800133b6mr2rr4fgh": [
+    2926
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_128961450_Secret_Drawer_compartment_in_a_custom_rustic_coffee_table_for_a_great_client_in_California_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 2412
+  },
+  "segments": {
+   "clqstr393001i3b6mp88vc5r6": [
+    [
+     293,
+     293
+    ]
+   ],
+   "clqstrb8b001l3b6mthnq9631": [
+    [
+     535,
+     535
+    ]
+   ],
+   "clqstrlj4001o3b6mvgbdlobu": [
+    [
+     1053,
+     1053
+    ]
+   ],
+   "clqstrsdv001r3b6mi03p21eg": [
+    [
+     1296,
+     1296
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqstr393001i3b6mp88vc5r6": [
+    293
+   ],
+   "clqstrb8b001l3b6mthnq9631": [
+    535
+   ],
+   "clqstrlj4001o3b6mvgbdlobu": [
+    1053
+   ],
+   "clqstrsdv001r3b6mi03p21eg": [
+    1296
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_151044126_NYC_Ballet_Intensive_Sizzle_640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 864
+  },
+  "segments": {
+   "clqstsrr5001u3b6mfdwi3ed0": [
+    [
+     207,
+     207
+    ]
+   ],
+   "clqstsws1001x3b6mgcmb1jf9": [
+    [
+     261,
+     261
+    ]
+   ],
+   "clqstt3pg00203b6mkhb386w7": [
+    [
+     472,
+     472
+    ]
+   ],
+   "clqstt9yz00233b6mohr9y1nv": [
+    [
+     617,
+     617
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqstsrr5001u3b6mfdwi3ed0": [
+    207
+   ],
+   "clqstsws1001x3b6mgcmb1jf9": [
+    261
+   ],
+   "clqstt3pg00203b6mkhb386w7": [
+    472
+   ],
+   "clqstt9yz00233b6mohr9y1nv": [
+    617
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_154085751_FLOOD_SURFING_960x540_30.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 4393
+  },
+  "segments": {
+   "clqstoac000163b6me15w57lg": [
+    [
+     343,
+     343
+    ]
+   ],
+   "clqstojxl00193b6m2afopvyc": [
+    [
+     793,
+     793
+    ]
+   ],
+   "clqstp7in001c3b6mn4j539gd": [
+    [
+     2425,
+     2425
+    ]
+   ],
+   "clqstpma4001f3b6mhjq6tahg": [
+    [
+     3336,
+     3336
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqstoac000163b6me15w57lg": [
+    343
+   ],
+   "clqstojxl00193b6m2afopvyc": [
+    793
+   ],
+   "clqstp7in001c3b6mn4j539gd": [
+    2425
+   ],
+   "clqstpma4001f3b6mhjq6tahg": [
+    3336
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_155063627_The_Media_Collaboratory_Video_Editing_Services_Gimbal_in_Downtown_Lexington_960x540_30.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 1802
+  },
+  "segments": {
+   "clqstuexr00263b6mpmjkfmy6": [
+    [
+     261,
+     261
+    ]
+   ],
+   "clqstuur400293b6mr3xtzr0d": [
+    [
+     570,
+     570
+    ]
+   ],
+   "clqstv6gp002c3b6mwzzgbuq4": [
+    [
+     1239,
+     1239
+    ]
+   ],
+   "clqstvgc1002f3b6m7kt5uuob": [
+    [
+     1762,
+     1762
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqstuexr00263b6mpmjkfmy6": [
+    261
+   ],
+   "clqstuur400293b6mr3xtzr0d": [
+    570
+   ],
+   "clqstv6gp002c3b6mwzzgbuq4": [
+    1239
+   ],
+   "clqstvgc1002f3b6m7kt5uuob": [
+    1762
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_156717391_The_Secret_Life_of_Mountain_Lions_Preview_960x540_24.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 1712
+  },
+  "segments": {
+   "clqstwqbn002i3b6mm77u69b8": [
+    [
+     451,
+     452
+    ]
+   ],
+   "clqstwyac002l3b6ml3rztsqm": [
+    [
+     733,
+     733
+    ]
+   ],
+   "clqstxapm002o3b6mu9bpx9tx": [
+    [
+     969,
+     969
+    ]
+   ],
+   "clqstxk4e002r3b6mhw0lvec8": [
+    [
+     1357,
+     1357
+    ]
+   ],
+   "clqstxq2m002u3b6m2g66i4jq": [
+    [
+     1501,
+     1501
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqstwqbn002i3b6mm77u69b8": [
+    451,
+    452
+   ],
+   "clqstwyac002l3b6ml3rztsqm": [
+    733
+   ],
+   "clqstxapm002o3b6mu9bpx9tx": [
+    969
+   ],
+   "clqstxk4e002r3b6mhw0lvec8": [
+    1357
+   ],
+   "clqstxq2m002u3b6m2g66i4jq": [
+    1501
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_162582604_Navy_Pier_Celebrates_Mexico_with_Traditional_Folk_Music_960x540_30.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 3311
+  },
+  "segments": {
+   "clqstzdec002x3b6m4vynjsjm": [
+    [
+     476,
+     476
+    ]
+   ],
+   "clqstzkh000303b6mt1kx4jeb": [
+    [
+     795,
+     795
+    ]
+   ],
+   "clqstzrbu00333b6mhosymre5": [
+    [
+     1077,
+     1077
+    ]
+   ],
+   "clqsu085q00363b6mrwfcpp7z": [
+    [
+     2125,
+     2125
+    ]
+   ],
+   "clqsu0knd00393b6miz9mjke0": [
+    [
+     2809,
+     2809
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqstzdec002x3b6m4vynjsjm": [
+    476
+   ],
+   "clqstzkh000303b6mt1kx4jeb": [
+    795
+   ],
+   "clqstzrbu00333b6mhosymre5": [
+    1077
+   ],
+   "clqsu085q00363b6mrwfcpp7z": [
+    2125
+   ],
+   "clqsu0knd00393b6miz9mjke0": [
+    2809
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_162756419_Arbalet_project_Assembly_timelapse_of_an_LED_table_in_a_fablab_960x540_24.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 24,
+   "frame_count": 1512
+  },
+  "segments": {
+   "clqsu1nj9003c3b6mf28po6ge": [
+    [
+     158,
+     158
+    ]
+   ],
+   "clqsu1xwm003f3b6mn9nnndrd": [
+    [
+     611,
+     611
+    ]
+   ],
+   "clqsu27df003i3b6mp8r34e32": [
+    [
+     965,
+     965
+    ]
+   ],
+   "clqsu2eji003l3b6mkqev6ei6": [
+    [
+     1158,
+     1158
+    ]
+   ],
+   "clqsu2m71003o3b6mc7mnekvj": [
+    [
+     1398,
+     1398
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqsu1nj9003c3b6mf28po6ge": [
+    158
+   ],
+   "clqsu1xwm003f3b6mn9nnndrd": [
+    611
+   ],
+   "clqsu27df003i3b6mp8r34e32": [
+    965
+   ],
+   "clqsu2eji003l3b6mkqev6ei6": [
+    1158
+   ],
+   "clqsu2m71003o3b6mc7mnekvj": [
+    1398
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_164340153_DIY_Vietnamese_Iced_Coffee_960x540_30.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 3558
+  },
+  "segments": {
+   "clqsu2vlx003r3b6mhodx0vxp": [
+    [
+     308,
+     308
+    ]
+   ],
+   "clqsu35ii003u3b6mb4gxfnmu": [
+    [
+     731,
+     732
+    ]
+   ],
+   "clqsu3ddz003x3b6m2t1pt64l": [
+    [
+     1114,
+     1114
+    ]
+   ],
+   "clqsu3m7200403b6mhs41mkog": [
+    [
+     1514,
+     1515
+    ]
+   ],
+   "clqsu430d00433b6mhav4ivdy": [
+    [
+     2626,
+     2626
+    ]
+   ],
+   "clqsu4cin00463b6mbx2vvfmq": [
+    [
+     3120,
+     3120
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqsu2vlx003r3b6mhodx0vxp": [
+    308
+   ],
+   "clqsu35ii003u3b6mb4gxfnmu": [
+    731,
+    732
+   ],
+   "clqsu3ddz003x3b6m2t1pt64l": [
+    1114
+   ],
+   "clqsu3m7200403b6mhs41mkog": [
+    1514,
+    1515
+   ],
+   "clqsu430d00433b6mhav4ivdy": [
+    2626
+   ],
+   "clqsu4cin00463b6mbx2vvfmq": [
+    3120
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_165492039_The_Feral_Feline_Brew_Crew_960x540_30.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 2765
+  },
+  "segments": {
+   "clqsu5iz100493b6mdr813lzk": [
+    [
+     71,
+     71
+    ]
+   ],
+   "clqsu5omb004c3b6masjs24t2": [
+    [
+     213,
+     213
+    ]
+   ],
+   "clqsu5y1j004f3b6mn6bg70ey": [
+    [
+     702,
+     702
+    ]
+   ],
+   "clqsu65zf004i3b6mdx4wn4xa": [
+    [
+     991,
+     991
+    ]
+   ],
+   "clqsu6s4z004l3b6mnl5r77s1": [
+    [
+     2379,
+     2379
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqsu5iz100493b6mdr813lzk": [
+    71
+   ],
+   "clqsu5omb004c3b6masjs24t2": [
+    213
+   ],
+   "clqsu5y1j004f3b6mn6bg70ey": [
+    702
+   ],
+   "clqsu65zf004i3b6mdx4wn4xa": [
+    991
+   ],
+   "clqsu6s4z004l3b6mnl5r77s1": [
+    2379
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_174420923_How_to_Make_Pasta_Carbonara_960x540_30.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 30,
+   "frame_count": 3025
+  },
+  "segments": {
+   "clqsu85wj004o3b6mfu2tnl33": [
+    [
+     161,
+     161
+    ]
+   ],
+   "clqsu8dmx004r3b6muyj76nv5": [
+    [
+     530,
+     530
+    ]
+   ],
+   "clqsu8p6r004u3b6mzdx0tvur": [
+    [
+     907,
+     907
+    ]
+   ],
+   "clqsu8vdy004x3b6miijpnnwg": [
+    [
+     1129,
+     1129
+    ]
+   ],
+   "clqsu95sb00503b6m7yab67pp": [
+    [
+     1682,
+     1682
+    ]
+   ],
+   "clqsu9e0800533b6mf04pbu4r": [
+    [
+     1968,
+     1968
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqsu85wj004o3b6mfu2tnl33": [
+    161
+   ],
+   "clqsu8dmx004r3b6muyj76nv5": [
+    530
+   ],
+   "clqsu8p6r004u3b6mzdx0tvur": [
+    907
+   ],
+   "clqsu8vdy004x3b6miijpnnwg": [
+    1129
+   ],
+   "clqsu95sb00503b6m7yab67pp": [
+    1682
+   ],
+   "clqsu9e0800533b6mf04pbu4r": [
+    1968
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_177296675_DIY_Bumble_Bee_Balloons_960x540_24.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 24,
+   "frame_count": 1720
+  },
+  "segments": {
+   "clqsu9s3d00563b6msiodd260": [
+    [
+     386,
+     386
+    ]
+   ],
+   "clqsua01200593b6m8ku9syvx": [
+    [
+     484,
+     484
+    ]
+   ],
+   "clqsua6ob005c3b6m7pm9smy8": [
+    [
+     621,
+     621
+    ]
+   ],
+   "clqsuafi2005f3b6m5gylrxmw": [
+    [
+     841,
+     841
+    ]
+   ],
+   "clqsuanw8005i3b6mzty74983": [
+    [
+     1084,
+     1084
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqsu9s3d00563b6msiodd260": [
+    386
+   ],
+   "clqsua01200593b6m8ku9syvx": [
+    484
+   ],
+   "clqsua6ob005c3b6m7pm9smy8": [
+    621
+   ],
+   "clqsuafi2005f3b6m5gylrxmw": [
+    841
+   ],
+   "clqsuanw8005i3b6mzty74983": [
+    1084
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_182665051_Patrika_Darbo_Me_In_30_Seconds_Prime_Time_Emmy_Awards_2016_960x540_23.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 793
+  },
+  "segments": {
+   "clqsubxyy00033b6mau8b7p0z": [
+    [
+     63,
+     64
+    ]
+   ],
+   "clqsuc4c000053b6mr1be6ita": [
+    [
+     214,
+     214
+    ]
+   ],
+   "clqsuc9u500083b6m4vcgewrr": [
+    [
+     323,
+     323
+    ]
+   ],
+   "clqsucglp000b3b6mqqryd2ca": [
+    [
+     474,
+     474
+    ]
+   ],
+   "clqsucpmc000e3b6m2cy4d9lx": [
+    [
+     764,
+     764
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqsubxyy00033b6mau8b7p0z": [
+    63,
+    64
+   ],
+   "clqsuc4c000053b6mr1be6ita": [
+    214
+   ],
+   "clqsuc9u500083b6m4vcgewrr": [
+    323
+   ],
+   "clqsucglp000b3b6mqqryd2ca": [
+    474
+   ],
+   "clqsucpmc000e3b6m2cy4d9lx": [
+    764
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_190075268_Don_Gnu_A_Snowballs_Chance_In_Hell_Bora_Bora_15_17_21_25_NOV_2016_960x540_25.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 1662
+  },
+  "segments": {
+   "clqsuf7lx000h3b6mn14ull7b": [
+    [
+     244,
+     245
+    ]
+   ],
+   "clqsufeej000k3b6m783f4gk8": [
+    [
+     457,
+     457
+    ]
+   ],
+   "clqsufo6b000n3b6meckhe7v7": [
+    [
+     864,
+     864
+    ]
+   ],
+   "clqsug55s000q3b6m25aw36if": [
+    [
+     1145,
+     1145
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqsuf7lx000h3b6mn14ull7b": [
+    244,
+    245
+   ],
+   "clqsufeej000k3b6m783f4gk8": [
+    457
+   ],
+   "clqsufo6b000n3b6meckhe7v7": [
+    864
+   ],
+   "clqsug55s000q3b6m25aw36if": [
+    1145
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_192620647_221116_Whale_Shark_HM_960x540_29.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 2494
+  },
+  "segments": {
+   "clqsuhif4000t3b6mpb2cypdh": [
+    [
+     193,
+     194
+    ]
+   ],
+   "clqsuhrk6000w3b6m4k4pyxi7": [
+    [
+     538,
+     538
+    ]
+   ],
+   "clqsuhzrh000z3b6ml353mu6m": [
+    [
+     911,
+     911
+    ]
+   ],
+   "clqsuibqu00123b6mdvgm4ey4": [
+    [
+     1554,
+     1554
+    ]
+   ],
+   "clqsuiniw00153b6mxowf192f": [
+    [
+     2224,
+     2224
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqsuhif4000t3b6mpb2cypdh": [
+    193,
+    194
+   ],
+   "clqsuhrk6000w3b6m4k4pyxi7": [
+    538
+   ],
+   "clqsuhzrh000z3b6ml353mu6m": [
+    911
+   ],
+   "clqsuibqu00123b6mdvgm4ey4": [
+    1554
+   ],
+   "clqsuiniw00153b6mxowf192f": [
+    2224
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_214331310_Finding_Flamenco_at_75_960x540_29.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 4152
+  },
+  "segments": {
+   "clqsukdkv00183b6m2wspzqb2": [
+    [
+     228,
+     228
+    ]
+   ],
+   "clqsuknqc001b3b6m9vp6vdew": [
+    [
+     682,
+     682
+    ]
+   ],
+   "clqsukz0c001e3b6mnongpze9": [
+    [
+     1238,
+     1238
+    ]
+   ],
+   "clqsulffr001h3b6mkwd7enl6": [
+    [
+     2223,
+     2223
+    ]
+   ],
+   "clqsulr4z001k3b6mo0no8kjq": [
+    [
+     2850,
+     2850
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqsukdkv00183b6m2wspzqb2": [
+    228
+   ],
+   "clqsuknqc001b3b6m9vp6vdew": [
+    682
+   ],
+   "clqsukz0c001e3b6mnongpze9": [
+    1238
+   ],
+   "clqsulffr001h3b6mkwd7enl6": [
+    2223
+   ],
+   "clqsulr4z001k3b6mo0no8kjq": [
+    2850
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_214354668_A_brawl_in_Florida_960x540_29.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 3712
+  },
+  "segments": {
+   "clqsumgc0001n3b6mpi5cushp": [
+    [
+     484,
+     484
+    ]
+   ],
+   "clqsumny7001q3b6mz0a15e7e": [
+    [
+     775,
+     775
+    ]
+   ],
+   "clqsun27z001t3b6m3zdhrtwv": [
+    [
+     1601,
+     1601
+    ]
+   ],
+   "clqsunfqw001w3b6m2gwfciky": [
+    [
+     2298,
+     2298
+    ]
+   ],
+   "clqsunvbo001z3b6mq7bq7pe2": [
+    [
+     3183,
+     3183
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqsumgc0001n3b6mpi5cushp": [
+    484
+   ],
+   "clqsumny7001q3b6mz0a15e7e": [
+    775
+   ],
+   "clqsun27z001t3b6m3zdhrtwv": [
+    1601
+   ],
+   "clqsunfqw001w3b6m2gwfciky": [
+    2298
+   ],
+   "clqsunvbo001z3b6mq7bq7pe2": [
+    3183
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_216050587_SleekEZ_Demo_960x540_23.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 1397
+  },
+  "segments": {
+   "clqsuoqx200223b6m1mrootux": [
+    [
+     108,
+     108
+    ]
+   ],
+   "clqsuow9200253b6m71k9x20b": [
+    [
+     211,
+     211
+    ]
+   ],
+   "clqsup5lb00283b6mronxxoy7": [
+    [
+     586,
+     586
+    ]
+   ],
+   "clqsuphcd002b3b6mbna5wwo4": [
+    [
+     1097,
+     1097
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqsuoqx200223b6m1mrootux": [
+    108
+   ],
+   "clqsuow9200253b6m71k9x20b": [
+    211
+   ],
+   "clqsup5lb00283b6mronxxoy7": [
+    586
+   ],
+   "clqsuphcd002b3b6mbna5wwo4": [
+    1097
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_218176459_Vladik_Into_the_Wild_960x540_25.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 2538
+  },
+  "segments": {
+   "clqtq28kr00033b6mkc8fxgm5": [
+    [
+     126,
+     126
+    ]
+   ],
+   "clqtq2f9k00063b6m7r8krn7t": [
+    [
+     298,
+     298
+    ]
+   ],
+   "clqtq2m9800093b6m1x2jmagq": [
+    [
+     521,
+     521
+    ]
+   ],
+   "clqtq2whb000b3b6muofy2i2k": [
+    [
+     1026,
+     1026
+    ]
+   ],
+   "clqtq3cnq000e3b6mhf2qlv81": [
+    [
+     1908,
+     1908
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqtq28kr00033b6mkc8fxgm5": [
+    126
+   ],
+   "clqtq2f9k00063b6m7r8krn7t": [
+    298
+   ],
+   "clqtq2m9800093b6m1x2jmagq": [
+    521
+   ],
+   "clqtq2whb000b3b6muofy2i2k": [
+    1026
+   ],
+   "clqtq3cnq000e3b6mhf2qlv81": [
+    1908
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_265934308_Surfing_over_Vercors_960x540_29.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 5152
+  },
+  "segments": {
+   "clqtq5919000h3b6mzufsuyc5": [
+    [
+     87,
+     87
+    ]
+   ],
+   "clqtq5inp000k3b6mbh7t40ug": [
+    [
+     642,
+     642
+    ]
+   ],
+   "clqtq60gl000n3b6mbt5romcx": [
+    [
+     1875,
+     1875
+    ]
+   ],
+   "clqtq6b63000q3b6m5gi52q7l": [
+    [
+     2485,
+     2485
+    ]
+   ],
+   "clqtq73jq000t3b6ma7bmw59x": [
+    [
+     4648,
+     4648
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqtq5919000h3b6mzufsuyc5": [
+    87
+   ],
+   "clqtq5inp000k3b6mbh7t40ug": [
+    642
+   ],
+   "clqtq60gl000n3b6mbt5romcx": [
+    1875
+   ],
+   "clqtq6b63000q3b6m5gi52q7l": [
+    2485
+   ],
+   "clqtq73jq000t3b6ma7bmw59x": [
+    4648
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_276920279_DI_PARI_PASSO_TEASER_960x540_25.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 3023
+  },
+  "segments": {
+   "clqtq8ovz000w3b6msjz1fv41": [
+    [
+     350,
+     350
+    ]
+   ],
+   "clqtq8w4a000z3b6muaqzxciw": [
+    [
+     553,
+     553
+    ]
+   ],
+   "clqtq9hq900123b6mir2g7zut": [
+    [
+     1934,
+     1934
+    ]
+   ],
+   "clqtq9xe200153b6mv7uhsb2i": [
+    [
+     2625,
+     2625
+    ]
+   ],
+   "clqtqa47r00183b6mvr4jwf00": [
+    [
+     2782,
+     2782
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqtq8ovz000w3b6msjz1fv41": [
+    350
+   ],
+   "clqtq8w4a000z3b6muaqzxciw": [
+    553
+   ],
+   "clqtq9hq900123b6mir2g7zut": [
+    1934
+   ],
+   "clqtq9xe200153b6mv7uhsb2i": [
+    2625
+   ],
+   "clqtqa47r00183b6mvr4jwf00": [
+    2782
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_282082221_Tiger_Family_in_Sumatra_Over_the_Years_960x540_30.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 30,
+   "frame_count": 1797
+  },
+  "segments": {
+   "clqtqawyz001b3b6mklqsp562": [
+    [
+     115,
+     115
+    ]
+   ],
+   "clqtqb539001e3b6m97697pqv": [
+    [
+     505,
+     506
+    ]
+   ],
+   "clqtqbflq001h3b6mosh3euvu": [
+    [
+     996,
+     997
+    ]
+   ],
+   "clqtqbmt0001k3b6mkv0pv6zm": [
+    [
+     1269,
+     1270
+    ]
+   ],
+   "clqtqbuoc001n3b6mar4vm7hy": [
+    [
+     1665,
+     1665
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqtqawyz001b3b6mklqsp562": [
+    115
+   ],
+   "clqtqb539001e3b6m97697pqv": [
+    505,
+    506
+   ],
+   "clqtqbflq001h3b6mosh3euvu": [
+    996,
+    997
+   ],
+   "clqtqbmt0001k3b6mkv0pv6zm": [
+    1269,
+    1270
+   ],
+   "clqtqbuoc001n3b6mar4vm7hy": [
+    1665
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_289635758_HAY_Design_Talk_Silhouette_Sofa_by_GamFratesi_960x540_25.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 2372
+  },
+  "segments": {
+   "clqtqc3t1001q3b6mi5xahrv4": [
+    [
+     199,
+     199
+    ]
+   ],
+   "clqtqce2p001t3b6myldkotww": [
+    [
+     644,
+     644
+    ]
+   ],
+   "clqtqcqqw001w3b6m7wk5tp1v": [
+    [
+     1249,
+     1249
+    ]
+   ],
+   "clqtqd0qz001z3b6mso8213tq": [
+    [
+     1662,
+     1662
+    ]
+   ],
+   "clqtqd9rq00223b6msh9yhvu8": [
+    [
+     1984,
+     1984
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqtqc3t1001q3b6mi5xahrv4": [
+    199
+   ],
+   "clqtqce2p001t3b6myldkotww": [
+    644
+   ],
+   "clqtqcqqw001w3b6m7wk5tp1v": [
+    1249
+   ],
+   "clqtqd0qz001z3b6mso8213tq": [
+    1662
+   ],
+   "clqtqd9rq00223b6msh9yhvu8": [
+    1984
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_317234083_DIY_Yogurt_And_Honey_Face_Mask_For_Smooth_&_Glowing_Skin_Easy_DIY_Face_Packs_StyleCraze_640x360_25.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 1555
+  },
+  "segments": {
+   "clqtqe5h000253b6m9kokd4na": [
+    [
+     147,
+     147
+    ]
+   ],
+   "clqtqea9i00283b6mvjg0laa8": [
+    [
+     249,
+     249
+    ]
+   ],
+   "clqtqeglv002b3b6m0byfu55u": [
+    [
+     426,
+     426
+    ]
+   ],
+   "clqtqf1bq002e3b6mdkkohvk5": [
+    [
+     581,
+     581
+    ]
+   ],
+   "clqtqf9yx002h3b6m5rxrcg9x": [
+    [
+     915,
+     915
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqtqe5h000253b6m9kokd4na": [
+    147
+   ],
+   "clqtqea9i00283b6mvjg0laa8": [
+    249
+   ],
+   "clqtqeglv002b3b6m0byfu55u": [
+    426
+   ],
+   "clqtqf1bq002e3b6mdkkohvk5": [
+    581
+   ],
+   "clqtqf9yx002h3b6m5rxrcg9x": [
+    915
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_342538679_les_souris_dansent_960x540_29.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 1801
+  },
+  "segments": {
+   "clqvlx9ct00033b6mk2gft3pi": [
+    [
+     107,
+     107
+    ]
+   ],
+   "clqvlxfyd00063b6ms9x17pes": [
+    [
+     251,
+     251
+    ]
+   ],
+   "clqvlxp0100093b6mvwyioaw3": [
+    [
+     567,
+     567
+    ]
+   ],
+   "clqvly0wh000c3b6mvoewy3iy": [
+    [
+     1062,
+     1062
+    ]
+   ],
+   "clqvlyeul000f3b6mjj8exlkz": [
+    [
+     1737,
+     1737
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqvlx9ct00033b6mk2gft3pi": [
+    107
+   ],
+   "clqvlxfyd00063b6ms9x17pes": [
+    251
+   ],
+   "clqvlxp0100093b6mvwyioaw3": [
+    567
+   ],
+   "clqvly0wh000c3b6mvoewy3iy": [
+    1062
+   ],
+   "clqvlyeul000f3b6mjj8exlkz": [
+    1737
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_411463782_De_Lievelinge_Vlog_Part_01_960x540_25.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 2731
+  },
+  "segments": {
+   "clqvlyw9i000i3b6mnay8781h": [
+    [
+     291,
+     291
+    ]
+   ],
+   "clqvlz9dm000l3b6mtk53wipp": [
+    [
+     882,
+     882
+    ]
+   ],
+   "clqvlzimw000o3b6mlfa9nhwb": [
+    [
+     1206,
+     1206
+    ]
+   ],
+   "clqvlzum8000r3b6mdijtwccg": [
+    [
+     1743,
+     1743
+    ]
+   ],
+   "clqvm04y4000u3b6m40pw5ris": [
+    [
+     2132,
+     2132
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqvlyw9i000i3b6mnay8781h": [
+    291
+   ],
+   "clqvlz9dm000l3b6mtk53wipp": [
+    882
+   ],
+   "clqvlzimw000o3b6mlfa9nhwb": [
+    1206
+   ],
+   "clqvlzum8000r3b6mdijtwccg": [
+    1743
+   ],
+   "clqvm04y4000u3b6m40pw5ris": [
+    2132
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "vimeo_419613831_Danny_Vera_pakt_uit_960x540_29.mp4"
+  },
+  "media_attributes": {
+   "height": 540,
+   "width": 960,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 3124
+  },
+  "segments": {
+   "clqvm1prc000x3b6mez307h9c": [
+    [
+     175,
+     175
+    ]
+   ],
+   "clqvm23q600103b6mn742fb1v": [
+    [
+     912,
+     912
+    ]
+   ],
+   "clqvm2e4900133b6mzbl1fiyk": [
+    [
+     1406,
+     1407
+    ]
+   ],
+   "clqvm2npm00163b6mbpoeavnc": [
+    [
+     1903,
+     1903
+    ]
+   ],
+   "clqvm31hh00193b6mecikj4bw": [
+    [
+     2583,
+     2583
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqvm1prc000x3b6mez307h9c": [
+    175
+   ],
+   "clqvm23q600103b6mn742fb1v": [
+    912
+   ],
+   "clqvm2e4900133b6mzbl1fiyk": [
+    1406,
+    1407
+   ],
+   "clqvm2npm00163b6mbpoeavnc": [
+    1903
+   ],
+   "clqvm31hh00193b6mecikj4bw": [
+    2583
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_3kcCM5lZtFg_Canine_interruption_How_a_dog_brought_a_football_match_to_a_halt_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 3903
+  },
+  "segments": {
+   "clqvm4pnf001c3b6mzz2dh1zd": [
+    [
+     85,
+     85
+    ]
+   ],
+   "clqvm523n001f3b6melmignfg": [
+    [
+     808,
+     808
+    ]
+   ],
+   "clqvm5fcl001i3b6mv359udcn": [
+    [
+     1574,
+     1574
+    ]
+   ],
+   "clqvm5vks001l3b6m6caqnzg2": [
+    [
+     2517,
+     2517
+    ]
+   ],
+   "clqvm69wv001o3b6mmxpprbnd": [
+    [
+     3375,
+     3375
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqvm4pnf001c3b6mzz2dh1zd": [
+    85
+   ],
+   "clqvm523n001f3b6melmignfg": [
+    808
+   ],
+   "clqvm5fcl001i3b6mv359udcn": [
+    1574
+   ],
+   "clqvm5vks001l3b6m6caqnzg2": [
+    2517
+   ],
+   "clqvm69wv001o3b6mmxpprbnd": [
+    3375
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_3mQvqu34kQ_Fire_Fit_Fire_Fighter_Competition_Dorchester_Ontario_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 4370
+  },
+  "segments": {
+   "clqvmaa3j00053b6mwih9p6u2": [
+    [
+     527,
+     527
+    ]
+   ],
+   "clqvmc51d00083b6m68michva": [
+    [
+     2159,
+     2160
+    ]
+   ],
+   "clqvmcici000b3b6mgewqsqiq": [
+    [
+     2604,
+     2604
+    ]
+   ],
+   "clqvmdcpe000e3b6maps4e9gq": [
+    [
+     3614,
+     3614
+    ]
+   ],
+   "clqvmdxmy000g3b6mvgo4ioiw": [
+    [
+     4286,
+     4286
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqvmaa3j00053b6mwih9p6u2": [
+    527
+   ],
+   "clqvmc51d00083b6m68michva": [
+    2159,
+    2160
+   ],
+   "clqvmcici000b3b6mgewqsqiq": [
+    2604
+   ],
+   "clqvmdcpe000e3b6maps4e9gq": [
+    3614
+   ],
+   "clqvmdxmy000g3b6mvgo4ioiw": [
+    4286
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_6ELB5GBQInA_Your_Memorial_Day_Weekend_Master_Plan_Is_Ruined_480x270_30.mp4"
+  },
+  "media_attributes": {
+   "height": 270,
+   "width": 480,
+   "mime_type": "video/mp4",
+   "frame_rate": 30,
+   "frame_count": 1273
+  },
+  "segments": {
+   "clqvn6mn7000j3b6mfffqq80b": [
+    [
+     81,
+     81
+    ]
+   ],
+   "clqvn6tv5000m3b6mu0kmkavh": [
+    [
+     373,
+     373
+    ]
+   ],
+   "clqvn70a1000p3b6mnu8tlncu": [
+    [
+     591,
+     591
+    ]
+   ],
+   "clqvn795c000s3b6mbknu47kd": [
+    [
+     999,
+     999
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqvn6mn7000j3b6mfffqq80b": [
+    81
+   ],
+   "clqvn6tv5000m3b6mu0kmkavh": [
+    373
+   ],
+   "clqvn70a1000p3b6mnu8tlncu": [
+    591
+   ],
+   "clqvn795c000s3b6mbknu47kd": [
+    999
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_adjnE99YVKs_Scatpack_Chargers_vs_Scatpack_Challengers_Which_is_faster_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 30,
+   "frame_count": 6402
+  },
+  "segments": {
+   "clqwxy65w00033b6m0ds5nnj4": [
+    [
+     352,
+     352
+    ]
+   ],
+   "clqwxz2z900063b6mcw45lmqi": [
+    [
+     2678,
+     2678
+    ]
+   ],
+   "clqwxzaux00093b6mwwikm8up": [
+    [
+     3023,
+     3023
+    ]
+   ],
+   "clqwxzoms000c3b6mnxr6q6w4": [
+    [
+     3860,
+     3860
+    ]
+   ],
+   "clqwy0ftu000f3b6m9tdbnxd0": [
+    [
+     5729,
+     5729
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqwxy65w00033b6m0ds5nnj4": [
+    352
+   ],
+   "clqwxz2z900063b6mcw45lmqi": [
+    2678
+   ],
+   "clqwxzaux00093b6mwwikm8up": [
+    3023
+   ],
+   "clqwxzoms000c3b6mnxr6q6w4": [
+    3860
+   ],
+   "clqwy0ftu000f3b6m9tdbnxd0": [
+    5729
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_apItXdtFoxo_A_Warriors_Halloween_640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 792
+  },
+  "segments": {
+   "clqwy102t000i3b6mg8khpufj": [
+    [
+     99,
+     100
+    ]
+   ],
+   "clqwy15r0000l3b6mg71pg66w": [
+    [
+     252,
+     252
+    ]
+   ],
+   "clqwy1cwd000o3b6mcezps7ap": [
+    [
+     302,
+     302
+    ]
+   ],
+   "clqwy1jzk000r3b6mfuw4nf96": [
+    [
+     437,
+     437
+    ]
+   ],
+   "clqwy1s3u000u3b6m4fz8w7gk": [
+    [
+     604,
+     604
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqwy102t000i3b6mg8khpufj": [
+    99,
+    100
+   ],
+   "clqwy15r0000l3b6mg71pg66w": [
+    252
+   ],
+   "clqwy1cwd000o3b6mcezps7ap": [
+    302
+   ],
+   "clqwy1jzk000r3b6mfuw4nf96": [
+    437
+   ],
+   "clqwy1s3u000u3b6m4fz8w7gk": [
+    604
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_BAN68YnzVnY_The_Original_Stone_Cold_Challenge_568x320_30.mp4"
+  },
+  "media_attributes": {
+   "height": 320,
+   "width": 568,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 1227
+  },
+  "segments": {
+   "clqwy2fng000x3b6m73suwhr0": [
+    [
+     74,
+     74
+    ]
+   ],
+   "clqwy2lui00103b6m0tcp9ugw": [
+    [
+     265,
+     265
+    ]
+   ],
+   "clqwy2sms00133b6myzrx6fgk": [
+    [
+     505,
+     505
+    ]
+   ],
+   "clqwy314b00163b6mbd30jj26": [
+    [
+     883,
+     883
+    ]
+   ],
+   "clqwy380100193b6mzzbhkaqb": [
+    [
+     1123,
+     1123
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqwy2fng000x3b6m73suwhr0": [
+    74
+   ],
+   "clqwy2lui00103b6m0tcp9ugw": [
+    265
+   ],
+   "clqwy2sms00133b6myzrx6fgk": [
+    505
+   ],
+   "clqwy314b00163b6mbd30jj26": [
+    883
+   ],
+   "clqwy380100193b6mzzbhkaqb": [
+    1123
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_CHQOctEvtTY_Rotational_Inertia_The_Race_Between_a_Ring_and_a_Disc_480x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 480,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 5732
+  },
+  "segments": {
+   "clqwy5mah001c3b6mlorq4653": [
+    [
+     363,
+     363
+    ]
+   ],
+   "clqwy5vjz001f3b6martl9z2e": [
+    [
+     818,
+     818
+    ]
+   ],
+   "clqwy6e5v001i3b6mvrf4oy12": [
+    [
+     2033,
+     2033
+    ]
+   ],
+   "clqwy7312001l3b6mwmtdzuaa": [
+    [
+     3761,
+     3761
+    ]
+   ],
+   "clqwy7qyv001o3b6m2k64h0zh": [
+    [
+     5284,
+     5284
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqwy5mah001c3b6mlorq4653": [
+    363
+   ],
+   "clqwy5vjz001f3b6martl9z2e": [
+    818
+   ],
+   "clqwy6e5v001i3b6mvrf4oy12": [
+    2033
+   ],
+   "clqwy7312001l3b6mwmtdzuaa": [
+    3761
+   ],
+   "clqwy7qyv001o3b6m2k64h0zh": [
+    5284
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_cnldysR07ic_David_Ortizs_incredible_reaction_to_Jackie_Bradley_Jrs_Grand_Slam_FOX_MLB_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 1651
+  },
+  "segments": {
+   "clqwy8kxv001r3b6mbxwdkcan": [
+    [
+     52,
+     52
+    ]
+   ],
+   "clqwy8qtu001u3b6mczhogtxp": [
+    [
+     240,
+     241
+    ]
+   ],
+   "clqwy9bd2001x3b6mfg4fert7": [
+    [
+     821,
+     821
+    ]
+   ],
+   "clqwy9mta00203b6m1cbdngj7": [
+    [
+     1326,
+     1326
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqwy8kxv001r3b6mbxwdkcan": [
+    52
+   ],
+   "clqwy8qtu001u3b6mczhogtxp": [
+    240,
+    241
+   ],
+   "clqwy9bd2001x3b6mfg4fert7": [
+    821
+   ],
+   "clqwy9mta00203b6m1cbdngj7": [
+    1326
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_DqSWzh6IvzQ_A_rousing_welcome_for_PM_Modi_in_Copenhagen_Denmark_640x360_25.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 2360
+  },
+  "segments": {
+   "clqwyay7j00233b6mr5pw4i6x": [
+    [
+     17,
+     17
+    ]
+   ],
+   "clqwyb4cv00263b6m8csccedb": [
+    [
+     188,
+     188
+    ]
+   ],
+   "clqwybek700293b6m9ma4hyz3": [
+    [
+     570,
+     570
+    ]
+   ],
+   "clqwybxzk002c3b6md6rvpjhj": [
+    [
+     1569,
+     1569
+    ]
+   ],
+   "clqwyc48z002f3b6m84rsisp9": [
+    [
+     1767,
+     1767
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqwyay7j00233b6mr5pw4i6x": [
+    17
+   ],
+   "clqwyb4cv00263b6m8csccedb": [
+    188
+   ],
+   "clqwybek700293b6m9ma4hyz3": [
+    570
+   ],
+   "clqwybxzk002c3b6md6rvpjhj": [
+    1569
+   ],
+   "clqwyc48z002f3b6m84rsisp9": [
+    1767
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_EaHZLUWwxfQ_Stone_Cold_Killer_wins_the_2012_Ear_Pulling_contest_with_ease_a_breakdown_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.825454545454544,
+   "frame_count": 4101
+  },
+  "segments": {
+   "clqwydrop002i3b6mru8vvlnn": [
+    [
+     145,
+     145
+    ]
+   ],
+   "clqwydxzu002l3b6mlz11sh9u": [
+    [
+     362,
+     362
+    ]
+   ],
+   "clqwyedvi002o3b6m00acxr10": [
+    [
+     1349,
+     1349
+    ]
+   ],
+   "clqwyf1y8002r3b6mqg0c88io": [
+    [
+     2895,
+     2895
+    ]
+   ],
+   "clqwyfkag002u3b6mo1vz7ssy": [
+    [
+     3951,
+     3951
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqwydrop002i3b6mru8vvlnn": [
+    145
+   ],
+   "clqwydxzu002l3b6mlz11sh9u": [
+    362
+   ],
+   "clqwyedvi002o3b6m00acxr10": [
+    1349
+   ],
+   "clqwyf1y8002r3b6mqg0c88io": [
+    2895
+   ],
+   "clqwyfkag002u3b6mo1vz7ssy": [
+    3951
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_eTky7Sr7Kw8_My_Friends_Motivational_Mom_how_does_she_do_it_640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 2378
+  },
+  "segments": {
+   "clqwyiivt002x3b6mxa2fmmb0": [
+    [
+     136,
+     136
+    ]
+   ],
+   "clqwyinxf00303b6mk5uczkwp": [
+    [
+     236,
+     236
+    ]
+   ],
+   "clqwyizp600333b6mkx2yleqr": [
+    [
+     606,
+     606
+    ]
+   ],
+   "clqwyj6pz00363b6mbvnl27ud": [
+    [
+     835,
+     835
+    ]
+   ],
+   "clqwyjlsv00393b6m5r2sqxir": [
+    [
+     1543,
+     1543
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqwyiivt002x3b6mxa2fmmb0": [
+    136
+   ],
+   "clqwyinxf00303b6mk5uczkwp": [
+    236
+   ],
+   "clqwyizp600333b6mkx2yleqr": [
+    606
+   ],
+   "clqwyj6pz00363b6mbvnl27ud": [
+    835
+   ],
+   "clqwyjlsv00393b6m5r2sqxir": [
+    1543
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_hJF7tvq8Q5c_Chuck_Surprised_His_Girlfriend_With_an_Awesome_Christmas_Gift\u2026_From_3000_Miles_Away_RingTV_640x360_15.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 15,
+   "frame_count": 763
+  },
+  "segments": {
+   "clqwykdnq003c3b6m1vbzasqj": [
+    [
+     47,
+     47
+    ]
+   ],
+   "clqwykol4003f3b6mclsy4jiv": [
+    [
+     319,
+     319
+    ]
+   ],
+   "clqwyl4c1003i3b6mo5lqbqad": [
+    [
+     568,
+     568
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqwykdnq003c3b6m1vbzasqj": [
+    47
+   ],
+   "clqwykol4003f3b6mclsy4jiv": [
+    319
+   ],
+   "clqwyl4c1003i3b6mo5lqbqad": [
+    568
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_hOB1Bf8GM68_How_To_Correctly_Measure_for_a_Dining_Room_Rug_Six_Sisters_Stuff_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 2732
+  },
+  "segments": {
+   "clqwymf3s003l3b6mmaaf04yl": [
+    [
+     91,
+     91
+    ]
+   ],
+   "clqwymqyp003o3b6mjhp7hnjm": [
+    [
+     739,
+     739
+    ]
+   ],
+   "clqwymy2b003r3b6ma62zb8ok": [
+    [
+     1001,
+     1001
+    ]
+   ],
+   "clqwyn6iz003u3b6m36brtmha": [
+    [
+     1347,
+     1347
+    ]
+   ],
+   "clqwynegp003x3b6m82rbyy0x": [
+    [
+     1650,
+     1650
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqwymf3s003l3b6mmaaf04yl": [
+    91
+   ],
+   "clqwymqyp003o3b6mjhp7hnjm": [
+    739
+   ],
+   "clqwymy2b003r3b6ma62zb8ok": [
+    1001
+   ],
+   "clqwyn6iz003u3b6m36brtmha": [
+    1347
+   ],
+   "clqwynegp003x3b6m82rbyy0x": [
+    1650
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_hxMsVbFr1Bc_Pnk_the_border_collie_wins_back_to_back_titles_at_the_2019_WKC_Masters_Agility_FOX_SPORTS_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97,
+   "frame_count": 4191
+  },
+  "segments": {
+   "clqwypdok00403b6mtw17fktv": [
+    [
+     606,
+     606
+    ]
+   ],
+   "clqwypjlr00433b6m0chixkcx": [
+    [
+     803,
+     803
+    ]
+   ],
+   "clqwyppuz00463b6m4vpeqwfh": [
+    [
+     983,
+     983
+    ]
+   ],
+   "clqwyq1ab00493b6mgw4m34gn": [
+    [
+     1561,
+     1561
+    ]
+   ],
+   "clqwyqk12004c3b6mpfa0ijfh": [
+    [
+     2745,
+     2745
+    ]
+   ],
+   "clqwyqzli004f3b6mfpet9q97": [
+    [
+     3633,
+     3633
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqwypdok00403b6mtw17fktv": [
+    606
+   ],
+   "clqwypjlr00433b6m0chixkcx": [
+    803
+   ],
+   "clqwyppuz00463b6m4vpeqwfh": [
+    983
+   ],
+   "clqwyq1ab00493b6mgw4m34gn": [
+    1561
+   ],
+   "clqwyqk12004c3b6mpfa0ijfh": [
+    2745
+   ],
+   "clqwyqzli004f3b6mfpet9q97": [
+    3633
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_IYY1IIPIKoQ_Funny_Food_Challange_On_TikTok_Who_will_win_INDIA_Vs_CHINA_Be_Me_Stick_640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 24,
+   "frame_count": 2170
+  },
+  "segments": {
+   "clqwys7dv004i3b6mmjl0ov5r": [
+    [
+     58,
+     58
+    ]
+   ],
+   "clqwysmuc004l3b6mbpgk0nsa": [
+    [
+     763,
+     763
+    ]
+   ],
+   "clqwyt2c0004o3b6mqu7ofz4c": [
+    [
+     1519,
+     1519
+    ]
+   ],
+   "clqwytc3x004r3b6mpsj9p3ak": [
+    [
+     1884,
+     1884
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqwys7dv004i3b6mmjl0ov5r": [
+    58
+   ],
+   "clqwysmuc004l3b6mbpgk0nsa": [
+    763
+   ],
+   "clqwyt2c0004o3b6mqu7ofz4c": [
+    1519
+   ],
+   "clqwytc3x004r3b6mpsj9p3ak": [
+    1884
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_J8rkfeZnp0o_4_Ways_to_Wear_or_Tie_A_Button_Up_Shirt_640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 5426
+  },
+  "segments": {
+   "clqy4tyuh00033b6mx7ymb0cw": [
+    [
+     141,
+     141
+    ]
+   ],
+   "clqy4ul5k00063b6m1j1m8mku": [
+    [
+     1226,
+     1226
+    ]
+   ],
+   "clqy4v21c00093b6m05e51qo1": [
+    [
+     1947,
+     1947
+    ]
+   ],
+   "clqy4w13a000c3b6mjyfob7od": [
+    [
+     3785,
+     3785
+    ]
+   ],
+   "clqy4wjp9000f3b6mr7smc4hm": [
+    [
+     4530,
+     4530
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqy4tyuh00033b6mx7ymb0cw": [
+    141
+   ],
+   "clqy4ul5k00063b6m1j1m8mku": [
+    1226
+   ],
+   "clqy4v21c00093b6m05e51qo1": [
+    1947
+   ],
+   "clqy4w13a000c3b6mjyfob7od": [
+    3785
+   ],
+   "clqy4wjp9000f3b6mr7smc4hm": [
+    4530
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_Jh3QIEB5p7s_Fashion_Week_Paris_2017_My_Paris_by_Rena_Sala_Full_Video_640x360_25.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 2513
+  },
+  "segments": {
+   "clqy4y8zc000i3b6mdyd31bfs": [
+    [
+     222,
+     222
+    ]
+   ],
+   "clqy4yfsg000l3b6msklzmrds": [
+    [
+     382,
+     382
+    ]
+   ],
+   "clqy4ynv0000o3b6mn0ir07dp": [
+    [
+     668,
+     669
+    ]
+   ],
+   "clqy4yzyu000r3b6mv5okr0vk": [
+    [
+     1198,
+     1198
+    ]
+   ],
+   "clqy4zwz8000t3b6mexs2j9o8": [
+    [
+     1768,
+     1768
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqy4y8zc000i3b6mdyd31bfs": [
+    222
+   ],
+   "clqy4yfsg000l3b6msklzmrds": [
+    382
+   ],
+   "clqy4ynv0000o3b6mn0ir07dp": [
+    668,
+    669
+   ],
+   "clqy4yzyu000r3b6mv5okr0vk": [
+    1198
+   ],
+   "clqy4zwz8000t3b6mexs2j9o8": [
+    1768
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_lIxSZW_TxZ0_Frozen_Elsa_Uses_Magical_Powers_to_Start_Fire_and_Melt_Snow_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 30,
+   "frame_count": 3049
+  },
+  "segments": {
+   "clqy51fe9000v3b6m39we4xz0": [
+    [
+     111,
+     111
+    ]
+   ],
+   "clqy51r18000y3b6mdtlm9cni": [
+    [
+     708,
+     708
+    ]
+   ],
+   "clqy5227v00113b6m51wzyuhn": [
+    [
+     1102,
+     1102
+    ]
+   ],
+   "clqy52dc000143b6m3j7xq5uq": [
+    [
+     1666,
+     1666
+    ]
+   ],
+   "clqy52odx00173b6mnqwcvb6n": [
+    [
+     2209,
+     2209
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqy51fe9000v3b6m39we4xz0": [
+    111
+   ],
+   "clqy51r18000y3b6mdtlm9cni": [
+    708
+   ],
+   "clqy5227v00113b6m51wzyuhn": [
+    1102
+   ],
+   "clqy52dc000143b6m3j7xq5uq": [
+    1666
+   ],
+   "clqy52odx00173b6mnqwcvb6n": [
+    2209
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_M7FUb6S2AFQ_Marshmallow_goes_on_top_Engineer_Challenge_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 4753
+  },
+  "segments": {
+   "clqy54ojw001a3b6mrk27xcbe": [
+    [
+     86,
+     86
+    ]
+   ],
+   "clqy551s1001d3b6mpdoahmm2": [
+    [
+     732,
+     732
+    ]
+   ],
+   "clqy559dp001g3b6mbmpyk0y1": [
+    [
+     935,
+     935
+    ]
+   ],
+   "clqy55ssl001j3b6my1qisl4e": [
+    [
+     1769,
+     1769
+    ]
+   ],
+   "clqy56ohm001m3b6mtz1zmua2": [
+    [
+     3550,
+     3550
+    ]
+   ],
+   "clqy56ve6001p3b6mwtm9go0j": [
+    [
+     3765,
+     3765
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqy54ojw001a3b6mrk27xcbe": [
+    86
+   ],
+   "clqy551s1001d3b6mpdoahmm2": [
+    732
+   ],
+   "clqy559dp001g3b6mbmpyk0y1": [
+    935
+   ],
+   "clqy55ssl001j3b6my1qisl4e": [
+    1769
+   ],
+   "clqy56ohm001m3b6mtz1zmua2": [
+    3550
+   ],
+   "clqy56ve6001p3b6mwtm9go0j": [
+    3765
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_O1_cGwtNgu4_How_To_Sandblast_A_Car_Wheel_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 5239
+  },
+  "segments": {
+   "clqy595wr001s3b6mbbbq0jmd": [
+    [
+     359,
+     359
+    ]
+   ],
+   "clvi69p6r00032v6ojthql6kk": [
+    [
+     1787,
+     1787
+    ]
+   ],
+   "clvi6aki600062v6or3krnnsv": [
+    [
+     2534,
+     2534
+    ]
+   ],
+   "clvi6b7ky00092v6oo7duuuvv": [
+    [
+     2931,
+     2940
+    ]
+   ],
+   "clvi6c9rd000e2v6ocu5bfgbi": [
+    [
+     3769,
+     3769
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqy595wr001s3b6mbbbq0jmd": [
+    359
+   ],
+   "clvi69p6r00032v6ojthql6kk": [
+    1787
+   ],
+   "clvi6aki600062v6or3krnnsv": [
+    2534
+   ],
+   "clvi6b7ky00092v6oo7duuuvv": [
+    2931,
+    2940
+   ],
+   "clvi6c9rd000e2v6ocu5bfgbi": [
+    3769
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_o6OkcJt4vD4_Mr_Eazi_surprises_his_girlfriend_Temi_Otedola_720x720_30.mp4"
+  },
+  "media_attributes": {
+   "height": 720,
+   "width": 720,
+   "mime_type": "video/mp4",
+   "frame_rate": 30,
+   "frame_count": 2015
+  },
+  "segments": {
+   "clqy5cce600243b6m0arqskih": [
+    [
+     48,
+     48
+    ]
+   ],
+   "clqy5cin400273b6mb99pjmbr": [
+    [
+     160,
+     160
+    ]
+   ],
+   "clqy5cs4w002a3b6msxb1mwgu": [
+    [
+     431,
+     431
+    ]
+   ],
+   "clqy5dcms002d3b6mm9ili0mg": [
+    [
+     1017,
+     1018
+    ]
+   ],
+   "clqy5dm24002g3b6m7yll5v69": [
+    [
+     1451,
+     1451
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqy5cce600243b6m0arqskih": [
+    48
+   ],
+   "clqy5cin400273b6mb99pjmbr": [
+    160
+   ],
+   "clqy5cs4w002a3b6msxb1mwgu": [
+    431
+   ],
+   "clqy5dcms002d3b6mm9ili0mg": [
+    1017,
+    1018
+   ],
+   "clqy5dm24002g3b6m7yll5v69": [
+    1451
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_O8B7XXdsaTA_How_To_Eat_A_Xiao_Long_Bao_Like_A_Boss_640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 1502
+  },
+  "segments": {
+   "clqzcy15i00033b6mce3wboam": [
+    [
+     201,
+     201
+    ]
+   ],
+   "clqzcy6qy00063b6mynbekkod": [
+    [
+     270,
+     270
+    ]
+   ],
+   "clqzcycl300093b6m00c86jea": [
+    [
+     404,
+     404
+    ]
+   ],
+   "clqzcyjw0000c3b6mt0atagsy": [
+    [
+     606,
+     606
+    ]
+   ],
+   "clqzcz1ae000f3b6msmanzoou": [
+    [
+     1269,
+     1269
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqzcy15i00033b6mce3wboam": [
+    201
+   ],
+   "clqzcy6qy00063b6mynbekkod": [
+    270
+   ],
+   "clqzcycl300093b6m00c86jea": [
+    404
+   ],
+   "clqzcyjw0000c3b6mt0atagsy": [
+    606
+   ],
+   "clqzcz1ae000f3b6msmanzoou": [
+    1269
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_OFb9v4hwVeM_HIMARS_A_Crew_Of_Three_Can_Provide_A_Capsule_Reload_Time_Of_No_More_Than_4_Minutes_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 30,
+   "frame_count": 2077
+  },
+  "segments": {
+   "clqzd00wz000i3b6mvh0xib0a": [
+    [
+     122,
+     122
+    ]
+   ],
+   "clqzd0acp000l3b6mkape6bjk": [
+    [
+     622,
+     622
+    ]
+   ],
+   "clqzd0j6u000o3b6m1mr2eb5i": [
+    [
+     1011,
+     1011
+    ]
+   ],
+   "clqzd0rjc000r3b6mtgeas6ut": [
+    [
+     1339,
+     1339
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqzd00wz000i3b6mvh0xib0a": [
+    122
+   ],
+   "clqzd0acp000l3b6mkape6bjk": [
+    622
+   ],
+   "clqzd0j6u000o3b6m1mr2eb5i": [
+    1011
+   ],
+   "clqzd0rjc000r3b6mtgeas6ut": [
+    1339
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_oqMN3y8k9So_Reaction_of_Potassium_and_Water_480x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 480,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 3288
+  },
+  "segments": {
+   "clqzd2i9w000u3b6mo1ypza0x": [
+    [
+     244,
+     245
+    ]
+   ],
+   "clqzd2wr5000x3b6mxeiw1ws6": [
+    [
+     1048,
+     1048
+    ]
+   ],
+   "clqzd39ab00103b6me2ni2oph": [
+    [
+     1719,
+     1719
+    ]
+   ],
+   "clqzd3fx200133b6m5psadk27": [
+    [
+     1934,
+     1934
+    ]
+   ],
+   "clqzd3rst00163b6mb4weh4mt": [
+    [
+     2586,
+     2586
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqzd2i9w000u3b6mo1ypza0x": [
+    244,
+    245
+   ],
+   "clqzd2wr5000x3b6mxeiw1ws6": [
+    1048
+   ],
+   "clqzd39ab00103b6me2ni2oph": [
+    1719
+   ],
+   "clqzd3fx200133b6m5psadk27": [
+    1934
+   ],
+   "clqzd3rst00163b6mb4weh4mt": [
+    2586
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_pUDQmJgI2Z0_Bryony_Blakes_Contour_and_Highlight_Makeup_Tutorial_406x720_30.mp4"
+  },
+  "media_attributes": {
+   "height": 720,
+   "width": 406,
+   "mime_type": "video/mp4",
+   "frame_rate": 30,
+   "frame_count": 4834
+  },
+  "segments": {
+   "clqzd5vcg00193b6mt145uz0k": [
+    [
+     127,
+     127
+    ]
+   ],
+   "clqzd67zj001c3b6ml27jskvu": [
+    [
+     833,
+     833
+    ]
+   ],
+   "clqzd6jab001f3b6m36ysaaox": [
+    [
+     1424,
+     1424
+    ]
+   ],
+   "clqzd72rf001i3b6m3agt41f1": [
+    [
+     2608,
+     2608
+    ]
+   ],
+   "clqzd7mzs001l3b6mvnz5uvg3": [
+    [
+     3764,
+     3764
+    ]
+   ],
+   "clqzd7z4n001o3b6mhk5z6v4h": [
+    [
+     4351,
+     4351
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqzd5vcg00193b6mt145uz0k": [
+    127
+   ],
+   "clqzd67zj001c3b6ml27jskvu": [
+    833
+   ],
+   "clqzd6jab001f3b6m36ysaaox": [
+    1424
+   ],
+   "clqzd72rf001i3b6m3agt41f1": [
+    2608
+   ],
+   "clqzd7mzs001l3b6mvnz5uvg3": [
+    3764
+   ],
+   "clqzd7z4n001o3b6mhk5z6v4h": [
+    4351
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_RlF6YPpqqMI_JESSICA_ALBA_Makeup_Tutorial_Fresh_Look_640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 3469
+  },
+  "segments": {
+   "clqzdaxeo001u3b6m4ixqtu7d": [
+    [
+     757,
+     757
+    ]
+   ],
+   "clqzdb5np001x3b6m3xltg0p0": [
+    [
+     936,
+     936
+    ]
+   ],
+   "clqzdbfaf00203b6m4c8tcm3b": [
+    [
+     1253,
+     1253
+    ]
+   ],
+   "clqzdbnyk00233b6mt84bcaso": [
+    [
+     1538,
+     1538
+    ]
+   ],
+   "clqzdbyhm00263b6m2o47jesx": [
+    [
+     1671,
+     1671
+    ]
+   ],
+   "clqzdc5n700293b6msv48ca7e": [
+    [
+     1825,
+     1825
+    ]
+   ],
+   "clqzdcj6d002c3b6me33ugic8": [
+    [
+     2447,
+     2447
+    ]
+   ],
+   "clqzdcv4v002f3b6m1cm21nxt": [
+    [
+     2864,
+     2864
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqzdaxeo001u3b6m4ixqtu7d": [
+    757
+   ],
+   "clqzdb5np001x3b6m3xltg0p0": [
+    936
+   ],
+   "clqzdbfaf00203b6m4c8tcm3b": [
+    1253
+   ],
+   "clqzdbnyk00233b6mt84bcaso": [
+    1538
+   ],
+   "clqzdbyhm00263b6m2o47jesx": [
+    1671
+   ],
+   "clqzdc5n700293b6msv48ca7e": [
+    1825
+   ],
+   "clqzdcj6d002c3b6me33ugic8": [
+    2447
+   ],
+   "clqzdcv4v002f3b6m1cm21nxt": [
+    2864
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_scagiLOg4rc_Beginner_Friendly_Valentines_Day_Eye_Makeup_Tutorial_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 4528
+  },
+  "segments": {
+   "clqzder1w002i3b6muf8zwvsa": [
+    [
+     213,
+     213
+    ]
+   ],
+   "clqzdezpo002l3b6mzrlnq0ug": [
+    [
+     596,
+     596
+    ]
+   ],
+   "clqzdfb4n002o3b6mdi3mzx17": [
+    [
+     1149,
+     1149
+    ]
+   ],
+   "clqzdflho002r3b6mwpne72r1": [
+    [
+     1602,
+     1602
+    ]
+   ],
+   "clqzdfvcw002u3b6m8ydhcxrw": [
+    [
+     2103,
+     2103
+    ]
+   ],
+   "clqzdga3v002x3b6msc9qtmox": [
+    [
+     2925,
+     2925
+    ]
+   ],
+   "clqzdgk3k00303b6m9u4yzapl": [
+    [
+     3440,
+     3440
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqzder1w002i3b6muf8zwvsa": [
+    213
+   ],
+   "clqzdezpo002l3b6mzrlnq0ug": [
+    596
+   ],
+   "clqzdfb4n002o3b6mdi3mzx17": [
+    1149
+   ],
+   "clqzdflho002r3b6mwpne72r1": [
+    1602
+   ],
+   "clqzdfvcw002u3b6m8ydhcxrw": [
+    2103
+   ],
+   "clqzdga3v002x3b6msc9qtmox": [
+    2925
+   ],
+   "clqzdgk3k00303b6m9u4yzapl": [
+    3440
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_TuAUqgafeKo_Bagley_Couple_Gives_A_New_Life_To_Four_Siblings_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 3632
+  },
+  "segments": {
+   "clqzdi28900333b6ml39qsnvf": [
+    [
+     96,
+     96
+    ]
+   ],
+   "clqzdibjs00363b6mzre82aye": [
+    [
+     476,
+     476
+    ]
+   ],
+   "clqzdij3200393b6mviwh54tj": [
+    [
+     729,
+     729
+    ]
+   ],
+   "clqzdiybz003c3b6mkk304aks": [
+    [
+     1566,
+     1566
+    ]
+   ],
+   "clqzdjg35003f3b6mi5kzka1d": [
+    [
+     2579,
+     2579
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqzdi28900333b6ml39qsnvf": [
+    96
+   ],
+   "clqzdibjs00363b6mzre82aye": [
+    476
+   ],
+   "clqzdij3200393b6mviwh54tj": [
+    729
+   ],
+   "clqzdiybz003c3b6mkk304aks": [
+    1566
+   ],
+   "clqzdjg35003f3b6mi5kzka1d": [
+    2579
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_UiYpBVFjmAw_KUDAIBERGEN_FAMILY_GATHERING_Terry_Dear_Yan_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 30,
+   "frame_count": 2282
+  },
+  "segments": {
+   "clqzdktrr003i3b6m20vla1ac": [
+    [
+     75,
+     75
+    ]
+   ],
+   "clqzdl4yv003l3b6mv8l68d2h": [
+    [
+     725,
+     726
+    ]
+   ],
+   "clqzdlfaj003o3b6meqtjsq1y": [
+    [
+     1237,
+     1237
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqzdktrr003i3b6m20vla1ac": [
+    75
+   ],
+   "clqzdl4yv003l3b6mv8l68d2h": [
+    725,
+    726
+   ],
+   "clqzdlfaj003o3b6meqtjsq1y": [
+    1237
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_up9EcirmsKg_When_CVS_Receipts_Get_Out_Of_Control_640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 3560
+  },
+  "segments": {
+   "clqzdniyk003r3b6mts865x1g": [
+    [
+     150,
+     150
+    ]
+   ],
+   "clqzdnuwv003u3b6msb185qtm": [
+    [
+     610,
+     610
+    ]
+   ],
+   "clqzdo37s003x3b6m2jz1w3rq": [
+    [
+     845,
+     845
+    ]
+   ],
+   "clqzdoc3h00403b6mn1rvlt6o": [
+    [
+     1176,
+     1176
+    ]
+   ],
+   "clqzdopii00433b6mqzemh2pg": [
+    [
+     1761,
+     1761
+    ]
+   ],
+   "clqzdp1o700463b6mpr7zhn9d": [
+    [
+     2269,
+     2269
+    ]
+   ],
+   "clqzdpfdr00493b6mdtyetrwv": [
+    [
+     2864,
+     2864
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqzdniyk003r3b6mts865x1g": [
+    150
+   ],
+   "clqzdnuwv003u3b6msb185qtm": [
+    610
+   ],
+   "clqzdo37s003x3b6m2jz1w3rq": [
+    845
+   ],
+   "clqzdoc3h00403b6mn1rvlt6o": [
+    1176
+   ],
+   "clqzdopii00433b6mqzemh2pg": [
+    1761
+   ],
+   "clqzdp1o700463b6mpr7zhn9d": [
+    2269
+   ],
+   "clqzdpfdr00493b6mdtyetrwv": [
+    2864
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_vGCzqowM1go_Poverty_Compels_These_Kashmiri_Siblings_to_Quit_Studies_640x360_25.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 2681
+  },
+  "segments": {
+   "clqzdqrbv004c3b6mgqurchu4": [
+    [
+     42,
+     42
+    ]
+   ],
+   "clqzdr3rm004f3b6m3hav58pt": [
+    [
+     494,
+     494
+    ]
+   ],
+   "clqzdrd7q004i3b6m4cdmrkmc": [
+    [
+     675,
+     675
+    ]
+   ],
+   "clqzdrpdf004l3b6mndvfvqz6": [
+    [
+     841,
+     841
+    ]
+   ],
+   "clqzdryet004o3b6m87utwraw": [
+    [
+     1196,
+     1196
+    ]
+   ],
+   "clqzdsbya004r3b6m3osh1p60": [
+    [
+     1867,
+     1867
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqzdqrbv004c3b6mgqurchu4": [
+    42
+   ],
+   "clqzdr3rm004f3b6m3hav58pt": [
+    494
+   ],
+   "clqzdrd7q004i3b6m4cdmrkmc": [
+    675
+   ],
+   "clqzdrpdf004l3b6mndvfvqz6": [
+    841
+   ],
+   "clqzdryet004o3b6m87utwraw": [
+    1196
+   ],
+   "clqzdsbya004r3b6m3osh1p60": [
+    1867
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_vPpuB9tnrf8_Meet_the_BeBot_a_beach_cleaning_robot_640x360_24.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 23.976023976023978,
+   "frame_count": 1416
+  },
+  "segments": {
+   "clqzdt5xw004u3b6mipy91lfv": [
+    [
+     48,
+     48
+    ]
+   ],
+   "clqzdtw9l004x3b6m7e0l9wmb": [
+    [
+     259,
+     259
+    ]
+   ],
+   "clqzdu6b300503b6mrs889s21": [
+    [
+     583,
+     583
+    ]
+   ],
+   "clqzduehd00533b6mgqr5qu44": [
+    [
+     827,
+     827
+    ]
+   ],
+   "clqzdumsk00563b6mvwm9p70k": [
+    [
+     1142,
+     1142
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqzdt5xw004u3b6mipy91lfv": [
+    48
+   ],
+   "clqzdtw9l004x3b6m7e0l9wmb": [
+    259
+   ],
+   "clqzdu6b300503b6mrs889s21": [
+    583
+   ],
+   "clqzduehd00533b6mgqr5qu44": [
+    827
+   ],
+   "clqzdumsk00563b6mvwm9p70k": [
+    1142
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_wfHiiDuz1zk_A_simple_idea_from_plastic_crates_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97,
+   "frame_count": 6678
+  },
+  "segments": {
+   "clqzdxlt600033b6m2b2qvux4": [
+    [
+     253,
+     253
+    ]
+   ],
+   "clqzdy15s00063b6mfv8wfzt0": [
+    [
+     975,
+     975
+    ]
+   ],
+   "clqzdy83800093b6muom823he": [
+    [
+     1223,
+     1223
+    ]
+   ],
+   "clqzdyp2t000c3b6mnbs7g3x4": [
+    [
+     2173,
+     2173
+    ]
+   ],
+   "clqzdyz3m000f3b6mv0786tci": [
+    [
+     2655,
+     2655
+    ]
+   ],
+   "clqzdzcud000i3b6mujilax1r": [
+    [
+     3474,
+     3474
+    ]
+   ],
+   "clqze09jl000l3b6mgt1rdhr7": [
+    [
+     5669,
+     5669
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqzdxlt600033b6m2b2qvux4": [
+    253
+   ],
+   "clqzdy15s00063b6mfv8wfzt0": [
+    975
+   ],
+   "clqzdy83800093b6muom823he": [
+    1223
+   ],
+   "clqzdyp2t000c3b6mnbs7g3x4": [
+    2173
+   ],
+   "clqzdyz3m000f3b6mv0786tci": [
+    2655
+   ],
+   "clqzdzcud000i3b6mujilax1r": [
+    3474
+   ],
+   "clqze09jl000l3b6mgt1rdhr7": [
+    5669
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_WKxHcbmtZD0_How_to_Cook_a_Whole_Chicken_in_the_Instant_Pot_640x360_25.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 3731
+  },
+  "segments": {
+   "clqze22u7000o3b6mlvzgz36z": [
+    [
+     141,
+     141
+    ]
+   ],
+   "clqze2p06000r3b6mn3dzvq96": [
+    [
+     1387,
+     1387
+    ]
+   ],
+   "clqze31q0000u3b6mqf8taksc": [
+    [
+     1977,
+     1977
+    ]
+   ],
+   "clqze3en6000x3b6mzdvp1fpr": [
+    [
+     2590,
+     2590
+    ]
+   ],
+   "clqze3rhv00103b6m88x0awzc": [
+    [
+     3221,
+     3221
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqze22u7000o3b6mlvzgz36z": [
+    141
+   ],
+   "clqze2p06000r3b6mn3dzvq96": [
+    1387
+   ],
+   "clqze31q0000u3b6mqf8taksc": [
+    1977
+   ],
+   "clqze3en6000x3b6mzdvp1fpr": [
+    2590
+   ],
+   "clqze3rhv00103b6m88x0awzc": [
+    3221
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_X_ErHcOTa6w_Camper_A_C_units_chewed_off_by_hungry_11foot88_bridge_640x360_25.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 1480
+  },
+  "segments": {
+   "clqze4mjr00133b6mzutu5wu5": [
+    [
+     86,
+     86
+    ]
+   ],
+   "clqze4ua100163b6m4b4nk2z6": [
+    [
+     305,
+     305
+    ]
+   ],
+   "clqze4zhx00193b6mfonuf4t4": [
+    [
+     366,
+     366
+    ]
+   ],
+   "clqze5c2i001c3b6m7aul73hg": [
+    [
+     944,
+     944
+    ]
+   ],
+   "clqze5m3c001f3b6mhrdrali5": [
+    [
+     1329,
+     1329
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqze4mjr00133b6mzutu5wu5": [
+    86
+   ],
+   "clqze4ua100163b6m4b4nk2z6": [
+    305
+   ],
+   "clqze4zhx00193b6mfonuf4t4": [
+    366
+   ],
+   "clqze5c2i001c3b6m7aul73hg": [
+    944
+   ],
+   "clqze5m3c001f3b6mhrdrali5": [
+    1329
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_YnjyKgnXRho_Crazy_Woffinden_and_Zmarzlik_battle_in_Wroclaw_Heat_of_the_Weekend_FIM_Speedway_Grand_Prix_640x360_25.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 25,
+   "frame_count": 2782
+  },
+  "segments": {
+   "clqze77il001i3b6mgl50gc4e": [
+    [
+     52,
+     52
+    ]
+   ],
+   "clqze7edi001l3b6mq7vjjscp": [
+    [
+     290,
+     290
+    ]
+   ],
+   "clqze7rt0001o3b6m505xuszh": [
+    [
+     967,
+     967
+    ]
+   ],
+   "clqze86ud001r3b6miyelop36": [
+    [
+     1671,
+     1671
+    ]
+   ],
+   "clqze8dki001u3b6mdbatutpv": [
+    [
+     1841,
+     1841
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqze77il001i3b6mgl50gc4e": [
+    52
+   ],
+   "clqze7edi001l3b6mq7vjjscp": [
+    290
+   ],
+   "clqze7rt0001o3b6m505xuszh": [
+    967
+   ],
+   "clqze86ud001r3b6miyelop36": [
+    1671
+   ],
+   "clqze8dki001u3b6mdbatutpv": [
+    1841
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_YTgXTS8gLjU_How_to_Harvest_a_Stone_Crab_Claw_490x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 490,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 2380
+  },
+  "segments": {
+   "clqze9h9m001x3b6mt57p0tx0": [
+    [
+     156,
+     156
+    ]
+   ],
+   "clqze9onf00203b6mrclndkiq": [
+    [
+     445,
+     445
+    ]
+   ],
+   "clqze9wr500233b6mzcnu29ws": [
+    [
+     732,
+     732
+    ]
+   ],
+   "clqzea3se00263b6masgr50c5": [
+    [
+     994,
+     994
+    ]
+   ],
+   "clqzeafv700293b6mnexpft4b": [
+    [
+     1608,
+     1608
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqze9h9m001x3b6mt57p0tx0": [
+    156
+   ],
+   "clqze9onf00203b6mrclndkiq": [
+    445
+   ],
+   "clqze9wr500233b6mzcnu29ws": [
+    732
+   ],
+   "clqzea3se00263b6masgr50c5": [
+    994
+   ],
+   "clqzeafv700293b6mnexpft4b": [
+    1608
+   ]
+  }
+ },
+ {
+  "data_row": {
+   "video_file": "youtube_ZerUbHmuY04_Causal_understanding_of_water_displacement_by_a_crow_640x360_30.mp4"
+  },
+  "media_attributes": {
+   "height": 360,
+   "width": 640,
+   "mime_type": "video/mp4",
+   "frame_rate": 29.97002997002997,
+   "frame_count": 5911
+  },
+  "segments": {
+   "clqzecx8j002c3b6mvsdkg74o": [
+    [
+     400,
+     400
+    ]
+   ],
+   "clqzedlpf002f3b6mpak31gxr": [
+    [
+     2063,
+     2063
+    ]
+   ],
+   "clqzedxeb002i3b6memkrapi6": [
+    [
+     2676,
+     2676
+    ]
+   ],
+   "clqzee6d9002l3b6md3aq4atf": [
+    [
+     3028,
+     3028
+    ]
+   ],
+   "clqzeeft1002o3b6m3ye389uh": [
+    [
+     3468,
+     3468
+    ]
+   ],
+   "clqzeerxf002r3b6mbo35uif2": [
+    [
+     4160,
+     4160
+    ]
+   ],
+   "clqzef3vz002u3b6moum91omd": [
+    [
+     4821,
+     4821
+    ]
+   ],
+   "clqzefbx0002x3b6m541xjlk9": [
+    [
+     5129,
+     5129
+    ]
+   ]
+  },
+  "key_frame_feature_map": {
+   "clqzecx8j002c3b6mvsdkg74o": [
+    400
+   ],
+   "clqzedlpf002f3b6mpak31gxr": [
+    2063
+   ],
+   "clqzedxeb002i3b6memkrapi6": [
+    2676
+   ],
+   "clqzee6d9002l3b6md3aq4atf": [
+    3028
+   ],
+   "clqzeeft1002o3b6m3ye389uh": [
+    3468
+   ],
+   "clqzeerxf002r3b6mbo35uif2": [
+    4160
+   ],
+   "clqzef3vz002u3b6moum91omd": [
+    4821
+   ],
+   "clqzefbx0002x3b6m541xjlk9": [
+    5129
+   ]
+  }
+ }
+]

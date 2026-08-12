@@ -1,0 +1,5 @@
+# downloaded / staged video content (large; not tracked in git)
+videos/files/
+dist/
+features/*.mat
+.DS_Store

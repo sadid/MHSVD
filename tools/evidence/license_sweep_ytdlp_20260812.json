@@ -1,0 +1,640 @@
+[
+ {
+  "url": "https://vimeo.com/3908328",
+  "error": "ERROR: [vimeo] 3908328: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=up9EcirmsKg",
+  "id": "up9EcirmsKg",
+  "title": "When CVS Receipts Get Out Of Control",
+  "uploader": "Jenny Lorenzo",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 149
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=eTky7Sr7Kw8",
+  "id": "eTky7Sr7Kw8",
+  "title": "My Friend's Motivational Mom... (how does she do it?)",
+  "uploader": "KvonComedy",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 99
+ },
+ {
+  "url": "https://vimeo.com/52066214",
+  "error": "ERROR: [vimeo] 52066214: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/45370506",
+  "error": "ERROR: [vimeo] 45370506: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/1388121",
+  "error": "ERROR: [vimeo] 1388121: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/190075268",
+  "error": "ERROR: [vimeo] 190075268: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/22195033",
+  "error": "ERROR: [vimeo] 22195033: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/90623227",
+  "error": "ERROR: [vimeo] 90623227: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/125184774",
+  "error": "ERROR: [vimeo] 125184774: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/68549087",
+  "error": "ERROR: [vimeo] 68549087: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/20613902",
+  "error": "ERROR: [vimeo] 20613902: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/69966191",
+  "error": "ERROR: [vimeo] 69966191: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/51887604",
+  "error": "ERROR: [vimeo] 51887604: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/182665051",
+  "error": "ERROR: [vimeo] 182665051: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/11261171",
+  "error": "ERROR: [vimeo] 11261171: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/53132789",
+  "error": "ERROR: [vimeo] 53132789: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/67324545",
+  "error": "ERROR: [vimeo] 67324545: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/59644378",
+  "error": "ERROR: [vimeo] 59644378: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=IYY1IIPIKoQ",
+  "id": "IYY1IIPIKoQ",
+  "title": "Funny Food Challange On TikTok | Who will win INDIA Vs CHINA | Be Me Stick |",
+  "uploader": "Be MeStick",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 90
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=apItXdtFoxo",
+  "id": "apItXdtFoxo",
+  "title": "A Warrior's Halloween",
+  "uploader": "Marines",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 33
+ },
+ {
+  "url": "https://vimeo.com/57725822",
+  "error": "ERROR: [vimeo] 57725822: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/83922842",
+  "error": "ERROR: [vimeo] 83922842: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/46107788",
+  "error": "ERROR: [vimeo] 46107788: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/27655264",
+  "error": "ERROR: [vimeo] 27655264: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/21636546",
+  "error": "ERROR: [vimeo] 21636546: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/276920279",
+  "error": "ERROR: [vimeo] 276920279: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/82305861",
+  "error": "ERROR: [vimeo] 82305861: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/214331310",
+  "error": "ERROR: [vimeo] 214331310: Failed to fetch macos OAuth token: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)"
+ },
+ {
+  "url": "https://vimeo.com/162582604",
+  "error": "ERROR: [vimeo] 162582604: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/87147134",
+  "error": "ERROR: [vimeo] 87147134: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/151044126",
+  "error": "ERROR: [vimeo] 151044126: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=UiYpBVFjmAw",
+  "error": "ERROR: [youtube] UiYpBVFjmAw: Video unavailable"
+ },
+ {
+  "url": "https://vimeo.com/73675285",
+  "error": "ERROR: [vimeo] 73675285: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/61210101",
+  "error": "ERROR: [vimeo] 61210101: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/177296675",
+  "error": "ERROR: [vimeo] 177296675: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/4007059",
+  "error": "ERROR: [vimeo] 4007059: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/162756419",
+  "error": "ERROR: [vimeo] 162756419: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/25597941",
+  "error": "ERROR: [vimeo] 25597941: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/128961450",
+  "error": "ERROR: [vimeo] 128961450: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/317234083",
+  "error": "ERROR: [vimeo] 317234083: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/75494502",
+  "error": "ERROR: [vimeo] 75494502: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/55846545",
+  "error": "ERROR: [vimeo] 55846545: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=wfHiiDuz1zk",
+  "id": "wfHiiDuz1zk",
+  "title": "A simple idea from plastic crates!!!",
+  "uploader": "DENDEN TV",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 223
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=O8B7XXdsaTA",
+  "id": "O8B7XXdsaTA",
+  "title": "How To Eat A Xiao Long Bao Like A Boss",
+  "uploader": "Gothamist",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 63
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=hOB1Bf8GM68",
+  "id": "hOB1Bf8GM68",
+  "title": "How To Correctly Measure for a Dining Room Rug | Six Sisters Stuff",
+  "uploader": "Six Sisters' Stuff",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 91
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=O1_cGwtNgu4",
+  "id": "O1_cGwtNgu4",
+  "title": "How To Sandblast A Car Wheel",
+  "uploader": "Classic Car Restoration Club",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 175
+ },
+ {
+  "url": "https://vimeo.com/115483513",
+  "error": "ERROR: [vimeo] 115483513: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/27001218",
+  "error": "ERROR: [vimeo] 27001218: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/61808985",
+  "error": "ERROR: [vimeo] 61808985: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/61991878",
+  "error": "ERROR: [vimeo] 61991878: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/39718042",
+  "error": "ERROR: [vimeo] 39718042: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/72196080",
+  "error": "ERROR: [vimeo] 72196080: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/342538679",
+  "error": "ERROR: [vimeo] 342538679: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/165492039",
+  "error": "ERROR: [vimeo] 165492039: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/24096832",
+  "error": "ERROR: [vimeo] 24096832: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/156717391",
+  "error": "ERROR: [vimeo] 156717391: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/65962624",
+  "error": "ERROR: [vimeo] 65962624: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/216050587",
+  "error": "ERROR: [vimeo] 216050587: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/218176459",
+  "error": "ERROR: [vimeo] 218176459: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/282082221",
+  "error": "ERROR: [vimeo] 282082221: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://vimeo.com/192620647",
+  "error": "ERROR: [vimeo] 192620647: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=hxMsVbFr1Bc",
+  "id": "hxMsVbFr1Bc",
+  "title": "P!nk the border collie wins back-to-back titles at the 2019 WKC Masters Agility | FOX SPORTS",
+  "uploader": "FOX Sports",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 140
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=3kcCM5lZtFg",
+  "error": "ERROR: [youtube] 3kcCM5lZtFg: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=YTgXTS8gLjU",
+  "id": "YTgXTS8gLjU",
+  "title": "How to Harvest a Stone Crab Claw",
+  "uploader": "Florida Fish and Wildlife Conservation Commission",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 79
+ },
+ {
+  "url": "https://vimeo.com/63342550",
+  "error": "ERROR: [vimeo] 63342550: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=6ELB5GBQInA",
+  "id": "6ELB5GBQInA",
+  "title": "Your Memorial Day Weekend Master Plan Is Ruined",
+  "uploader": "\u0423\u043b\u044c\u044f\u043d\u0430 \u0411\u043e\u0440\u0438\u0441\u043e\u0432\u0430",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 43
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=o6OkcJt4vD4",
+  "id": "o6OkcJt4vD4",
+  "title": "Mr Eazi surprises his girlfriend Temi Otedola \ud83e\udd70",
+  "uploader": "Wada7 Africa",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 67
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=hJF7tvq8Q5c",
+  "id": "hJF7tvq8Q5c",
+  "title": "Chuck Surprised His Girlfriend With an Awesome Christmas Gift\u2026 From 3,000+ Miles Away | RingTV",
+  "uploader": "Ring",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 51
+ },
+ {
+  "url": "https://vimeo.com/13105771",
+  "error": "ERROR: [vimeo] 13105771: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=RlF6YPpqqMI",
+  "id": "RlF6YPpqqMI",
+  "title": "JESSICA ALBA - Makeup Tutorial! Fresh Look! #honestbeauty",
+  "uploader": "Dhey Dhey",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 145
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=scagiLOg4rc",
+  "id": "scagiLOg4rc",
+  "title": "Beginner Friendly Valentine\u2019s Day Eye Makeup Tutorial",
+  "uploader": "TheMakeupChair",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 151
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=pUDQmJgI2Z0",
+  "id": "pUDQmJgI2Z0",
+  "title": "Bryony Blake\u2019s Contour and Highlight Makeup Tutorial",
+  "uploader": "Tropic",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 161
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=Jh3QIEB5p7s",
+  "error": "ERROR: [youtube] Jh3QIEB5p7s: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=J8rkfeZnp0o",
+  "id": "J8rkfeZnp0o",
+  "title": "4 Ways to Wear or Tie A Button Up Shirt",
+  "uploader": "Christine Andrew",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 226
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=BAN68YnzVnY",
+  "id": "BAN68YnzVnY",
+  "title": "The Original Stone Cold Challenge",
+  "uploader": "Felli Ski",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 41
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=M7FUb6S2AFQ",
+  "id": "M7FUb6S2AFQ",
+  "title": "Marshmallow goes on top! (Engineer Challenge)",
+  "uploader": "Sacramento District",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 159
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=lIxSZW-TxZ0",
+  "id": "lIxSZW-TxZ0",
+  "title": "Frozen Elsa Uses Magical Powers to Start Fire and Melt Snow",
+  "uploader": "Kid SuperHero TV",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 102
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=-3mQvqu34kQ",
+  "id": "-3mQvqu34kQ",
+  "title": "Fire Fit Fire Fighter Competition - Dorchester, Ontario.mp4",
+  "uploader": "TourismMiddlesex",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 146
+ },
+ {
+  "url": "https://vimeo.com/77403805",
+  "error": "ERROR: [vimeo] 77403805: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/289635758",
+  "error": "ERROR: [vimeo] 289635758: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/155063627",
+  "error": "ERROR: [vimeo] 155063627: Failed to fetch macos OAuth token: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)"
+ },
+ {
+  "url": "https://vimeo.com/96615251",
+  "error": "ERROR: [vimeo] 96615251: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://vimeo.com/60967280",
+  "error": "ERROR: [vimeo] 60967280: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://vimeo.com/46265980",
+  "error": "ERROR: [vimeo] 46265980: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://vimeo.com/77569502",
+  "error": "ERROR: [vimeo] 77569502: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://vimeo.com/38951642",
+  "error": "ERROR: [vimeo] 38951642: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://vimeo.com/214354668",
+  "error": "ERROR: [vimeo] 214354668: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://vimeo.com/154085751",
+  "error": "ERROR: [vimeo] 154085751: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://vimeo.com/265934308",
+  "error": "ERROR: [vimeo] 265934308: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=YnjyKgnXRho",
+  "id": "YnjyKgnXRho",
+  "title": "Crazy Woffinden and Zmarzlik battle in Wroclaw! \ud83d\udd25 | Heat of the Weekend | FIM Speedway Grand Prix",
+  "uploader": "FIM Speedway Grand Prix",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 111
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=EaHZLUWwxfQ",
+  "id": "EaHZLUWwxfQ",
+  "title": "Stone Cold Killer wins the 2012 Ear Pulling contest with ease, a breakdown",
+  "uploader": "Jomboy Media",
+  "license": null,
+  "extractor": "youtube",
+  "duration": 138
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=cnldysR07ic",
+  "id": "cnldysR07ic",
+  "title": "David Ortiz's incredible reaction to Jackie Bradley Jr.'s Grand Slam | FOX MLB",
+  "uploader": "FOX Sports",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 55
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=X-ErHcOTa6w",
+  "id": "X-ErHcOTa6w",
+  "title": "Camper A/C units chewed off by hungry 11foot8+8 bridge",
+  "uploader": "yovo68",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 59
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=adjnE99YVKs",
+  "id": "adjnE99YVKs",
+  "title": "Scatpack Chargers vs Scatpack Challengers! Which is faster?",
+  "uploader": "Sinister Life",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 214
+ },
+ {
+  "url": "https://vimeo.com/164340153",
+  "error": "ERROR: [vimeo] 164340153: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://vimeo.com/68264542",
+  "error": "ERROR: [vimeo] 68264542: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://vimeo.com/63918357",
+  "error": "ERROR: [vimeo] 63918357: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://vimeo.com/27696155",
+  "error": "ERROR: [vimeo] 27696155: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://vimeo.com/174420923",
+  "error": "ERROR: [vimeo] 174420923: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=WKxHcbmtZD0",
+  "id": "WKxHcbmtZD0",
+  "title": "How to Cook a Whole Chicken in the Instant Pot",
+  "uploader": "Six Sisters' Stuff",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 149
+ },
+ {
+  "url": "https://vimeo.com/29257861",
+  "error": "ERROR: [vimeo] 29257861: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://vimeo.com/6565434",
+  "error": "ERROR: [vimeo] 6565434: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://vimeo.com/6554603",
+  "error": "ERROR: [vimeo] 6554603: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://vimeo.com/411463782",
+  "error": "ERROR: [vimeo] 411463782: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://vimeo.com/419613831",
+  "error": "ERROR: [vimeo] 419613831: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://vimeo.com/89037708",
+  "error": "ERROR: [vimeo] 89037708: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://vimeo.com/20390916",
+  "error": "ERROR: [vimeo] 20390916: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=ZerUbHmuY04",
+  "id": "ZerUbHmuY04",
+  "title": "Causal understanding of water displacement by a crow",
+  "uploader": "PLOS Media",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 197
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=CHQOctEvtTY",
+  "id": "CHQOctEvtTY",
+  "title": "Rotational Inertia: The Race Between a Ring and a Disc",
+  "uploader": "North Carolina School of Science and Mathematics",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 191
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=vPpuB9tnrf8",
+  "id": "vPpuB9tnrf8",
+  "title": "Meet the BeBot, a beach cleaning robot!",
+  "uploader": "4ocean",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 59
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=OFb9v4hwVeM",
+  "error": "ERROR: [youtube] OFb9v4hwVeM: Video unavailable"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=oqMN3y8k9So",
+  "id": "oqMN3y8k9So",
+  "title": "Reaction of Potassium and Water",
+  "uploader": "North Carolina School of Science and Mathematics",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 110
+ },
+ {
+  "url": "https://vimeo.com/128187513",
+  "error": "ERROR: [vimeo] 128187513: Failed to fetch macos OAuth token: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=vGCzqowM1go",
+  "id": "vGCzqowM1go",
+  "title": "Poverty Compels These Kashmiri Siblings to Quit Studies",
+  "uploader": "VideoVolunteers",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 108
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=TuAUqgafeKo",
+  "id": "TuAUqgafeKo",
+  "title": "Bagley Couple Gives A New Life To Four Siblings",
+  "uploader": "Lakeland PBS",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 121
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=DqSWzh6IvzQ",
+  "id": "DqSWzh6IvzQ",
+  "title": "A rousing welcome for PM Modi in Copenhagen, Denmark",
+  "uploader": "Narendra Modi",
+  "license": "Creative Commons Attribution license (reuse allowed)",
+  "extractor": "youtube",
+  "duration": 94
+ }
+]

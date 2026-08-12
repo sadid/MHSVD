@@ -1,0 +1,2230 @@
+{
+ "dataset": "MHSVD (Multi-Highlight Short Video Dataset)",
+ "collection_license_statement": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+ "video_count": 117,
+ "videos": [
+  {
+   "file": "vimeo_3908328_Hapless_Chappy_The_Tower_Silent_Comedy_320x240_30.mp4",
+   "url": "https://vimeo.com/3908328",
+   "platform": "vimeo",
+   "video_id": "3908328",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3793,
+    "frame_rate": 30,
+    "width": 320,
+    "height": 240,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "45346fa8690b4d2330ac7c71dacfcbc81d8ccc560c50b7b4a88a79259a0e8812",
+   "description_file": "vimeo_3908328_Hapless Chappy - The Tower (Silent Comedy)_320x240_30.description"
+  },
+  {
+   "file": "youtube_up9EcirmsKg_When_CVS_Receipts_Get_Out_Of_Control_640x360_24.mp4",
+   "url": "https://www.youtube.com/watch?v=up9EcirmsKg",
+   "platform": "youtube",
+   "video_id": "up9EcirmsKg",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3560,
+    "frame_rate": 23.976023976023978,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "9fcad67786408c41ee3e0ce7de4413d3f6dcaddc6ab5dda3faebaba5a1af71b4",
+   "description_file": "youtube_up9EcirmsKg_When CVS Receipts Get Out Of Control_640x360_24.description"
+  },
+  {
+   "file": "youtube_eTky7Sr7Kw8_My_Friends_Motivational_Mom_how_does_she_do_it_640x360_24.mp4",
+   "url": "https://www.youtube.com/watch?v=eTky7Sr7Kw8",
+   "platform": "youtube",
+   "video_id": "eTky7Sr7Kw8",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2378,
+    "frame_rate": 23.976023976023978,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "802e0d3a5f63a2ea354ab644f2e2172dc189590ee6e09c92ded48a1502e2ea4f",
+   "description_file": "youtube_eTky7Sr7Kw8_My Friend's Motivational Mom... (how does she do it)_640x360_24.description"
+  },
+  {
+   "file": "vimeo_52066214_Swurls_the_Silent_Clown_640x360_30.mp4",
+   "url": "https://vimeo.com/52066214",
+   "platform": "vimeo",
+   "video_id": "52066214",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 4456,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "08b9c76af6b7df8563fc3f670b83a654198b0d0a120acc0a6cb9a57146fb4027",
+   "description_file": "vimeo_52066214_Swurls the Silent Clown_640x360_30.description"
+  },
+  {
+   "file": "vimeo_45370506_Funny_Westjet_flight_attendant_480x360_29.mp4",
+   "url": "https://vimeo.com/45370506",
+   "platform": "vimeo",
+   "video_id": "45370506",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3943,
+    "frame_rate": 29.97002997002997,
+    "width": 480,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "9ead75c435166a64a143607a4822c72311d51a0b0b69479102972a587fa24954",
+   "description_file": "vimeo_45370506_Funny Westjet flight attendant_480x360_29.description"
+  },
+  {
+   "file": "vimeo_1388121_Lemonade_for_75c_2006_640x480_29.mp4",
+   "url": "https://vimeo.com/1388121",
+   "platform": "vimeo",
+   "video_id": "1388121",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3527,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 480,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "8074aeaea88e25743df216aefd2e52dc9695003ab12039130bf7e514755873dc",
+   "description_file": "vimeo_1388121_Lemonade for 75c (2006)_640x480_29.description"
+  },
+  {
+   "file": "vimeo_190075268_Don_Gnu_A_Snowballs_Chance_In_Hell_Bora_Bora_15_17_21_25_NOV_2016_960x540_25.mp4",
+   "url": "https://vimeo.com/190075268",
+   "platform": "vimeo",
+   "video_id": "190075268",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1662,
+    "frame_rate": 25,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "e721e2808b94adc264b6ff53b108ad5a02349bbc1bc065b3f127cd61d44a9df1",
+   "description_file": "vimeo_190075268_Don Gnu - A Snowball's Chance In Hell (Bora Bora, 15-17 + 21-25 NOV 2016)_960x540_25.description"
+  },
+  {
+   "file": "vimeo_22195033_Bike_Stunt_640x360_25.mp4",
+   "url": "https://vimeo.com/22195033",
+   "platform": "vimeo",
+   "video_id": "22195033",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1198,
+    "frame_rate": 25,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "5e1b826234bd2ce6b37aeb19e6da529438c9dacf4121584071c13069c770e990",
+   "description_file": "vimeo_22195033_Bike Stunt_640x360_25.description"
+  },
+  {
+   "file": "vimeo_90623227_Dr_Krassowskis_Fantastic_Teleportation_Device_and_The_Schmuck_Who_Found_It._640x360_24.mp4",
+   "url": "https://vimeo.com/90623227",
+   "platform": "vimeo",
+   "video_id": "90623227",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2294,
+    "frame_rate": 23.976023976023978,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "c3b15db28a737bc6921e13dd9470b3f7e1f5fb0dbbddfb7666af1e450f1a4640",
+   "description_file": "vimeo_90623227_Dr. Krassowski's Fantastic Teleportation Device...and The Schmuck Who Found It._640x360_24.description"
+  },
+  {
+   "file": "vimeo_125184774_Hats_Off_640x360_30.mp4",
+   "url": "https://vimeo.com/125184774",
+   "platform": "vimeo",
+   "video_id": "125184774",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 745,
+    "frame_rate": 30,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "0a5dfa3d5620b4605fa52c8b5751db526ab6721d413cad5dcdd06c26c3874ef1",
+   "description_file": "vimeo_125184774_Hat's Off_640x360_30.description"
+  },
+  {
+   "file": "vimeo_68549087_Insomni_Gone_960x540_NA.mp4",
+   "url": "https://vimeo.com/68549087",
+   "platform": "vimeo",
+   "video_id": "68549087",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1977,
+    "frame_rate": 25,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "0d325986169012a1bdc029107420736b85320ba90d23d9f74ce896923c00d63c",
+   "description_file": "vimeo_68549087_Insomni-Gone_960x540_NA.description"
+  },
+  {
+   "file": "vimeo_20613902_30_seconds_shortfilm_STRAITJACKET_640x360_25.mp4",
+   "url": "https://vimeo.com/20613902",
+   "platform": "vimeo",
+   "video_id": "20613902",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 629,
+    "frame_rate": 25,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "0abb82233a70cf45548a7905fa58f605dc841b84623ff55d8c082ec35e8ab9a9",
+   "description_file": "vimeo_20613902_30 seconds shortfilm 'STRAITJACKET'_640x360_25.description"
+  },
+  {
+   "file": "vimeo_69966191_iDiot_The_Film_642x362_24.mp4",
+   "url": "https://vimeo.com/69966191",
+   "platform": "vimeo",
+   "video_id": "69966191",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2883,
+    "frame_rate": 24,
+    "width": 642,
+    "height": 362,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "43d1957ad662ef0f5b855f0e8b2ea2535191aad0f8ae467b0d7ef03f9b73cd2e",
+   "description_file": "vimeo_69966191_iDiot-The Film_642x362_24.description"
+  },
+  {
+   "file": "vimeo_51887604_LONG_HAIR_640x360_24.mp4",
+   "url": "https://vimeo.com/51887604",
+   "platform": "vimeo",
+   "video_id": "51887604",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY-ND",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 677,
+    "frame_rate": 23.976,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "004129e9f40855c0de20676ba57a1cf5176bfebd718b2d311d079ebe8f8c19ae",
+   "description_file": "vimeo_51887604_LONG HAIR_640x360_24.description"
+  },
+  {
+   "file": "vimeo_182665051_Patrika_Darbo_Me_In_30_Seconds_Prime_Time_Emmy_Awards_2016_960x540_23.mp4",
+   "url": "https://vimeo.com/182665051",
+   "platform": "vimeo",
+   "video_id": "182665051",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "standard",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 793,
+    "frame_rate": 23.976023976023978,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "e581f25c0ec0a44a6c30778f7905736c82db13c3bc68fa22f7114084fb6cc21d",
+   "description_file": "vimeo_182665051_Patrika Darbo 'Me In 30 Seconds' Prime Time Emmy Awards 2016_960x540_23.description"
+  },
+  {
+   "file": "vimeo_11261171_MTV_Arabia_Arabs_Rock_2007_787x576_NA.mp4",
+   "url": "https://vimeo.com/11261171",
+   "platform": "vimeo",
+   "video_id": "11261171",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1309,
+    "frame_rate": 25,
+    "width": 720,
+    "height": 576,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "17006f16ed469bc256947740f2ceb119a17117975dd0441d924e95b38a57281a",
+   "description_file": "vimeo_11261171_MTV Arabia - Arab's Rock 2007_787x576_NA.description"
+  },
+  {
+   "file": "vimeo_53132789_De_Bloem_Joker_656x360_25.mp4",
+   "url": "https://vimeo.com/53132789",
+   "platform": "vimeo",
+   "video_id": "53132789",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 751,
+    "frame_rate": 25,
+    "width": 656,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "56391d8f3ede16cc6a932529c1af94defa01efddc40ce7b130ff6b0c03b316f1",
+   "description_file": "vimeo_53132789_De Bloem Joker_656x360_25.description"
+  },
+  {
+   "file": "vimeo_67324545_Afrika_Burn_2013_Archetypes_640x360_25.mp4",
+   "url": "https://vimeo.com/67324545",
+   "platform": "vimeo",
+   "video_id": "67324545",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3073,
+    "frame_rate": 25,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "1d06dfbd7ed0150e200ccff32ad98917926cce24eb936b06860526d69e1d2a40",
+   "description_file": "vimeo_67324545_Afrika Burn 2013 - Archetypes_640x360_25.description"
+  },
+  {
+   "file": "vimeo_59644378_Valentines_Ball_DIY_640x360_30.mp4",
+   "url": "https://vimeo.com/59644378",
+   "platform": "vimeo",
+   "video_id": "59644378",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY-NC-ND",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1647,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "3ef6c1d8d9aa2a6d6e556a1b61d8f25eb729871361a516b0c7f0a2b0b5ed6726",
+   "description_file": "vimeo_59644378_Valentine's Ball DIY_640x360_30.description"
+  },
+  {
+   "file": "youtube_IYY1IIPIKoQ_Funny_Food_Challange_On_TikTok_Who_will_win_INDIA_Vs_CHINA_Be_Me_Stick_640x360_24.mp4",
+   "url": "https://www.youtube.com/watch?v=IYY1IIPIKoQ",
+   "platform": "youtube",
+   "video_id": "IYY1IIPIKoQ",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2170,
+    "frame_rate": 24,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "b536163c4f4ee083bc464ba588b8f65530f60edab6f6a94f5a8ddf45156b851f",
+   "description_file": "youtube_IYY1IIPIKoQ_Funny Food Challange On TikTok _ Who will win INDIA Vs CHINA _ Be Me Stick _640x360_24.description"
+  },
+  {
+   "file": "youtube_apItXdtFoxo_A_Warriors_Halloween_640x360_24.mp4",
+   "url": "https://www.youtube.com/watch?v=apItXdtFoxo",
+   "platform": "youtube",
+   "video_id": "apItXdtFoxo",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 792,
+    "frame_rate": 23.976023976023978,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "7eacef37efb3baf016b060a9ffe23d0a6a6b25af4c42e558bb8927bbd84712d5",
+   "description_file": "youtube_apItXdtFoxo_A Warrior's Halloween_640x360_24.description"
+  },
+  {
+   "file": "vimeo_57725822_Dance_is_Cinedans_oneminute_640x360_30.mp4",
+   "url": "https://vimeo.com/57725822",
+   "platform": "vimeo",
+   "video_id": "57725822",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1801,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "5cc63c23982e056cda3c7c509f6da887f240d9171d4a2dd79bc0f292fa5b6941",
+   "description_file": "vimeo_57725822_Dance is... [Cinedans oneminute]_640x360_30.description"
+  },
+  {
+   "file": "vimeo_83922842_MyMauritius_the_Movie_640x360_25.mp4",
+   "url": "https://vimeo.com/83922842",
+   "platform": "vimeo",
+   "video_id": "83922842",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY-NC-SA",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 4607,
+    "frame_rate": 25,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "c3fcf662840d173739042dcf0b513430e5641f1bb37d8b60f5e1f0fe29a961e2",
+   "description_file": "vimeo_83922842_MyMauritius the Movie_640x360_25.description"
+  },
+  {
+   "file": "vimeo_46107788_But_Puglia_You_640x360_25.mp4",
+   "url": "https://vimeo.com/46107788",
+   "platform": "vimeo",
+   "video_id": "46107788",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY-NC-SA",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3988,
+    "frame_rate": 25,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "0706c1e449cb584eb8d28ec442f06eca470f037e5b8e8c0f480e85cacb619173",
+   "description_file": "vimeo_46107788_But... Puglia You_640x360_25.description"
+  },
+  {
+   "file": "vimeo_27655264_Bayan_640x360_30.mp4",
+   "url": "https://vimeo.com/27655264",
+   "platform": "vimeo",
+   "video_id": "27655264",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3153,
+    "frame_rate": 30,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "98196b17dd7fe05131594e8b8719da1f3f8a658cef06f99e147301f1b4f2ddfe",
+   "description_file": "vimeo_27655264_Bayan_640x360_30.description"
+  },
+  {
+   "file": "vimeo_21636546_Transcended_Goa_640x360_23.mp4",
+   "url": "https://vimeo.com/21636546",
+   "platform": "vimeo",
+   "video_id": "21636546",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY-NC-ND",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 4251,
+    "frame_rate": 23.976023976023978,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "8441f4bd9b6753111561fda181e4a1e0dd9b85983064721e829f7a36169e10a0",
+   "description_file": "vimeo_21636546_Transcended Goa_640x360_23.description"
+  },
+  {
+   "file": "vimeo_276920279_DI_PARI_PASSO_TEASER_960x540_25.mp4",
+   "url": "https://vimeo.com/276920279",
+   "platform": "vimeo",
+   "video_id": "276920279",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3023,
+    "frame_rate": 25,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "02fc15802b7702539f1dee295bfa84fc98e9d807e5ef328db96ee42900266955",
+   "description_file": "vimeo_276920279_DI PARI PASSO TEASER_960x540_25.description"
+  },
+  {
+   "file": "vimeo_82305861_Kitana_Turnbull_Crashes_a_Swedish_Lutefisk_Dinner_640x360_24.mp4",
+   "url": "https://vimeo.com/82305861",
+   "platform": "vimeo",
+   "video_id": "82305861",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2044,
+    "frame_rate": 23.976023976023978,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "27828566178251c07adcfee99ec6e473390f748383ddd0e05965e17980e96cdb",
+   "description_file": "vimeo_82305861_Kitana Turnbull Crashes a Swedish Lutefisk Dinner_640x360_24.description"
+  },
+  {
+   "file": "vimeo_214331310_Finding_Flamenco_at_75_960x540_29.mp4",
+   "url": "https://vimeo.com/214331310",
+   "platform": "vimeo",
+   "video_id": "214331310",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 4152,
+    "frame_rate": 29.97002997002997,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "86476b1368d6c10ddd71d0eeaa5aa7f45ce8f4d3c302ffeeac7ce81491ff9e44",
+   "description_file": "vimeo_214331310_Finding Flamenco at 75_960x540_29.description"
+  },
+  {
+   "file": "vimeo_162582604_Navy_Pier_Celebrates_Mexico_with_Traditional_Folk_Music_960x540_30.mp4",
+   "url": "https://vimeo.com/162582604",
+   "platform": "vimeo",
+   "video_id": "162582604",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3311,
+    "frame_rate": 29.97002997002997,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "6335680ce9bd9ce030825f95b0cd81e6f598161638b2e8b4bde84ca630fd5228",
+   "description_file": "vimeo_162582604_Navy Pier Celebrates Mexico with Traditional Folk Music_960x540_30.description"
+  },
+  {
+   "file": "vimeo_87147134_Hokitika_Dance_Weekend_640x350_25.mp4",
+   "url": "https://vimeo.com/87147134",
+   "platform": "vimeo",
+   "video_id": "87147134",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1406,
+    "frame_rate": 25,
+    "width": 640,
+    "height": 350,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "f37f4bbdebe68d50e8a7eca849f4662f9b68aa5966cce794e7eb10cedcf34b2c",
+   "description_file": "vimeo_87147134_Hokitika Dance Weekend_640x350_25.description"
+  },
+  {
+   "file": "vimeo_151044126_NYC_Ballet_Intensive_Sizzle_640x360_24.mp4",
+   "url": "https://vimeo.com/151044126",
+   "platform": "vimeo",
+   "video_id": "151044126",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY-NC-ND",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 864,
+    "frame_rate": 23.976023976023978,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "ab00843d0e0c91df1b71eda922d2c54f9f4cc9632a7866bc36d2312bbd610986",
+   "description_file": "vimeo_151044126_NYC Ballet Intensive - Sizzle_640x360_24.description"
+  },
+  {
+   "file": "youtube_UiYpBVFjmAw_KUDAIBERGEN_FAMILY_GATHERING_Terry_Dear_Yan_640x360_30.mp4",
+   "url": "https://www.youtube.com/watch?v=UiYpBVFjmAw",
+   "platform": "youtube",
+   "video_id": "UiYpBVFjmAw",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unreachable",
+   "distribution": "archive",
+   "source_removed": true,
+   "media": {
+    "frame_count": 2282,
+    "frame_rate": 30,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "74611208efa6f7efd9c9a6967fc9f7de7ce63395e229dbf48a23de3ce521f3c6",
+   "description_file": "youtube_UiYpBVFjmAw_KUDAIBERGEN FAMILY GATHERING Terry Dear Yan_640x360_30.description"
+  },
+  {
+   "file": "vimeo_73675285_DIY_kindle_scanner_640x360_30.mp4",
+   "url": "https://vimeo.com/73675285",
+   "platform": "vimeo",
+   "video_id": "73675285",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2925,
+    "frame_rate": 29.97,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "97b58aeb6c90aa89ae58a91ce7d9f864df15fb0e4a44034ef55b0072215edb7a",
+   "description_file": "vimeo_73675285_DIY kindle scanner_640x360_30.description"
+  },
+  {
+   "file": "vimeo_61210101_3D_Printed_Record_640x360_24.mp4",
+   "url": "https://vimeo.com/61210101",
+   "platform": "vimeo",
+   "video_id": "61210101",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY-NC-SA",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3258,
+    "frame_rate": 23.976,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "8e0c216e0b954efedaa4dad6e6bc2112a0e37cfc729c87379fc48c003da158ac",
+   "description_file": "vimeo_61210101_3D Printed Record_640x360_24.description"
+  },
+  {
+   "file": "vimeo_177296675_DIY_Bumble_Bee_Balloons_960x540_24.mp4",
+   "url": "https://vimeo.com/177296675",
+   "platform": "vimeo",
+   "video_id": "177296675",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY-NC-SA",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1720,
+    "frame_rate": 24,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "4e6a3c071ef1ce32258f07a4a34852c00cbfcd27d19ba9e9e7a905382aa1a999",
+   "description_file": "vimeo_177296675_DIY Bumble Bee Balloons_960x540_24.description"
+  },
+  {
+   "file": "vimeo_4007059_Seting_Up_The_D_Focus_Follow_Focus_640x432_29.mp4",
+   "url": "https://vimeo.com/4007059",
+   "platform": "vimeo",
+   "video_id": "4007059",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2757,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 432,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "299bbd29fbefe9ea90ff84d914b553b3a34f7b56e6cd3f029d478090ee0a9ebe",
+   "description_file": "vimeo_4007059_Seting Up The D_Focus Follow Focus_640x432_29.description"
+  },
+  {
+   "file": "vimeo_162756419_Arbalet_project_Assembly_timelapse_of_an_LED_table_in_a_fablab_960x540_24.mp4",
+   "url": "https://vimeo.com/162756419",
+   "platform": "vimeo",
+   "video_id": "162756419",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1512,
+    "frame_rate": 24,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "55ee41309dfd0c822b37b463c7c89a9df2632fc83a90cf93d9bab9e92fcebe9c",
+   "description_file": "vimeo_162756419_Arbalet project - Assembly timelapse of an LED table in a fablab_960x540_24.description"
+  },
+  {
+   "file": "vimeo_25597941_Coin_Collector_640x480_30.mp4",
+   "url": "https://vimeo.com/25597941",
+   "platform": "vimeo",
+   "video_id": "25597941",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2559,
+    "frame_rate": 30,
+    "width": 640,
+    "height": 480,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "317f09e93855bdfcbabceb8235bd10ac9b6c25c3be0e88e699c1ac67fbc176b0",
+   "description_file": "vimeo_25597941_Coin Collector_640x480_30.description"
+  },
+  {
+   "file": "vimeo_128961450_Secret_Drawer_compartment_in_a_custom_rustic_coffee_table_for_a_great_client_in_California_640x360_30.mp4",
+   "url": "https://vimeo.com/128961450",
+   "platform": "vimeo",
+   "video_id": "128961450",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2412,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "4523e249f65e5f75ecbf752a94d0b97354b83c977042592afb7c977f141bb2e0",
+   "description_file": "vimeo_128961450_Secret Drawer compartment in a custom rustic coffee table for a great client in California_640x360_30.description"
+  },
+  {
+   "file": "vimeo_317234083_DIY_Yogurt_And_Honey_Face_Mask_For_Smooth_&_Glowing_Skin_Easy_DIY_Face_Packs_StyleCraze_640x360_25.mp4",
+   "url": "https://vimeo.com/317234083",
+   "platform": "vimeo",
+   "video_id": "317234083",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1555,
+    "frame_rate": 25,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "1ba7ac755dcddf8906b5d44479e26b8745b0dcf361fcc00342e7db225dcd704d",
+   "description_file": "vimeo_317234083_DIY Yogurt And Honey Face Mask For Smooth & Glowing Skin - Easy  DIY Face Packs - StyleCraze_640x360_25.description"
+  },
+  {
+   "file": "vimeo_75494502_How_to_DIY_cable_railing_with_wood_posts_1024x576_NA.mp4",
+   "url": "https://vimeo.com/75494502",
+   "platform": "vimeo",
+   "video_id": "75494502",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY-NC-ND",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3057,
+    "frame_rate": 25,
+    "width": 1024,
+    "height": 576,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "410eda38b15a5789fe5349019e5bf4fd465404d28f43fd36f8f551850d9d7835",
+   "description_file": "vimeo_75494502_How to DIY - cable railing with wood posts_1024x576_NA.description"
+  },
+  {
+   "file": "vimeo_55846545_How_To_Dye_Bottle_Brush_Trees_640x360_30.mp4",
+   "url": "https://vimeo.com/55846545",
+   "platform": "vimeo",
+   "video_id": "55846545",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3831,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "08cab3abfa1762de8d96cbaeea8ffc88e153c7ec6b8c71fb3338a4a820ee5cab",
+   "description_file": "vimeo_55846545_How To _ Dye Bottle Brush Trees_640x360_30.description"
+  },
+  {
+   "file": "youtube_wfHiiDuz1zk_A_simple_idea_from_plastic_crates_640x360_30.mp4",
+   "url": "https://www.youtube.com/watch?v=wfHiiDuz1zk",
+   "platform": "youtube",
+   "video_id": "wfHiiDuz1zk",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 6678,
+    "frame_rate": 29.97,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "bb866bc3b6c5bc3ec8ae67d63e65797d99cdd662d3f116b720fecf90af8fa7ec",
+   "description_file": "youtube_wfHiiDuz1zk_A simple idea from plastic crates!!!_640x360_30.description"
+  },
+  {
+   "file": "youtube_O8B7XXdsaTA_How_To_Eat_A_Xiao_Long_Bao_Like_A_Boss_640x360_24.mp4",
+   "url": "https://www.youtube.com/watch?v=O8B7XXdsaTA",
+   "platform": "youtube",
+   "video_id": "O8B7XXdsaTA",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1502,
+    "frame_rate": 23.976023976023978,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "3a7feb23ea9f160dbb5a438ab044151bf3946aea64749934de537418f1895942",
+   "description_file": "youtube_O8B7XXdsaTA_How To Eat A Xiao Long Bao Like A Boss_640x360_24.description"
+  },
+  {
+   "file": "youtube_hOB1Bf8GM68_How_To_Correctly_Measure_for_a_Dining_Room_Rug_Six_Sisters_Stuff_640x360_30.mp4",
+   "url": "https://www.youtube.com/watch?v=hOB1Bf8GM68",
+   "platform": "youtube",
+   "video_id": "hOB1Bf8GM68",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2732,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "01d928d0058e91b71a91102ccea6707450375f0c00146fc9c4ad96c1187bc6eb",
+   "description_file": "youtube_hOB1Bf8GM68_How To Correctly Measure for a Dining Room Rug _ Six Sisters Stuff_640x360_30.description"
+  },
+  {
+   "file": "youtube_O1_cGwtNgu4_How_To_Sandblast_A_Car_Wheel_640x360_30.mp4",
+   "url": "https://www.youtube.com/watch?v=O1_cGwtNgu4",
+   "platform": "youtube",
+   "video_id": "O1_cGwtNgu4",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 5239,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "98668e2131183021bb3bc357f84dfeaf0b525b56c116f8cf819dfe303cab4574",
+   "description_file": "youtube_O1_cGwtNgu4_How To Sandblast A Car Wheel_640x360_30.description"
+  },
+  {
+   "file": "vimeo_115483513_Funny_Dog_Video_320x240_30.mp4",
+   "url": "https://vimeo.com/115483513",
+   "platform": "vimeo",
+   "video_id": "115483513",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1314,
+    "frame_rate": 29.97002997002997,
+    "width": 320,
+    "height": 240,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "0d7415667307e7d6dc35b8117d31b1a9e19406fff62fac6b4a628947bdd33a2a",
+   "description_file": "vimeo_115483513_Funny Dog Video_320x240_30.description"
+  },
+  {
+   "file": "vimeo_27001218_Land_of_the_Long_Ears_640x360_25.mp4",
+   "url": "https://vimeo.com/27001218",
+   "platform": "vimeo",
+   "video_id": "27001218",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3032,
+    "frame_rate": 25,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "683c79b53573769d1a9f2ed1bd233b193985612ca4cc7f244ef1730ceefe2922",
+   "description_file": "vimeo_27001218_Land of the Long Ears_640x360_25.description"
+  },
+  {
+   "file": "vimeo_61808985_HOUSE_OF_HARVEY_Pets_Make_Everything_Better_640x360_24.mp4",
+   "url": "https://vimeo.com/61808985",
+   "platform": "vimeo",
+   "video_id": "61808985",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1365,
+    "frame_rate": 23.976023976023978,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "142410a2fc9cd743581fd1f1cb89f3e4eb59e92e7846847c0ceda87ee6e6e5ad",
+   "description_file": "vimeo_61808985_HOUSE OF HARVEY - Pets Make Everything Better_640x360_24.description"
+  },
+  {
+   "file": "vimeo_61991878_Yellow_Lab_Puppy_Having_Fun_with_an_Orange_640x360_30.mp4",
+   "url": "https://vimeo.com/61991878",
+   "platform": "vimeo",
+   "video_id": "61991878",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1108,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "800904a3a7136458e1a71598f74c4e7354f82951c5b848b032bb37a3b8fe393f",
+   "description_file": "vimeo_61991878_Yellow Lab Puppy Having Fun with an Orange_640x360_30.description"
+  },
+  {
+   "file": "vimeo_39718042_Morning_cats_640x360_25.mp4",
+   "url": "https://vimeo.com/39718042",
+   "platform": "vimeo",
+   "video_id": "39718042",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2165,
+    "frame_rate": 25,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "c68fe2279ffa14a2dcf5432de32afe99b115ac6c45f0b9b9b24dc44db94fffca",
+   "description_file": "vimeo_39718042_Morning cats_640x360_25.description"
+  },
+  {
+   "file": "vimeo_72196080_Duke_Driggs_in_Leashes_Are_For_Bitches_640x360_24.mp4",
+   "url": "https://vimeo.com/72196080",
+   "platform": "vimeo",
+   "video_id": "72196080",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2103,
+    "frame_rate": 23.976023976023978,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "e905bcb33b13f1e4c53151d0ce03b637eefffd6553d0d21faaee681ac33386b1",
+   "description_file": "vimeo_72196080_Duke Driggs in Leashes Are For Bitches_640x360_24.description"
+  },
+  {
+   "file": "vimeo_342538679_les_souris_dansent_960x540_29.mp4",
+   "url": "https://vimeo.com/342538679",
+   "platform": "vimeo",
+   "video_id": "342538679",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1801,
+    "frame_rate": 29.97002997002997,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "4f54fb81277c8147c995e2d9b22dc239155bd6c653ead2e3fc1bbd935aca3807",
+   "description_file": "vimeo_342538679_les souris dansent.._960x540_29.description"
+  },
+  {
+   "file": "vimeo_165492039_The_Feral_Feline_Brew_Crew_960x540_30.mp4",
+   "url": "https://vimeo.com/165492039",
+   "platform": "vimeo",
+   "video_id": "165492039",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2765,
+    "frame_rate": 29.97002997002997,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "5c85c98dd80dd3fabd61afff2ae8911b8b431ca039cbcc8b79c3f212c1b255d9",
+   "description_file": "vimeo_165492039_The Feral Feline Brew Crew_960x540_30.description"
+  },
+  {
+   "file": "vimeo_24096832_Hamburg_plays_fetch_640x360_23.mp4",
+   "url": "https://vimeo.com/24096832",
+   "platform": "vimeo",
+   "video_id": "24096832",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1088,
+    "frame_rate": 23.976023976023978,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "f8d88341f97fe9002898e5722e7cfee15040db74ab34bf9e082e1f65ac42b3aa",
+   "description_file": "vimeo_24096832_Hamburg plays fetch!_640x360_23.description"
+  },
+  {
+   "file": "vimeo_156717391_The_Secret_Life_of_Mountain_Lions_Preview_960x540_24.mp4",
+   "url": "https://vimeo.com/156717391",
+   "platform": "vimeo",
+   "video_id": "156717391",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1712,
+    "frame_rate": 23.976023976023978,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "b02af95d6860bfb7a2b53d217acb705e8434b21624a85a163878ba50fdb84161",
+   "description_file": "vimeo_156717391_The Secret Life of Mountain Lions Preview_960x540_24.description"
+  },
+  {
+   "file": "vimeo_65962624_Kot_porody_mejn_kun_Dotcom_Yabba_v_1_god_pitomnik_Grey_Claws_640x360_25.mp4",
+   "url": "https://vimeo.com/65962624",
+   "platform": "vimeo",
+   "video_id": "65962624",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2145,
+    "frame_rate": 25,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "1f0ac006815fe97bc616f72798808ad6f054100266b4771295ffe3fb02c5828c",
+   "description_file": "vimeo_65962624_\u041a\u043e\u0442 \u043f\u043e\u0440\u043e\u0434\u044b \u043c\u0435\u0438\u0306\u043d \u043a\u0443\u043d Dotcom Yabba \u0432 1 \u0433\u043e\u0434, \u043f\u0438\u0442\u043e\u043c\u043d\u0438\u043a \u043a\u043e\u0448\u0435\u043a Grey Claw`s_640x360_25.description"
+  },
+  {
+   "file": "vimeo_216050587_SleekEZ_Demo_960x540_23.mp4",
+   "url": "https://vimeo.com/216050587",
+   "platform": "vimeo",
+   "video_id": "216050587",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1397,
+    "frame_rate": 23.976023976023978,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "7c464f80df1f57cb4108bd3820af5199b85f399c5a8d69c9048139eda1ecf809",
+   "description_file": "vimeo_216050587_SleekEZ Demo_960x540_23.description"
+  },
+  {
+   "file": "vimeo_218176459_Vladik_Into_the_Wild_960x540_25.mp4",
+   "url": "https://vimeo.com/218176459",
+   "platform": "vimeo",
+   "video_id": "218176459",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "standard",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2538,
+    "frame_rate": 25,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "2c2f826b2a3acd300bf6d5641836a511300c37fa50ff97ba45853c4739babe74",
+   "description_file": "vimeo_218176459_Vladik Into the Wild_960x540_25.description"
+  },
+  {
+   "file": "vimeo_282082221_Tiger_Family_in_Sumatra_Over_the_Years_960x540_30.mp4",
+   "url": "https://vimeo.com/282082221",
+   "platform": "vimeo",
+   "video_id": "282082221",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "standard",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1797,
+    "frame_rate": 30,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "8f3e609b794d07b35d261381ae3058aa1aab4a5ca8815eda7c56e3aa41cb24e0",
+   "description_file": "vimeo_282082221_Tiger Family in Sumatra Over the Years_960x540_30.description"
+  },
+  {
+   "file": "vimeo_192620647_221116_Whale_Shark_HM_960x540_29.mp4",
+   "url": "https://vimeo.com/192620647",
+   "platform": "vimeo",
+   "video_id": "192620647",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2494,
+    "frame_rate": 29.97002997002997,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "b58b631e6eb3cbcbb158ce96d1dec1f1508c061f76ebe38cd9f8a2ac225b880e",
+   "description_file": "vimeo_192620647_221116 Whale Shark HM_960x540_29.description"
+  },
+  {
+   "file": "youtube_hxMsVbFr1Bc_Pnk_the_border_collie_wins_back_to_back_titles_at_the_2019_WKC_Masters_Agility_FOX_SPORTS_640x360_30.mp4",
+   "url": "https://www.youtube.com/watch?v=hxMsVbFr1Bc",
+   "platform": "youtube",
+   "video_id": "hxMsVbFr1Bc",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 4191,
+    "frame_rate": 29.97,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "9e150f82b096dd44b7407b649bd5aa4de5855b88e01928d5ad197723ef9b45f9",
+   "description_file": "youtube_hxMsVbFr1Bc_P!nk the border collie wins back-to-back titles at the 2019 WKC Masters Agility _ FOX SPORTS_640x360_30.description"
+  },
+  {
+   "file": "youtube_3kcCM5lZtFg_Canine_interruption_How_a_dog_brought_a_football_match_to_a_halt_640x360_30.mp4",
+   "url": "https://www.youtube.com/watch?v=3kcCM5lZtFg",
+   "platform": "youtube",
+   "video_id": "3kcCM5lZtFg",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unreachable",
+   "distribution": "archive",
+   "source_removed": true,
+   "media": {
+    "frame_count": 3903,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "0d9b196da9d46a295ed6e3396db2643164dd8ca635d6b361088dbfd366ca4fff",
+   "description_file": "youtube_3kcCM5lZtFg_Canine interruption - How a dog brought a football match to a halt_640x360_30.description"
+  },
+  {
+   "file": "youtube_YTgXTS8gLjU_How_to_Harvest_a_Stone_Crab_Claw_490x360_30.mp4",
+   "url": "https://www.youtube.com/watch?v=YTgXTS8gLjU",
+   "platform": "youtube",
+   "video_id": "YTgXTS8gLjU",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2380,
+    "frame_rate": 29.97002997002997,
+    "width": 490,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "8566b804cbfaa0dc1b81be65ca49527695bd1648d60fee7b5c5dd4cca0edcfc6",
+   "description_file": "youtube_YTgXTS8gLjU_How to Harvest a Stone Crab Claw_490x360_30.description"
+  },
+  {
+   "file": "vimeo_63342550_GreyMatters_Promo_Video_640x360_24.mp4",
+   "url": "https://vimeo.com/63342550",
+   "platform": "vimeo",
+   "video_id": "63342550",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY-NC-ND",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2132,
+    "frame_rate": 23.976,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "4d637ed1955f3e5c6252f02f82f870c33863ba50e31bf0cd00709fe04bb29e9a",
+   "description_file": "vimeo_63342550_GreyMatters Promo Video_640x360_24.description"
+  },
+  {
+   "file": "youtube_6ELB5GBQInA_Your_Memorial_Day_Weekend_Master_Plan_Is_Ruined_480x270_30.mp4",
+   "url": "https://www.youtube.com/watch?v=6ELB5GBQInA",
+   "platform": "youtube",
+   "video_id": "6ELB5GBQInA",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1273,
+    "frame_rate": 30,
+    "width": 480,
+    "height": 270,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "6a1276291a27438b6271afeb122da20808197584ea51c9337dc7fe7e6784454f",
+   "description_file": "youtube_6ELB5GBQInA_Your Memorial Day Weekend Master Plan Is Ruined_480x270_30.description"
+  },
+  {
+   "file": "youtube_o6OkcJt4vD4_Mr_Eazi_surprises_his_girlfriend_Temi_Otedola_720x720_30.mp4",
+   "url": "https://www.youtube.com/watch?v=o6OkcJt4vD4",
+   "platform": "youtube",
+   "video_id": "o6OkcJt4vD4",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2015,
+    "frame_rate": 30,
+    "width": 720,
+    "height": 720,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "1357678eb62a6e0ca0d8e3ace9ce38772a5e8269a2ed1c8397fa4123d955bd5d",
+   "description_file": "youtube_o6OkcJt4vD4_Mr Eazi surprises his girlfriend Temi Otedola_720x720_30.description"
+  },
+  {
+   "file": "youtube_hJF7tvq8Q5c_Chuck_Surprised_His_Girlfriend_With_an_Awesome_Christmas_Gift\u2026_From_3000_Miles_Away_RingTV_640x360_15.mp4",
+   "url": "https://www.youtube.com/watch?v=hJF7tvq8Q5c",
+   "platform": "youtube",
+   "video_id": "hJF7tvq8Q5c",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 763,
+    "frame_rate": 15,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "5597c949e3157396ebe153a9e0530b19de6e6bc3ba4639f6ff63dd6d3224d0c9",
+   "description_file": "youtube_hJF7tvq8Q5c_Chuck Surprised His Girlfriend With an Awesome Christmas Gift\u2026 From 3,000+ Miles Away _ RingTV_640x360_15.description"
+  },
+  {
+   "file": "vimeo_13105771_Getting_Ready_For_A_Windy_NYC_Street_in_The_Summer_640x360_23.mp4",
+   "url": "https://vimeo.com/13105771",
+   "platform": "vimeo",
+   "video_id": "13105771",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY-NC-ND",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2200,
+    "frame_rate": 23.976023976023978,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "6da1cc18f9b7f227b13541d48b85c13b4f3ee5987d1c696b8dc758d25999ce3d",
+   "description_file": "vimeo_13105771_Getting Ready For A Windy NYC Street in The Summer._640x360_23.description"
+  },
+  {
+   "file": "youtube_RlF6YPpqqMI_JESSICA_ALBA_Makeup_Tutorial_Fresh_Look_640x360_24.mp4",
+   "url": "https://www.youtube.com/watch?v=RlF6YPpqqMI",
+   "platform": "youtube",
+   "video_id": "RlF6YPpqqMI",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3469,
+    "frame_rate": 23.976023976023978,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "d33e16ee378c644d9b76376af33c0846863ffef8ad5710330bbb9e27ffc4f64f",
+   "description_file": "youtube_RlF6YPpqqMI_JESSICA ALBA - Makeup Tutorial! Fresh Look! #honestbeauty_640x360_24.description"
+  },
+  {
+   "file": "youtube_scagiLOg4rc_Beginner_Friendly_Valentines_Day_Eye_Makeup_Tutorial_640x360_30.mp4",
+   "url": "https://www.youtube.com/watch?v=scagiLOg4rc",
+   "platform": "youtube",
+   "video_id": "scagiLOg4rc",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 4528,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "0a34787f3108bb7f6835c77e0a5e3aa1edda04a3167d99b84179e4d79c7b3e76",
+   "description_file": "youtube_scagiLOg4rc_Beginner Friendly Valentine\u2019s Day Eye Makeup Tutorial_640x360_30.description"
+  },
+  {
+   "file": "youtube_pUDQmJgI2Z0_Bryony_Blakes_Contour_and_Highlight_Makeup_Tutorial_406x720_30.mp4",
+   "url": "https://www.youtube.com/watch?v=pUDQmJgI2Z0",
+   "platform": "youtube",
+   "video_id": "pUDQmJgI2Z0",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 4834,
+    "frame_rate": 30,
+    "width": 406,
+    "height": 720,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "431f38a4e50622ba90dc9c0449b5874badddd1673b650f7efc1766e634a22c77",
+   "description_file": "youtube_pUDQmJgI2Z0_Bryony Blake\u2019s Contour and Highlight Makeup Tutorial_406x720_30.description"
+  },
+  {
+   "file": "youtube_Jh3QIEB5p7s_Fashion_Week_Paris_2017_My_Paris_by_Rena_Sala_Full_Video_640x360_25.mp4",
+   "url": "https://www.youtube.com/watch?v=Jh3QIEB5p7s",
+   "platform": "youtube",
+   "video_id": "Jh3QIEB5p7s",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unreachable",
+   "distribution": "archive",
+   "source_removed": true,
+   "media": {
+    "frame_count": 2513,
+    "frame_rate": 25,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "90922cb1c24d851776f3c0e6ab7ec1172a8d9818949ba53c820a6e80cb684842",
+   "description_file": "youtube_Jh3QIEB5p7s_Fashion Week Paris 2017 _ My Paris by Rena Sala _ Full Video_640x360_25.description"
+  },
+  {
+   "file": "youtube_J8rkfeZnp0o_4_Ways_to_Wear_or_Tie_A_Button_Up_Shirt_640x360_24.mp4",
+   "url": "https://www.youtube.com/watch?v=J8rkfeZnp0o",
+   "platform": "youtube",
+   "video_id": "J8rkfeZnp0o",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 5426,
+    "frame_rate": 23.976023976023978,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "e813193eeacd41c191e59b9e1809294b809f46b7a1fea90b6eb171cfb71612af",
+   "description_file": "youtube_J8rkfeZnp0o_4 Ways to Wear or Tie A Button Up Shirt_640x360_24.description"
+  },
+  {
+   "file": "youtube_BAN68YnzVnY_The_Original_Stone_Cold_Challenge_568x320_30.mp4",
+   "url": "https://www.youtube.com/watch?v=BAN68YnzVnY",
+   "platform": "youtube",
+   "video_id": "BAN68YnzVnY",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1227,
+    "frame_rate": 29.97002997002997,
+    "width": 568,
+    "height": 320,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "c9095a3ef0f163c5fe3f63a59c8dc467cd1abed53c58e21092098a5914c2db0d",
+   "description_file": "youtube_BAN68YnzVnY_The Original Stone Cold Challenge_568x320_30.description"
+  },
+  {
+   "file": "youtube_M7FUb6S2AFQ_Marshmallow_goes_on_top_Engineer_Challenge_640x360_30.mp4",
+   "url": "https://www.youtube.com/watch?v=M7FUb6S2AFQ",
+   "platform": "youtube",
+   "video_id": "M7FUb6S2AFQ",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 4753,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "665d3ac56a234cbdf1b33baf775a54f88c72676e4781a37ac79e2ebf08c31870",
+   "description_file": "youtube_M7FUb6S2AFQ_Marshmallow goes on top! (Engineer Challenge)_640x360_30.description"
+  },
+  {
+   "file": "youtube_lIxSZW_TxZ0_Frozen_Elsa_Uses_Magical_Powers_to_Start_Fire_and_Melt_Snow_640x360_30.mp4",
+   "url": "https://www.youtube.com/watch?v=lIxSZW-TxZ0",
+   "platform": "youtube",
+   "video_id": "lIxSZW-TxZ0",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3049,
+    "frame_rate": 30,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "4d474bf780891bc7e929948785c6c8b4f7528fe4e6d5c283376daace03da53b0",
+   "description_file": "youtube_lIxSZW-TxZ0_Frozen Elsa Uses Magical Powers to Start Fire and Melt Snow_640x360_30.description"
+  },
+  {
+   "file": "youtube_3mQvqu34kQ_Fire_Fit_Fire_Fighter_Competition_Dorchester_Ontario_640x360_30.mp4",
+   "url": "https://www.youtube.com/watch?v=-3mQvqu34kQ",
+   "platform": "youtube",
+   "video_id": "-3mQvqu34kQ",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 4370,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "8750cb6ae9451ba219103ea0078cbd28329be713b43128d571e4eb08a4417fee",
+   "description_file": null
+  },
+  {
+   "file": "vimeo_77403805_One_Minute_Wonder_43_Erykah_Badu_640x360_24.mp4",
+   "url": "https://vimeo.com/77403805",
+   "platform": "vimeo",
+   "video_id": "77403805",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1442,
+    "frame_rate": 23.976023976023978,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "316169f097a34597c87f025a6fd4f0e4baf5eee80267db1f61db189ab2961bc3",
+   "description_file": "vimeo_77403805_One Minute Wonder 43 - Erykah Badu_640x360_24.description"
+  },
+  {
+   "file": "vimeo_289635758_HAY_Design_Talk_Silhouette_Sofa_by_GamFratesi_960x540_25.mp4",
+   "url": "https://vimeo.com/289635758",
+   "platform": "vimeo",
+   "video_id": "289635758",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2372,
+    "frame_rate": 25,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "f56421bf962a1375229795169b29ec12194f3dcd507c73db0c9acb1a2580b7a4",
+   "description_file": "vimeo_289635758_HAY Design Talk _ Silhouette Sofa by GamFratesi_960x540_25.description"
+  },
+  {
+   "file": "vimeo_155063627_The_Media_Collaboratory_Video_Editing_Services_Gimbal_in_Downtown_Lexington_960x540_30.mp4",
+   "url": "https://vimeo.com/155063627",
+   "platform": "vimeo",
+   "video_id": "155063627",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1802,
+    "frame_rate": 29.97002997002997,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "60a762ecc0ae24ae31ae1379b6a92d6dd34f24243d74232777cb11287ac4115d",
+   "description_file": "vimeo_155063627_The Media Collaboratory_Video Editing Services Gimbal in Downtown Lexington_960x540_30.description"
+  },
+  {
+   "file": "vimeo_96615251_Parade_Dancing_Shadow_Sculptures_640x360_24.mp4",
+   "url": "https://vimeo.com/96615251",
+   "platform": "vimeo",
+   "video_id": "96615251",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1928,
+    "frame_rate": 23.976023976023978,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "d8586f70989cc55de834c5d0cf70713a4f88a99b79d55c311429c697ec109a9d",
+   "description_file": "vimeo_96615251_Parade - Dancing Shadow Sculptures_640x360_24.description"
+  },
+  {
+   "file": "vimeo_60967280_The_Lake_450x360_30.mp4",
+   "url": "https://vimeo.com/60967280",
+   "platform": "vimeo",
+   "video_id": "60967280",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2829,
+    "frame_rate": 29.97,
+    "width": 450,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "2f1c96ccab89fee9c9d5867e81c3ff3c16313689964a03d619682897b549884b",
+   "description_file": "vimeo_60967280_The Lake_450x360_30.description"
+  },
+  {
+   "file": "vimeo_46265980_Awkward_640x360_29.mp4",
+   "url": "https://vimeo.com/46265980",
+   "platform": "vimeo",
+   "video_id": "46265980",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3596,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "53a825cd5f67637316a24661a2d498702b69cb5451f26b1b0b45819579b5d3be",
+   "description_file": "vimeo_46265980_Awkward_640x360_29.description"
+  },
+  {
+   "file": "vimeo_77569502_Aggressive_Silvers1_640x360_30.mp4",
+   "url": "https://vimeo.com/77569502",
+   "platform": "vimeo",
+   "video_id": "77569502",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2745,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "b08fdd95675ffbf3f7bf66da09199b160cf5449a8adccde033e269422e9eb3f0",
+   "description_file": "vimeo_77569502_Aggressive Silvers1_640x360_30.description"
+  },
+  {
+   "file": "vimeo_38951642_Bonus_Clip_640x360_23.mp4",
+   "url": "https://vimeo.com/38951642",
+   "platform": "vimeo",
+   "video_id": "38951642",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1657,
+    "frame_rate": 23.976023976023978,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "e34ec09c3e6deb3251e6df6dce5ef19000d73082d86b50da38b798ae80e6def0",
+   "description_file": "vimeo_38951642_Bonus Clip_640x360_23.description"
+  },
+  {
+   "file": "vimeo_214354668_A_brawl_in_Florida_960x540_29.mp4",
+   "url": "https://vimeo.com/214354668",
+   "platform": "vimeo",
+   "video_id": "214354668",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY-NC-ND",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3712,
+    "frame_rate": 29.97002997002997,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "ead073dd151764afe6d8bde915b71bdc88bc41370f21dbd86974596ef344df29",
+   "description_file": "vimeo_214354668_A brawl in Florida_960x540_29.description"
+  },
+  {
+   "file": "vimeo_154085751_FLOOD_SURFING_960x540_30.mp4",
+   "url": "https://vimeo.com/154085751",
+   "platform": "vimeo",
+   "video_id": "154085751",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "standard",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 4393,
+    "frame_rate": 29.97002997002997,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "6800ef79ed73d6dde4329c6730232f14fea95b79e55b442623fbe56e07475481",
+   "description_file": "vimeo_154085751_FLOOD SURFING_960x540_30.description"
+  },
+  {
+   "file": "vimeo_265934308_Surfing_over_Vercors_960x540_29.mp4",
+   "url": "https://vimeo.com/265934308",
+   "platform": "vimeo",
+   "video_id": "265934308",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "standard",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 5152,
+    "frame_rate": 29.97002997002997,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "f4aaa3f725d83eba08937c5729bf58e594e7ac3de4f63e97991a201a1988092a",
+   "description_file": "vimeo_265934308_Surfing over Vercors_960x540_29.description"
+  },
+  {
+   "file": "youtube_YnjyKgnXRho_Crazy_Woffinden_and_Zmarzlik_battle_in_Wroclaw_Heat_of_the_Weekend_FIM_Speedway_Grand_Prix_640x360_25.mp4",
+   "url": "https://www.youtube.com/watch?v=YnjyKgnXRho",
+   "platform": "youtube",
+   "video_id": "YnjyKgnXRho",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2782,
+    "frame_rate": 25,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "39f02015814f2acda6d64894390db2ab500d1b199e8fd6cddb4509dcf567e80d",
+   "description_file": "youtube_YnjyKgnXRho_Crazy Woffinden and Zmarzlik battle in Wroclaw!_ Heat of the Weekend _ FIM Speedway Grand Prix_640x360_25.description"
+  },
+  {
+   "file": "youtube_EaHZLUWwxfQ_Stone_Cold_Killer_wins_the_2012_Ear_Pulling_contest_with_ease_a_breakdown_640x360_30.mp4",
+   "url": "https://www.youtube.com/watch?v=EaHZLUWwxfQ",
+   "platform": "youtube",
+   "video_id": "EaHZLUWwxfQ",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 4101,
+    "frame_rate": 29.825454545454544,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "48ab3c7cbd98c8a1c9902e41d0241fb90a8cefb27a889254ec2b5aa5cc07d2c9",
+   "description_file": "youtube_EaHZLUWwxfQ_Stone Cold Killer wins the 2012 Ear Pulling contest with ease, a breakdown_640x360_30.description"
+  },
+  {
+   "file": "youtube_cnldysR07ic_David_Ortizs_incredible_reaction_to_Jackie_Bradley_Jrs_Grand_Slam_FOX_MLB_640x360_30.mp4",
+   "url": "https://www.youtube.com/watch?v=cnldysR07ic",
+   "platform": "youtube",
+   "video_id": "cnldysR07ic",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1651,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "bcbef2c4538efc7b6da551e60c99209a54a42108e7a3eca38cee89285c9bf0c8",
+   "description_file": "youtube_cnldysR07ic_David Ortiz's incredible reaction to Jackie Bradley Jr.'s Grand Slam _ FOX MLB_640x360_30.description"
+  },
+  {
+   "file": "youtube_X_ErHcOTa6w_Camper_A_C_units_chewed_off_by_hungry_11foot88_bridge_640x360_25.mp4",
+   "url": "https://www.youtube.com/watch?v=X-ErHcOTa6w",
+   "platform": "youtube",
+   "video_id": "X-ErHcOTa6w",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1480,
+    "frame_rate": 25,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "8edbe40ddf49f5c10c8a83b7b5fb56fc1f84ea62769e6c3aab90ee4e14c4f1dd",
+   "description_file": "youtube_X-ErHcOTa6w_Camper A_C units chewed off by hungry 11foot8+8 bridge_640x360_25.description"
+  },
+  {
+   "file": "youtube_adjnE99YVKs_Scatpack_Chargers_vs_Scatpack_Challengers_Which_is_faster_640x360_30.mp4",
+   "url": "https://www.youtube.com/watch?v=adjnE99YVKs",
+   "platform": "youtube",
+   "video_id": "adjnE99YVKs",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 6402,
+    "frame_rate": 30,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "e899244e4a205af9158b999545685acdfba7248cdde71578759e4014556f8aa4",
+   "description_file": "youtube_adjnE99YVKs_Scatpack Chargers vs Scatpack Challengers! Which is faster_640x360_30.description"
+  },
+  {
+   "file": "vimeo_164340153_DIY_Vietnamese_Iced_Coffee_960x540_30.mp4",
+   "url": "https://vimeo.com/164340153",
+   "platform": "vimeo",
+   "video_id": "164340153",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3558,
+    "frame_rate": 29.97002997002997,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "b1563e2a974f5bb933ed694a80b61f50d934f6835610c510c7b0b927819f02d3",
+   "description_file": "vimeo_164340153_DIY Vietnamese Iced Coffee_960x540_30.description"
+  },
+  {
+   "file": "vimeo_68264542_Berry_Smoothie_640x360_24.mp4",
+   "url": "https://vimeo.com/68264542",
+   "platform": "vimeo",
+   "video_id": "68264542",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1581,
+    "frame_rate": 24,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "ce1dde6566e3b44f35e34760ed13df5d3f204a019077accaf70776b3bed95019",
+   "description_file": "vimeo_68264542_Berry Smoothie_640x360_24.description"
+  },
+  {
+   "file": "vimeo_63918357_All_Grain_Brewing_How_Malt_is_Used_640x360_30.mp4",
+   "url": "https://vimeo.com/63918357",
+   "platform": "vimeo",
+   "video_id": "63918357",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3515,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "05b3104ec649c574d84fa748b70c9004161af70bce636507bfb9761f5b927e7b",
+   "description_file": "vimeo_63918357_All-Grain Brewing - How Malt is Used_640x360_30.description"
+  },
+  {
+   "file": "vimeo_27696155_Dumplings_640x360_29.mp4",
+   "url": "https://vimeo.com/27696155",
+   "platform": "vimeo",
+   "video_id": "27696155",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 4168,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "74bf9e5fe5a7a8ccb5661bf83eb2859b8e448be17d0020cda86d40a18aca2bd6",
+   "description_file": "vimeo_27696155_Dumplings_640x360_29.description"
+  },
+  {
+   "file": "vimeo_174420923_How_to_Make_Pasta_Carbonara_960x540_30.mp4",
+   "url": "https://vimeo.com/174420923",
+   "platform": "vimeo",
+   "video_id": "174420923",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3025,
+    "frame_rate": 30,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "297019ad4714bbaa1cad071d40d99f85867479c06e8ba0c9848b50b31acc980a",
+   "description_file": "vimeo_174420923_How to Make Pasta Carbonara_960x540_30.description"
+  },
+  {
+   "file": "youtube_WKxHcbmtZD0_How_to_Cook_a_Whole_Chicken_in_the_Instant_Pot_640x360_25.mp4",
+   "url": "https://www.youtube.com/watch?v=WKxHcbmtZD0",
+   "platform": "youtube",
+   "video_id": "WKxHcbmtZD0",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3731,
+    "frame_rate": 25,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "7ef6900ed3da006792566068a7e3c60eaede1b2383c6cd207a59d995b16abcc9",
+   "description_file": "youtube_WKxHcbmtZD0_How to Cook a Whole Chicken in the Instant Pot_640x360_25.description"
+  },
+  {
+   "file": "vimeo_29257861_Field_Report_29_Canoeing_on_the_Liepnitzsee_640x360_29.mp4",
+   "url": "https://vimeo.com/29257861",
+   "platform": "vimeo",
+   "video_id": "29257861",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 4917,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "2d81646316e9e8d73fd24dfc82f7e2120730148259d685676cfbfb80d47a60f3",
+   "description_file": "vimeo_29257861_Field Report 29 - Canoeing on the Liepnitzsee_640x360_29.description"
+  },
+  {
+   "file": "vimeo_6565434_MIDWAY_Birds_570x320_29.mp4",
+   "url": "https://vimeo.com/6565434",
+   "platform": "vimeo",
+   "video_id": "6565434",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3047,
+    "frame_rate": 29.97002997002997,
+    "width": 570,
+    "height": 320,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "19cbe08917e75152bba8228e09e7eab9d72d671e041c02b435ac4eaeeb52ba19",
+   "description_file": "vimeo_6565434_MIDWAY  - Birds_570x320_29.description"
+  },
+  {
+   "file": "vimeo_6554603_MIDWAY_Walk_on_the_Beach_570x320_30.mp4",
+   "url": "https://vimeo.com/6554603",
+   "platform": "vimeo",
+   "video_id": "6554603",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2586,
+    "frame_rate": 30,
+    "width": 570,
+    "height": 320,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "3c98757fe1ab86e6a0493a1bca0ca46add94eae6eb774ab5581b8301592154ce",
+   "description_file": "vimeo_6554603_MIDWAY - Walk on the Beach_570x320_30.description"
+  },
+  {
+   "file": "vimeo_411463782_De_Lievelinge_Vlog_Part_01_960x540_25.mp4",
+   "url": "https://vimeo.com/411463782",
+   "platform": "vimeo",
+   "video_id": "411463782",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2731,
+    "frame_rate": 25,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "7bbc1520699c2a15490cf6cfd885d0005105cabf00d271d6a331c4b26d4d1c16",
+   "description_file": "vimeo_411463782_De Lievelinge _ Vlog Part 01_960x540_25.description"
+  },
+  {
+   "file": "vimeo_419613831_Danny_Vera_pakt_uit_960x540_29.mp4",
+   "url": "https://vimeo.com/419613831",
+   "platform": "vimeo",
+   "video_id": "419613831",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "standard",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3124,
+    "frame_rate": 29.97002997002997,
+    "width": 960,
+    "height": 540,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "538077a5c88ada0f6aceab0e151e60146e228957122a8b61c0d8fd0359ab2828",
+   "description_file": "vimeo_419613831_Danny Vera pakt uit_960x540_29.description"
+  },
+  {
+   "file": "vimeo_89037708_Vote_for_Western_Market_in_the_Metro_Times_Best_Of_Detroit_Contest_for_Best_Wine_Selection_and_Best_Indie_Grocery_Store_640x360_24.mp4",
+   "url": "https://vimeo.com/89037708",
+   "platform": "vimeo",
+   "video_id": "89037708",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unresolved",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 988,
+    "frame_rate": 23.976023976023978,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "88f57d7d3521edc5e6bd0f09387aab931bf3b6df4bf97df117bd84362b5f1c42",
+   "description_file": "vimeo_89037708_Vote for Western Market in the Metro Times 'Best Of Detroit' Contest for Best Wine Selection and Best Indie Grocery Store_640x360_24.description"
+  },
+  {
+   "file": "vimeo_20390916_Filling_a_Klein_bottle_640x360_29.mp4",
+   "url": "https://vimeo.com/20390916",
+   "platform": "vimeo",
+   "video_id": "20390916",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY-NC-ND",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 4269,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "d22b86b1016f506a4ea90ff4f53a57b7fcae951186b509af0005d935c5b29127",
+   "description_file": "vimeo_20390916_Filling a Klein bottle_640x360_29.description"
+  },
+  {
+   "file": "youtube_ZerUbHmuY04_Causal_understanding_of_water_displacement_by_a_crow_640x360_30.mp4",
+   "url": "https://www.youtube.com/watch?v=ZerUbHmuY04",
+   "platform": "youtube",
+   "video_id": "ZerUbHmuY04",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 5911,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "e0f2110cf17c40dcc09025928130320c3bd33ec82022cfe03ef834aaf7848daa",
+   "description_file": "youtube_ZerUbHmuY04_Causal understanding of water displacement by a crow_640x360_30.description"
+  },
+  {
+   "file": "youtube_CHQOctEvtTY_Rotational_Inertia_The_Race_Between_a_Ring_and_a_Disc_480x360_30.mp4",
+   "url": "https://www.youtube.com/watch?v=CHQOctEvtTY",
+   "platform": "youtube",
+   "video_id": "CHQOctEvtTY",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 5732,
+    "frame_rate": 29.97002997002997,
+    "width": 480,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "de2853f3e10ffb77c6b9a438e0bf7089667816c456924fb057a1c34e1a3fe282",
+   "description_file": "youtube_CHQOctEvtTY_Rotational Inertia - The Race Between a Ring and a Disc_480x360_30.description"
+  },
+  {
+   "file": "youtube_vPpuB9tnrf8_Meet_the_BeBot_a_beach_cleaning_robot_640x360_24.mp4",
+   "url": "https://www.youtube.com/watch?v=vPpuB9tnrf8",
+   "platform": "youtube",
+   "video_id": "vPpuB9tnrf8",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 1416,
+    "frame_rate": 23.976023976023978,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "f96750df26b06d77fba4f2b657d3836b8c138bd5720bde2467579b08311dd4c7",
+   "description_file": "youtube_vPpuB9tnrf8_Meet the BeBot, a beach cleaning robot!_640x360_24.description"
+  },
+  {
+   "file": "youtube_OFb9v4hwVeM_HIMARS_A_Crew_Of_Three_Can_Provide_A_Capsule_Reload_Time_Of_No_More_Than_4_Minutes_640x360_30.mp4",
+   "url": "https://www.youtube.com/watch?v=OFb9v4hwVeM",
+   "platform": "youtube",
+   "video_id": "OFb9v4hwVeM",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "unreachable",
+   "distribution": "archive",
+   "source_removed": true,
+   "media": {
+    "frame_count": 2077,
+    "frame_rate": 30,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "2158b2afbddc1a307fc5adaa3ce007e4a7b3b2a3f6a1569a53abe9259191ea86",
+   "description_file": "youtube_OFb9v4hwVeM_HIMARS _ A Crew Of Three Can Provide A Capsule Reload Time Of No More Than 4 Minutes_640x360_30.description"
+  },
+  {
+   "file": "youtube_oqMN3y8k9So_Reaction_of_Potassium_and_Water_480x360_30.mp4",
+   "url": "https://www.youtube.com/watch?v=oqMN3y8k9So",
+   "platform": "youtube",
+   "video_id": "oqMN3y8k9So",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3288,
+    "frame_rate": 29.97002997002997,
+    "width": 480,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "cc3d406f1d712603bb203b853cb45052c4033994c014087095ec7294e20c0595",
+   "description_file": "youtube_oqMN3y8k9So_Reaction of Potassium and Water_480x360_30.description"
+  },
+  {
+   "file": "vimeo_128187513_RED_RUN_The_Abandoned_Ski_Village_640x360_25.mp4",
+   "url": "https://vimeo.com/128187513",
+   "platform": "vimeo",
+   "video_id": "128187513",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY-NC-ND",
+   "distribution": "link-only",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3213,
+    "frame_rate": 25,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "12d02906e94d3a0350db064661b8577c94109f99964b46a22f9059ae57714a62",
+   "description_file": "vimeo_128187513_RED RUN _ The Abandoned Ski Village_640x360_25.description"
+  },
+  {
+   "file": "youtube_vGCzqowM1go_Poverty_Compels_These_Kashmiri_Siblings_to_Quit_Studies_640x360_25.mp4",
+   "url": "https://www.youtube.com/watch?v=vGCzqowM1go",
+   "platform": "youtube",
+   "video_id": "vGCzqowM1go",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2681,
+    "frame_rate": 25,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "da9b879d101ff5b17f56022a13b722f9991a95c5a72742281ec0d9469e978c70",
+   "description_file": "youtube_vGCzqowM1go_Poverty Compels These Kashmiri Siblings to Quit Studies_640x360_25.description"
+  },
+  {
+   "file": "youtube_TuAUqgafeKo_Bagley_Couple_Gives_A_New_Life_To_Four_Siblings_640x360_30.mp4",
+   "url": "https://www.youtube.com/watch?v=TuAUqgafeKo",
+   "platform": "youtube",
+   "video_id": "TuAUqgafeKo",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 3632,
+    "frame_rate": 29.97002997002997,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "80c69e133a9c763e411b3ef40a4692ebb8b76b4d03c83507298b7d03a731b4dc",
+   "description_file": "youtube_TuAUqgafeKo_Bagley Couple Gives A New Life To Four Siblings_640x360_30.description"
+  },
+  {
+   "file": "youtube_DqSWzh6IvzQ_A_rousing_welcome_for_PM_Modi_in_Copenhagen_Denmark_640x360_25.mp4",
+   "url": "https://www.youtube.com/watch?v=DqSWzh6IvzQ",
+   "platform": "youtube",
+   "video_id": "DqSWzh6IvzQ",
+   "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
+   "source_removed": false,
+   "media": {
+    "frame_count": 2360,
+    "frame_rate": 25,
+    "width": 640,
+    "height": 360,
+    "mime_type": "video/mp4"
+   },
+   "sha256": "7ba01e5aa3cab6861889934fa269ef50dab9e1faea32e6bd9edc6d44bc9ffd3c",
+   "description_file": "youtube_DqSWzh6IvzQ_A rousing welcome for PM Modi in Copenhagen, Denmark_640x360_25.description"
+  }
+ ]
+}
