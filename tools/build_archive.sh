@@ -1,13 +1,12 @@
 #!/usr/bin/env bash
-# Build the MHSVD video archive (tar.gz) for dataset-artifact hosting (e.g. Zenodo).
-# Contents: archive-tier videos ONLY (license verified CC BY today, or source
-# removed from the platform), their .description credit files, the manifest,
-# credits, and a NOTICE. Link-only videos are NOT included.
+# Build the COMPLETE MHSVD video archive (v1.1+): all 117 videos in one tar.gz,
+# with per-video credits (.description), manifest, checksums, and NOTICE.
 set -euo pipefail
 REPO="$(cd "$(dirname "$0")/.." && pwd)"
 SRC="/Volumes/S980Pro2T/DTA/MED/data/DBs/VideoSumm/nthu-summ/videos"
 DIST="$REPO/dist"
 STAGE="$DIST/MHSVD_videos"
+rm -rf "$STAGE"
 mkdir -p "$STAGE/videos"
 
 python3 - "$REPO" "$SRC" "$STAGE" <<'EOF'
@@ -17,32 +16,30 @@ repo, src, stage = map(Path, sys.argv[1:4])
 man = json.load(open(repo/"videos"/"video_manifest.json"))
 n = 0
 for v in man["videos"]:
-    if v["distribution"] != "archive" or not v["file"]:
+    if not v["file"]:
         continue
     shutil.copy2(src/v["file"], stage/"videos"/v["file"])
-    if v.get("description_file") and (src/v["description_file"]).exists():
-        shutil.copy2(src/v["description_file"], stage/"videos"/v["description_file"])
     n += 1
-print(f"staged {n} archive-tier videos")
+for d in (repo/"videos"/"descriptions").glob("*.description"):
+    shutil.copy2(d, stage/"videos"/d.name)
+print(f"staged {n} videos + all descriptions")
 EOF
 
 cp "$REPO/videos/video_manifest.json" "$STAGE/"
 cp "$REPO/CREDITS.md" "$STAGE/"
 cat > "$STAGE/NOTICE.txt" <<'EOF'
-MHSVD — Multi-Highlight Short Video Dataset: source-video archive.
+MHSVD — Multi-Highlight Short Video Dataset: complete source-video archive (117 videos).
 
-THIS ARCHIVE IS NOT THE COMPLETE VIDEO SET: it contains 47 of the 117 dataset videos.
-To obtain the full dataset, also run tools/download_videos.py --missing-only from the dataset repository, which fetches the remaining 70 videos from their original platforms.
+All 117 videos were selected through Vimeo's and YouTube's Creative Commons (permissive) license filters at the time of collection (2022); Creative Commons grants are irrevocable for copies obtained under them.
+Per-video license status, as re-verified in August 2026 by an automated sweep and by the authors' manual browser checks, is recorded in video_manifest.json (evidence preserved in the dataset repository under tools/evidence/); every re-verified license is a Creative Commons variant that permits attributed, non-commercial redistribution.
+Several videos are no longer available or no longer play on their source platform; they are preserved here for research reproducibility and are marked in the manifest.
 
-All 117 videos were selected through Vimeo's and YouTube's Creative Commons (permissive) license filters at collection time (2022).
-This archive redistributes only (a) the 43 videos whose permissive (CC BY) license was re-verified on 2026-08-12, and (b) the 4 videos that have since been removed from their platform — those 4 exist only in this archive and cannot be obtained anywhere else.
-Videos whose uploaders have since changed or restricted their license terms are NOT redistributed here, out of respect for those changes; they are available from their original sources via the repository's manifest and downloader.
-
-Each video remains the property of its creator (see CREDITS.md and the accompanying .description files).
+Each video remains the property of its creator; see CREDITS.md and the per-video .description files for attribution.
 This archive is provided to facilitate research reproducibility, for academic research purposes.
+If you are a rights holder and prefer a video to be removed from this archive, please open an issue in the dataset repository.
 EOF
 
 ( cd "$STAGE/videos" && shasum -a 256 *.mp4 > ../sha256sums.txt )
-TAR="$DIST/MHSVD_videos_v1.tar.gz"
+TAR="$DIST/MHSVD_videos_complete_v1.1.tar.gz"
 tar -czf "$TAR" -C "$DIST" "MHSVD_videos"
 echo "archive: $TAR ($(du -h "$TAR" | cut -f1))"

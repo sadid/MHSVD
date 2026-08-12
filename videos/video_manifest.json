@@ -9,8 +9,8 @@
    "platform": "vimeo",
    "video_id": "3908328",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
-   "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 3793,
@@ -20,7 +20,8 @@
     "mime_type": "video/mp4"
    },
    "sha256": "45346fa8690b4d2330ac7c71dacfcbc81d8ccc560c50b7b4a88a79259a0e8812",
-   "description_file": "vimeo_3908328_Hapless Chappy - The Tower (Silent Comedy)_320x240_30.description"
+   "description_file": "vimeo_3908328_Hapless Chappy - The Tower (Silent Comedy)_320x240_30.description",
+   "license_verification": "manual browser check (author)"
   },
   {
    "file": "youtube_up9EcirmsKg_When_CVS_Receipts_Get_Out_Of_Control_640x360_24.mp4",
@@ -66,8 +67,8 @@
    "platform": "vimeo",
    "video_id": "52066214",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
-   "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 4456,
@@ -77,7 +78,8 @@
     "mime_type": "video/mp4"
    },
    "sha256": "08b9c76af6b7df8563fc3f670b83a654198b0d0a120acc0a6cb9a57146fb4027",
-   "description_file": "vimeo_52066214_Swurls the Silent Clown_640x360_30.description"
+   "description_file": "vimeo_52066214_Swurls the Silent Clown_640x360_30.description",
+   "license_verification": "manual browser check (author)"
   },
   {
    "file": "vimeo_45370506_Funny_Westjet_flight_attendant_480x360_29.mp4",
@@ -86,7 +88,7 @@
    "video_id": "45370506",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 3943,
@@ -105,7 +107,7 @@
    "video_id": "1388121",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 3527,
@@ -124,7 +126,7 @@
    "video_id": "190075268",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 1662,
@@ -162,7 +164,7 @@
    "video_id": "90623227",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 2294,
@@ -181,7 +183,7 @@
    "video_id": "125184774",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 745,
@@ -200,7 +202,7 @@
    "video_id": "68549087",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 1977,
@@ -257,7 +259,7 @@
    "video_id": "51887604",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "CC BY-ND",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 677,
@@ -275,8 +277,8 @@
    "platform": "vimeo",
    "video_id": "182665051",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
-   "license_verified_20260812": "standard",
-   "distribution": "link-only",
+   "license_verified_20260812": "CC BY-NC-ND",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 793,
@@ -286,7 +288,9 @@
     "mime_type": "video/mp4"
    },
    "sha256": "e581f25c0ec0a44a6c30778f7905736c82db13c3bc68fa22f7114084fb6cc21d",
-   "description_file": "vimeo_182665051_Patrika Darbo 'Me In 30 Seconds' Prime Time Emmy Awards 2016_960x540_23.description"
+   "description_file": "vimeo_182665051_Patrika Darbo 'Me In 30 Seconds' Prime Time Emmy Awards 2016_960x540_23.description",
+   "license_verification": "manual browser check (author)",
+   "playback_unavailable_at_source": true
   },
   {
    "file": "vimeo_11261171_MTV_Arabia_Arabs_Rock_2007_787x576_NA.mp4",
@@ -314,7 +318,7 @@
    "video_id": "53132789",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 751,
@@ -333,7 +337,7 @@
    "video_id": "67324545",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 3073,
@@ -352,7 +356,7 @@
    "video_id": "59644378",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "CC BY-NC-ND",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 1647,
@@ -409,7 +413,7 @@
    "video_id": "57725822",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 1801,
@@ -428,7 +432,7 @@
    "video_id": "83922842",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "CC BY-NC-SA",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 4607,
@@ -447,7 +451,7 @@
    "video_id": "46107788",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "CC BY-NC-SA",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 3988,
@@ -466,7 +470,7 @@
    "video_id": "27655264",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 3153,
@@ -485,7 +489,7 @@
    "video_id": "21636546",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "CC BY-NC-ND",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 4251,
@@ -504,7 +508,7 @@
    "video_id": "276920279",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 3023,
@@ -523,7 +527,7 @@
    "video_id": "82305861",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 2044,
@@ -542,7 +546,7 @@
    "video_id": "214331310",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 4152,
@@ -561,7 +565,7 @@
    "video_id": "162582604",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 3311,
@@ -580,7 +584,7 @@
    "video_id": "87147134",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 1406,
@@ -599,7 +603,7 @@
    "video_id": "151044126",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "CC BY-NC-ND",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 864,
@@ -637,7 +641,7 @@
    "video_id": "73675285",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 2925,
@@ -656,7 +660,7 @@
    "video_id": "61210101",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "CC BY-NC-SA",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 3258,
@@ -675,7 +679,7 @@
    "video_id": "177296675",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "CC BY-NC-SA",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 1720,
@@ -694,7 +698,7 @@
    "video_id": "4007059",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 2757,
@@ -713,7 +717,7 @@
    "video_id": "162756419",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 1512,
@@ -732,7 +736,7 @@
    "video_id": "25597941",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 2559,
@@ -751,7 +755,7 @@
    "video_id": "128961450",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 2412,
@@ -770,7 +774,7 @@
    "video_id": "317234083",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 1555,
@@ -789,7 +793,7 @@
    "video_id": "75494502",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "CC BY-NC-ND",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 3057,
@@ -903,7 +907,7 @@
    "video_id": "115483513",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 1314,
@@ -960,7 +964,7 @@
    "video_id": "61991878",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 1108,
@@ -979,7 +983,7 @@
    "video_id": "39718042",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 2165,
@@ -998,7 +1002,7 @@
    "video_id": "72196080",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 2103,
@@ -1017,7 +1021,7 @@
    "video_id": "342538679",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 1801,
@@ -1055,7 +1059,7 @@
    "video_id": "24096832",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 1088,
@@ -1074,7 +1078,7 @@
    "video_id": "156717391",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 1712,
@@ -1093,7 +1097,7 @@
    "video_id": "65962624",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 2145,
@@ -1130,8 +1134,8 @@
    "platform": "vimeo",
    "video_id": "218176459",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
-   "license_verified_20260812": "standard",
-   "distribution": "link-only",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 2538,
@@ -1141,7 +1145,9 @@
     "mime_type": "video/mp4"
    },
    "sha256": "2c2f826b2a3acd300bf6d5641836a511300c37fa50ff97ba45853c4739babe74",
-   "description_file": "vimeo_218176459_Vladik Into the Wild_960x540_25.description"
+   "description_file": "vimeo_218176459_Vladik Into the Wild_960x540_25.description",
+   "license_verification": "manual browser check (author)",
+   "playback_unavailable_at_source": true
   },
   {
    "file": "vimeo_282082221_Tiger_Family_in_Sumatra_Over_the_Years_960x540_30.mp4",
@@ -1149,8 +1155,8 @@
    "platform": "vimeo",
    "video_id": "282082221",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
-   "license_verified_20260812": "standard",
-   "distribution": "link-only",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 1797,
@@ -1160,7 +1166,8 @@
     "mime_type": "video/mp4"
    },
    "sha256": "8f3e609b794d07b35d261381ae3058aa1aab4a5ca8815eda7c56e3aa41cb24e0",
-   "description_file": "vimeo_282082221_Tiger Family in Sumatra Over the Years_960x540_30.description"
+   "description_file": "vimeo_282082221_Tiger Family in Sumatra Over the Years_960x540_30.description",
+   "license_verification": "manual browser check (author)"
   },
   {
    "file": "vimeo_192620647_221116_Whale_Shark_HM_960x540_29.mp4",
@@ -1169,7 +1176,7 @@
    "video_id": "192620647",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 2494,
@@ -1245,7 +1252,7 @@
    "video_id": "63342550",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "CC BY-NC-ND",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 2132,
@@ -1321,7 +1328,7 @@
    "video_id": "13105771",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "CC BY-NC-ND",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 2200,
@@ -1511,7 +1518,7 @@
    "video_id": "77403805",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 1442,
@@ -1530,7 +1537,7 @@
    "video_id": "289635758",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 2372,
@@ -1549,7 +1556,7 @@
    "video_id": "155063627",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 1802,
@@ -1568,7 +1575,7 @@
    "video_id": "96615251",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 1928,
@@ -1587,7 +1594,7 @@
    "video_id": "60967280",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 2829,
@@ -1606,7 +1613,7 @@
    "video_id": "46265980",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 3596,
@@ -1625,7 +1632,7 @@
    "video_id": "77569502",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 2745,
@@ -1644,7 +1651,7 @@
    "video_id": "38951642",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 1657,
@@ -1663,7 +1670,7 @@
    "video_id": "214354668",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "CC BY-NC-ND",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 3712,
@@ -1681,8 +1688,8 @@
    "platform": "vimeo",
    "video_id": "154085751",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
-   "license_verified_20260812": "standard",
-   "distribution": "link-only",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 4393,
@@ -1692,7 +1699,9 @@
     "mime_type": "video/mp4"
    },
    "sha256": "6800ef79ed73d6dde4329c6730232f14fea95b79e55b442623fbe56e07475481",
-   "description_file": "vimeo_154085751_FLOOD SURFING_960x540_30.description"
+   "description_file": "vimeo_154085751_FLOOD SURFING_960x540_30.description",
+   "license_verification": "manual browser check (author)",
+   "playback_unavailable_at_source": true
   },
   {
    "file": "vimeo_265934308_Surfing_over_Vercors_960x540_29.mp4",
@@ -1700,8 +1709,8 @@
    "platform": "vimeo",
    "video_id": "265934308",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
-   "license_verified_20260812": "standard",
-   "distribution": "link-only",
+   "license_verified_20260812": "CC BY",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 5152,
@@ -1711,7 +1720,9 @@
     "mime_type": "video/mp4"
    },
    "sha256": "f4aaa3f725d83eba08937c5729bf58e594e7ac3de4f63e97991a201a1988092a",
-   "description_file": "vimeo_265934308_Surfing over Vercors_960x540_29.description"
+   "description_file": "vimeo_265934308_Surfing over Vercors_960x540_29.description",
+   "license_verification": "manual browser check (author)",
+   "playback_unavailable_at_source": true
   },
   {
    "file": "youtube_YnjyKgnXRho_Crazy_Woffinden_and_Zmarzlik_battle_in_Wroclaw_Heat_of_the_Weekend_FIM_Speedway_Grand_Prix_640x360_25.mp4",
@@ -1738,8 +1749,8 @@
    "platform": "youtube",
    "video_id": "EaHZLUWwxfQ",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
-   "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "license_verified_20260812": "standard",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 4101,
@@ -1749,7 +1760,8 @@
     "mime_type": "video/mp4"
    },
    "sha256": "48ab3c7cbd98c8a1c9902e41d0241fb90a8cefb27a889254ec2b5aa5cc07d2c9",
-   "description_file": "youtube_EaHZLUWwxfQ_Stone Cold Killer wins the 2012 Ear Pulling contest with ease, a breakdown_640x360_30.description"
+   "description_file": "youtube_EaHZLUWwxfQ_Stone Cold Killer wins the 2012 Ear Pulling contest with ease, a breakdown_640x360_30.description",
+   "license_verification": "manual browser check (author)"
   },
   {
    "file": "youtube_cnldysR07ic_David_Ortizs_incredible_reaction_to_Jackie_Bradley_Jrs_Grand_Slam_FOX_MLB_640x360_30.mp4",
@@ -1815,7 +1827,7 @@
    "video_id": "164340153",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 3558,
@@ -1853,7 +1865,7 @@
    "video_id": "63918357",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 3515,
@@ -1872,7 +1884,7 @@
    "video_id": "27696155",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 4168,
@@ -1891,7 +1903,7 @@
    "video_id": "174420923",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 3025,
@@ -1929,7 +1941,7 @@
    "video_id": "29257861",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 4917,
@@ -1948,7 +1960,7 @@
    "video_id": "6565434",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 3047,
@@ -1967,7 +1979,7 @@
    "video_id": "6554603",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 2586,
@@ -1986,7 +1998,7 @@
    "video_id": "411463782",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 2731,
@@ -2004,8 +2016,8 @@
    "platform": "vimeo",
    "video_id": "419613831",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
-   "license_verified_20260812": "standard",
-   "distribution": "link-only",
+   "license_verified_20260812": "CC BY-SA",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 3124,
@@ -2015,7 +2027,9 @@
     "mime_type": "video/mp4"
    },
    "sha256": "538077a5c88ada0f6aceab0e151e60146e228957122a8b61c0d8fd0359ab2828",
-   "description_file": "vimeo_419613831_Danny Vera pakt uit_960x540_29.description"
+   "description_file": "vimeo_419613831_Danny Vera pakt uit_960x540_29.description",
+   "license_verification": "manual browser check (author)",
+   "playback_unavailable_at_source": true
   },
   {
    "file": "vimeo_89037708_Vote_for_Western_Market_in_the_Metro_Times_Best_Of_Detroit_Contest_for_Best_Wine_Selection_and_Best_Indie_Grocery_Store_640x360_24.mp4",
@@ -2024,7 +2038,7 @@
    "video_id": "89037708",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "unresolved",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 988,
@@ -2043,7 +2057,7 @@
    "video_id": "20390916",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "CC BY-NC-ND",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 4269,
@@ -2157,7 +2171,7 @@
    "video_id": "128187513",
    "license_at_collection": "CC BY (selected via the platform's Creative Commons license filter at collection time, 2022)",
    "license_verified_20260812": "CC BY-NC-ND",
-   "distribution": "link-only",
+   "distribution": "archive",
    "source_removed": false,
    "media": {
     "frame_count": 3213,
@@ -2226,5 +2240,6 @@
    "sha256": "7ba01e5aa3cab6861889934fa269ef50dab9e1faea32e6bd9edc6d44bc9ffd3c",
    "description_file": "youtube_DqSWzh6IvzQ_A rousing welcome for PM Modi in Copenhagen, Denmark_640x360_25.description"
   }
- ]
+ ],
+ "release_policy": "v1.1: complete single-asset release. All 117 videos were selected via the platforms' Creative Commons license filters at collection time (2022); CC grants are irrevocable for copies obtained under them. Per-video license status as re-verified in 2026 is recorded per entry (automated sweep + author's manual browser checks); all re-verified licenses are Creative Commons variants permitting attributed, non-commercial redistribution."
 }

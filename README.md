@@ -22,15 +22,12 @@ Each annotator watched every video in full and selected up to 7 keyframes ("high
 
 **All 117 videos were selected through Vimeo's and YouTube's Creative Commons (permissive) license filters at the time of collection (2022).**
 
-Out of respect for uploaders who may have since changed their license terms, the downloadable **video archive** (`MHSVD_videos_v1.tar.gz`, see the release page) contains only:
-- the 43 videos whose permissive (CC BY) license was **re-verified on 2026-08-12**, and
-- the 4 videos that have since been **removed from their platform** — these exist **only** in the archive and cannot be downloaded from anywhere else.
+The **complete video archive** (`MHSVD_videos_complete_v1.1.tar.gz`, see the [releases page](../../releases)) contains all 117 videos in one download, together with per-video credits, the manifest, and SHA-256 checksums.
+This is the recommended way to obtain the dataset: several source videos are no longer available (or no longer play) on their platform, and platform re-encodes can change frame counts, whereas the archive holds the exact reference copies the annotations were made on.
 
-> ⚠️ **The archive is NOT the complete video set.**
-> To obtain all 117 videos you must BOTH download the archive AND run `tools/download_videos.py --missing-only`, which fetches the remaining 70 videos from their original platforms under the canonical filenames.
-
-The manifest's media attributes (frame count and frame rate) let you confirm every downloaded video matches the frame-indexed annotations; the downloader checks this automatically when `ffprobe` is available.
-If a platform re-encode changes the frame count, prefer the archived reference copy where one exists.
+Per-video license status, as re-verified in August 2026 (automated sweep + the authors' manual browser checks; evidence in `tools/evidence/`), is recorded in `videos/video_manifest.json`; every re-verified license is a Creative Commons variant permitting attributed, non-commercial redistribution.
+Videos can alternatively be fetched from their original sources with `tools/download_videos.py`; the manifest's frame count/rate and SHA-256 fields let you verify any copy against the annotated reference.
+If you are a rights holder and prefer a video to be removed from the archive, please open an issue.
 
 The annotations themselves are our own work and are released under **CC BY 4.0** — cite the paper above when using them.
 

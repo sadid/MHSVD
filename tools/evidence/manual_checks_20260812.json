@@ -1,0 +1,14 @@
+{
+  "method": "manual browser inspection by the dataset author, 2026-08-12 (logged-out; Vimeo pages show the license field even where automated fetches received partial renders)",
+  "checks": [
+    {"url": "https://vimeo.com/182665051", "license": "by-nc-nd", "playback_unavailable": true, "note": "page shows 'This video isn't available'; License: Attribution Non-Commercial No Derivatives"},
+    {"url": "https://vimeo.com/218176459", "license": "by", "playback_unavailable": true, "note": "page shows 'This video isn't available'; License: Attribution"},
+    {"url": "https://vimeo.com/282082221", "license": "by", "playback_unavailable": false, "note": "plays; License: Attribution"},
+    {"url": "https://vimeo.com/154085751", "license": "by", "playback_unavailable": true, "note": "page shows 'This video isn't available'; License: Attribution"},
+    {"url": "https://vimeo.com/265934308", "license": "by", "playback_unavailable": true, "note": "page shows 'This video isn't available'; License: Attribution"},
+    {"url": "https://vimeo.com/419613831", "license": "by-sa", "playback_unavailable": true, "note": "page shows 'This video isn't available'; License: Attribution Share Alike"},
+    {"url": "https://www.youtube.com/watch?v=EaHZLUWwxfQ", "license": "standard", "playback_unavailable": false, "note": "plays; no CC row in the expanded description; presumed changed from CC BY since 2022 collection (covered by collection-time grant)"},
+    {"url": "https://vimeo.com/3908328", "license": "by", "playback_unavailable": false, "note": "spot-check of the script-unresolved group; plays; License: Attribution"},
+    {"url": "https://vimeo.com/52066214", "license": "by", "playback_unavailable": false, "note": "spot-check of the script-unresolved group; plays; CC license shown"}
+  ]
+}
