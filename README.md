@@ -35,7 +35,7 @@ The annotations themselves are our own work and are released under **CC BY 4.0**
 
 Each entry in `annotations/MHSVD_Annotator*.json`:
 
-- `data_row.video_file` — canonical video filename (join key with the manifest)
+- `data_row.video_file` — canonical video filename (join key with the manifest); this field was named `external_id` in the original Labelbox export
 - `media_attributes` — frame count, frame rate, width/height
 - `key_frame_feature_map` / `segments` — selected keyframes per annotation feature (frame indices), as exported from the annotation platform
 
