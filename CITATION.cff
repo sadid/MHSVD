@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use the MHSVD dataset, please cite the paper below."
+title: "MHSVD: Multi-Highlight Short Video Dataset"
+authors:
+  - family-names: Sahami
+    given-names: Sadid
+  - family-names: Cheung
+    given-names: Gene
+  - family-names: Lin
+    given-names: Chia-Wen
+preferred-citation:
+  type: article
+  title: "Graph Unfolding and Sampling for Transitory Video Keyframe Selection via Gershgorin Disc Alignment"
+  authors:
+    - family-names: Sahami
+      given-names: Sadid
+    - family-names: Cheung
+      given-names: Gene
+    - family-names: Lin
+      given-names: Chia-Wen
+  journal: "IEEE Transactions on Image Processing"
+  year: 2026
