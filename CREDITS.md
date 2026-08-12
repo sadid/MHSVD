@@ -1,8 +1,7 @@
 # MHSVD — Source Video Credits
 
 CC BY (selected via the platform's Creative Commons license filter at collection time, 2022).
-All videos remain the property of their respective creators; we gratefully
-acknowledge them for publishing under Creative Commons terms.
+All videos remain the property of their respective creators; we gratefully acknowledge them for publishing under Creative Commons terms.
 
 | # | Video | Creator/Channel | Source | License at collection | Verified 2026-08-12 |
 |---|-------|-----------------|--------|----------------------|---------------------|

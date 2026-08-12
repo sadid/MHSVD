@@ -22,11 +22,15 @@ Each annotator watched every video in full and selected up to 7 keyframes ("high
 
 **All 117 videos were selected through Vimeo's and YouTube's Creative Commons (permissive) license filters at the time of collection (2022).**
 
-Out of respect for uploaders who may have since changed their license terms, the downloadable **video archive** (`MHSVD_videos_v1.tar.gz`, hosted as a dataset artifact — see the release page) contains only:
-- the videos whose permissive (CC BY) license was **re-verified on 2026-08-12**, and
-- the videos that have since been **removed from their platform** (preserved for reproducibility, since their links no longer work).
+Out of respect for uploaders who may have since changed their license terms, the downloadable **video archive** (`MHSVD_videos_v1.tar.gz`, see the release page) contains only:
+- the 43 videos whose permissive (CC BY) license was **re-verified on 2026-08-12**, and
+- the 4 videos that have since been **removed from their platform** — these exist **only** in the archive and cannot be downloaded from anywhere else.
 
-Every remaining video can be fetched from its original source with `tools/download_videos.py`; the manifest's media attributes let you confirm the download matches the frame-indexed annotations. If a platform re-encode changes the frame count, prefer the archived reference copy.
+> ⚠️ **The archive is NOT the complete video set.**
+> To obtain all 117 videos you must BOTH download the archive AND run `tools/download_videos.py --missing-only`, which fetches the remaining 70 videos from their original platforms under the canonical filenames.
+
+The manifest's media attributes (frame count and frame rate) let you confirm every downloaded video matches the frame-indexed annotations; the downloader checks this automatically when `ffprobe` is available.
+If a platform re-encode changes the frame count, prefer the archived reference copy where one exists.
 
 The annotations themselves are our own work and are released under **CC BY 4.0** — cite the paper above when using them.
 
@@ -36,8 +40,7 @@ Each entry in `annotations/MHSVD_Annotator*.json`:
 
 - `data_row.video_file` — canonical video filename (join key with the manifest)
 - `media_attributes` — frame count, frame rate, width/height
-- `key_frame_feature_map` / `segments` — selected keyframes per annotation
-  feature (frame indices), as exported from the annotation platform
+- `key_frame_feature_map` / `segments` — selected keyframes per annotation feature (frame indices), as exported from the annotation platform
 
 `tools/` includes loading helpers used in the paper's evaluation pipeline.
 

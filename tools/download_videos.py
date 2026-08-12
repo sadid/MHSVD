@@ -44,6 +44,11 @@ def main():
     dest = Path(args.dest); dest.mkdir(parents=True, exist_ok=True)
 
     man = json.load(open(REPO / "videos" / "video_manifest.json"))
+    n_arch = sum(1 for v in man["videos"] if v["distribution"] == "archive")
+    n_dead = sum(1 for v in man["videos"] if v.get("source_removed"))
+    print(f"MHSVD has {len(man['videos'])} videos: {n_arch} ship in the release archive "
+          f"(incl. {n_dead} no longer online — archive-only), {len(man['videos']) - n_arch} must be downloaded from source.")
+    print("A complete dataset = release archive + this downloader with --missing-only.\n")
     todo = [v for v in man["videos"]
             if not (args.missing_only and v["distribution"] == "archive")]
     warn, fail = [], []
